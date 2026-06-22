@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<title>MBA 8205 — CAT 样题逐题精讲 (20 Questions Walkthrough)</title>
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/github-markdown-css@5/github-markdown-light.css">
+<style>
+  :root { color-scheme: light; }
+  html { scroll-behavior: smooth; }
+  body { margin: 0; background: #f6f8fa; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+  #toolbar { position: sticky; top: 0; z-index: 10; background: #fff; border-bottom: 1px solid #d0d7de; padding: 12px 24px; display: flex; align-items: center; gap: 16px; box-shadow: 0 1px 3px rgba(0,0,0,0.04); }
+  #toolbar h1 { font-size: 14px; margin: 0; color: #57606a; font-weight: 500; }
+  .badge { background: #ddf4ff; color: #0969da; padding: 2px 8px; border-radius: 10px; font-size: 12px; font-weight: 500; }
+  .markdown-body { box-sizing: border-box; max-width: 980px; margin: 20px auto; padding: 40px 56px; background: #fff; border: 1px solid #d0d7de; border-radius: 6px; }
+  @media (max-width: 767px) { .markdown-body { padding: 16px; margin: 0; border-radius: 0; border-left: none; border-right: none; } }
+  .markdown-body table { display: table; width: 100%; }
+  .markdown-body th { background: #f6f8fa; }
+  .markdown-body blockquote { border-left: 4px solid #0969da; }
+  .markdown-body h2, .markdown-body h3, .markdown-body h4 { scroll-margin-top: 64px; }
+  #content a.toc-link { color: #0969da; text-decoration: none; }
+  #content a.toc-link:hover { text-decoration: underline; }
+  #toc-toggle { margin-left: auto; cursor: pointer; padding: 4px 10px; background: #f6f8fa; border: 1px solid #d0d7de; border-radius: 6px; font-size: 12px; }
+  #toc { position: fixed; top: 60px; right: 20px; width: 300px; max-height: calc(100vh - 80px); overflow-y: auto; background: #fff; border: 1px solid #d0d7de; border-radius: 6px; padding: 16px; font-size: 13px; box-shadow: 0 4px 12px rgba(0,0,0,0.08); display: none; }
+  #toc.visible { display: block; }
+  #toc h3 { margin: 0 0 8px 0; font-size: 12px; color: #57606a; text-transform: uppercase; }
+  #toc ul { list-style: none; padding: 0; margin: 0; }
+  #toc li { margin: 4px 0; }
+  #toc a { color: #0969da; text-decoration: none; }
+  #toc a:hover { text-decoration: underline; }
+  #toc .lvl-2 { padding-left: 0; font-weight: 500; }
+  #toc .lvl-3 { padding-left: 12px; color: #57606a; }
+  #toc .lvl-4 { padding-left: 24px; color: #8c959f; font-size: 12px; }
+</style>
+</head>
+<body>
+<div id="toolbar">
+  <h1>MBA 8205 — CAT 样题逐题精讲 (20 Questions Walkthrough)</h1>
+  <span class="badge" id="status">Loading…</span>
+  <button id="toc-toggle">📑 目录</button>
+</div>
+<nav id="toc"><h3>Table of Contents</h3><ul id="toc-list"></ul></nav>
+<article id="content" class="markdown-body"></article>
+<script type="text/markdown" id="md-source">
+# MBA 8205 — CAT 样题逐题精讲 (20 Questions Walkthrough)
+
+> 配套：[CAT 学习材料 (Study Guide)](MBA8205_CAT_Study_Guide.html)
+> 来源：*Sample Questions and Answers — Revision Guide*（Sessions 1–4，每 session 5 题）
+>
+> **每道题都按这个 shape 作答**：**Diagnose（诊断）→ Trade-offs（权衡）→ Synthesise（跨 session 综合）→ Recommend（建议）→ Evaluate & Safeguard（评估设防）**
+>
+> *💡 浏览器读 `..._Walkthrough.html`，顶部目录 / 右上角 📑 可跳转。每题下"💎"= 满分答案的核心招式。*
+
+---
+
+## 📋 目录 (Table of Contents)
+
+| § | Session | 题目 |
+|---|---------|------|
+| 1 | **Managerial Decision Making** | Q1.1–Q1.5 |
+| 2 | **Overconfidence & Heuristics** | Q2.1–Q2.5 |
+| 3 | **Bounded Awareness** | Q3.1–Q3.5 |
+| 4 | **Framing, Preference Reversals & Mental Accounting** | Q4.1–Q4.5 |
+| 5 | **跨题通用结论 (Cross-Cutting Lessons)** | 高频考点总结 |
+
+---
+
+## 1. Session 1 — Managerial Decision Making
+
+### Q1.1 The 24-Hour Decision（System 1 vs System 2）
+- **情景**：物流公司 CEO，竞争对手 6pm 突降价；销售总监凭 20 年直觉要今晚跟进，CFO 要一周建模，董事长 9am 要答复。
+- **考点**：System 1 vs 2；理性 vs 行为模型｜**隐藏**：销售总监直觉里的过度自信、可得性/近因、信息的成本与价值、可逆性。
+- **💎 核心招式**：高风险 + 不可逆 + 新颖 + 时间压力 = **System 1 最不可靠、System 2 最有价值却最缺**。把销售总监的直觉当**假设**，做压缩版 System 2 检验。
+- **推荐**：今晚**不跟进**；给大客户"关系安抚"（非价格承诺）；开 2 小时结构化分析，生成 ≥3 选项（全面跟进/只对 3 大客户选择性跟进/不降价加非价值），跑 5 分钟 **pre-mortem**；9am 给"针对性选择方案"。
+- **设防**：按**过程**而非结果评判；分离生成与评估防锚定；指派反对者；设 tripwire；硬性 time-box 防分析瘫痪。
+
+### Q1.2 Is Rationality an Academic Fantasy?（创始人辩护）
+- **情景**：联合创始人称"连诺奖得主都违反理性选择，理性模型是学术幻想，应凭经验快速行动"。
+- **考点**：理性（规范）vs 行为（描述）模型；有限理性｜**隐藏**：normative-descriptive 之分、速度-质量权衡。
+- **💎 核心招式**：对方**混淆了模型的两种用途**。理性模型从来不是描述性的，而是**规范性的最优标杆**。*"拒绝指南针因为没人走完美直线。"*
+- **推荐**：两模型**互补** —— 用行为模型预测判断在哪失灵，用理性模型作纪律性流程**分层选择性应用**：可逆低风险→快而直觉（type-2 门）；不可逆高风险→轻量理性脚手架。
+- **设防**：把理性嵌入而不拖垮速度 —— 决策分层。
+
+### Q1.3 Punishing Intuition（HR 政策两难）
+- **情景**：是否该惩罚"过度依赖直觉"的员工。
+- **考点**：System 1/2；**有效直觉的条件（高效度+高反馈）**｜**隐藏**：**结果偏差**（凭两个坏结果就惩罚）、激励设计、专长。
+- **💎 核心招式**：不能一刀切惩罚直觉 —— **区分决策质量 vs 结果质量**。直觉在高效度/高反馈环境有效；该惩罚的是**坏流程**而非**坏运气**。
+- **推荐**：评判**流程**而非结果；在直觉有效的领域保留它，在低效度领域要求 System 2；用 pre-mortem/复盘培养判断而非惩罚。
+
+### Q1.4 Diagnosing a Failed Decision（解剖与模型）
+- **情景**：复盘一个失败的决策。
+- **考点**：**决策解剖六阶段**；决策质量 vs 结果质量；理性 vs 行为｜**隐藏**：复盘里的结果偏差、沉没成本预览。
+- **💎 核心招式**：失败可能源于**坏流程**或**坏运气** —— 别犯**结果偏差**（用坏结果倒推当初决策错）。沿解剖逐阶段查：问题定义对吗？选项够吗（≥3）？标准明确吗？信息全吗？
+- **推荐**：诊断哪一阶段断裂；区分可控的流程缺陷 vs 不可控的不确定性。
+
+### Q1.5 Designing the Decision Architecture（扩张中的初创）
+- **情景**：600 人 scale-up，创始人"凭直觉决定一切"已不适用，快但不一致、偶有灾难。
+- **考点**：System 1/2；理性 vs 行为；有限理性；**choice architecture**｜**隐藏**：过度自信、群体有限觉察、创始人依恋/升级、文化变革。
+- **💎 核心招式**：问题不是"直觉太多/分析太少"，而是 **undifferentiated（不分层）** —— 所有决策都用同一种快直觉处理。**有限理性意味着不能事事深思，艺术在于分配。**
+- **推荐架构**：① **决策分层**（可逆低风险→快/轻文档；不可逆高风险→结构化）② 高风险层用**一页决策备忘**（问题+标准+3 选项+外部视角/基率+风险+pre-mortem）③ 常设去偏规范（轮值 devil's advocate、先独立输入再群议、领导最后发言）④ 明确决策权 ⑤ 按过程评估 + 决策审计 + 心理安全。
+- **设防**：警惕官僚蔓延、大决策误判为小、"备忘录剧场"；保持轻量，季度复审。
+
+---
+
+## 2. Session 2 — Overconfidence & Heuristics
+
+### Q2.1 Hiring the Overconfident Leader（校准 vs 野心）
+- **情景**：选 CEO。A 校准精准、坦承不确定；B 更过度自信、大胆鼓舞、大赌多数（非全部）成功。公司要增长但**经不起一次灾难**。
+- **考点**：过度自信三型；校准｜**隐藏**：B 战绩里的**幸存者偏差 + 可得性**、代表性（"远见领袖"刻板印象）。
+- **💎 核心招式**：成本函数**不对称** —— **下行是致命的，上行只是有价值的** → 不对称应主导。B 的"多数成功"易受幸存者偏差（只看到鲜明的赢，看不到反事实的灾难）。
+- **推荐**：硬性生存约束下**倾向 A**，但主动**围绕她构建野心**（stretch goals、大胆副手）。若董事会坚持 B，只在**硬护栏**下任命（强势 CFO + 风险委员会、强制 pre-mortem + 参照类预测、分阶段承诺 + kill criteria、董事会要区间不要点估计）。
+- **设防**：直接测两人的校准（要置信区间、查"承认不确定"的记录）；探 B 的**失败**而非只看赢。"任命是系统设计，不是人格比赛。"
+
+### Q2.2 Engineering Dissent（确认与魔鬼代言人）
+- **情景**：保险公司 CEO 将投 $250M 进新市场，战略团队的 deck **一致全力支持**；是否该故意装 devil's advocate / red team。
+- **考点**：确认启发式/确认陷阱；结构化异议去偏｜**隐藏**：一致 deck 里的过度自信、群体思维、入市的赢家诅咒、制造冲突的伦理。
+- **💎 核心招式**：**一致本身就是危险信号** —— 不是好决策的证据，而是**未经检验**决策的证据，是确认陷阱的可见签名。
+- **伦理**：刻意找反证**不是操纵，而是核心受托责任**；真正不道德的是用股东的钱给一面之词盖章。它制造的是**任务冲突（有益）**而非关系冲突（有害）。
+- **推荐**：把决策设计成**竞赛而非演示** —— 正式 red team 建最强反对论证；要求战略团队陈述可证伪假设 + 它们找过的反证；pre-mortem；建模竞争对手反应 + walk-away 阈值；轮值、去人格化、time-box。
+
+### Q2.3 The Vivid Risk（危机后的可得性）
+- **情景**：银行 MD，对手刚遭网络攻击上头条，董事会要立刻把大笔预算转网络防御；但你的数据显示信用集中和安静的操作风险预期损失更高。
+- **考点**：可得性启发式；基率 vs 生动性｜**隐藏**：近因偏差、政治/职业压力、感知 vs 实际风险。
+- **💎 核心招式**：教科书级**可得性效应** —— 生动近期事件抬高了感知概率。危险是预算被**记忆驱动而非实质驱动**，过度加固头条风险而更大的安静风险欠资（后者正因不戏剧化而成为盲点）。
+- **推荐**：**按比例**增加网络支出（堵住对手暴露的真实缺口），但**不饿死更高排序的风险**；给董事会**完整的预期损失热力图**（联合评估），让网络风险**在全局中被判断**；明确保护安静的操作和信用风险预算。
+- **设防**：防自己的"逆势过度自信"——对手的攻击是真新信息，要更新而非反射性维持现状。
+
+### Q2.4 The Pattern That Fits（招聘与预测中的代表性）
+- **情景**：风投 CEO，合伙人想投"符合上个独角兽模式"的创始人，并把 3 个月爆发增长外推成十亿轨迹。
+- **考点**：代表性启发式；基率忽视；**样本量不敏感；回归均值**｜**隐藏**：刻板印象/多样性盲点、合取谬误、幸存者偏差。
+- **💎 核心招式**：两个代表性错误 —— ① 凭"符合模式"=按刻板印象判断，忽视基率（多数符合原型者仍失败）② 把 3 个月外推 = **样本量不敏感 + 回归均值盲区**（极端早期表现通常会回落）。
+- **推荐**：保留启发式作**假设生成器**，但用**外部视角检验**：① 明确基率/参照类检查 ② 对增长外推做**回归均值调整** + 扩大证据窗口 ③ 结构化、基于标准的评估，**刻意测试反面**、去原型偏差 ④ pre-mortem；按支票大小调整严格度。
+
+### Q2.5 The Confident Forecast（五年计划中的过度精确）
+- **情景**：CEO 向董事会呈现五年战略，规划团队给出**单一精确**的营收/利润/终值；一位非执行董事指出上轮同样精确的预测**错得离谱**。
+- **考点**：**过度精确**（区间太窄）；校准｜**隐藏**：控制幻觉、信念 vs 诚实的张力、战略韧性。
+- **💎 核心招式**：单一精确预测 = 过度精确的标志，**把深度不确定的未来当作已知**。上轮错得离谱是**误校准**的直接证据（非坏运气）。**精确被误当成准确**，而虚假精确**悄悄压制了应急规划**——这才是真正的危险。
+- **推荐**：**决断力应附着于战略与承诺，而非虚假的单一数字**。用**基准/上行/下行三情景**（各带假设 + 置信区间）替换点估计；找出 2–3 个摆动结果的变量；为各情景预承诺**真实期权**（分阶段投资、扩张/退出触发）；pre-mortem + 参照类检查。叙事保持决断，数字保持诚实。
+- **设防**：**奖励而非埋没**那位董事的反对声 —— 这是董事会保持校准的方式。
+
+---
+
+## 3. Session 3 — Bounded Awareness
+
+### Q3.1 The Awareness Audit（无意视盲与实用性）
+- **情景**：医疗器械公司全员冲产品上线 deadline；顾问警告这种专注致盲，提议每月强制"觉察审计"停工扫描威胁。
+- **考点**：无意视盲；**聚焦-视盲权衡**｜**隐藏**：目标致盲、警觉的机会成本、受监管行业的安全/伦理。
+- **💎 核心招式**：**使绩效成为可能的专注，正是致盲的原因**（看不见的大猩猩）。但无界警觉不可能且会瘫痪。有限觉察不可消除，只能**管理** —— 靠**注意力的分工 + 触发式扫描**，而非全员中断。
+- **推荐**：不搞全公司停工，而是 ① 设专职"**周边视野**"角色（监管/竞争/安全情报）② 在现有 stage-gate 嵌入轻量威胁扫描 ③ 装**硬性 tripwire**（定义的安全/监管信号自动触发复审）④ 保护异议（让初级工程师的安全疑虑能浮现）。
+- **设防（伦理）**：医疗器械里，已知的安全信号浮现机制是**义务而非奢侈**——不让 deadline 压倒它；觉察职能独立汇报（理想直达董事会安全层）。
+
+### Q3.2 Who Is Accountable for the Unknown Unknown?（系统性有限觉察）
+- **情景**：银行董事会，"无人预见"但警示信号其实在眼前的系统性冲击造成巨损；高管以"有限觉察让风险真的不可见"为辩。
+- **考点**：战略/系统性有限觉察；2008 式盲点｜**隐藏**：道德风险、问责 vs 后见之明偏差、可预见性的伦理。
+- **💎 核心招式**：**同时握住两个真相** —— 有限觉察是真实且不可避免的，但**为"设计系统去对抗它"而问责是正当的**。"风险对我们不可见"描述了失败，**并不免除它**；信号本可得 → 这是**觉察设计的失败，不是天灾**。
+- **推荐**：**按角色与流程分配问责** —— 董事会/高层为"是否建立了独立且被听取的系统性风险扫描职能"负责；专家为"在职责内升级信号"负责。重设治理：独立风险职能直达董事会、强制跨筒仓系统性风险复审、尾部风险 tripwire + 压力测试、受保护的异议渠道；激励挂钩长周期风险调整结果（降道德风险）。
+- **设防**：按**当时**可得的信息与流程评判（防后见之明膨胀"显而易见"）；防"治理剧场"（纸面风险职能）。"坐这把椅子的代价 = 为对抗自己已知的认知局限而设计。"
+
+### Q3.3 The Hidden Profile（董事会里的群体有限觉察）
+- **情景**：新任董事，发现董事会总是快速一致地收敛到资深 CEO 的偏好，独有的疑虑很少浮现；现在一桩大并购也是这动态。
+- **考点**：群体有限觉察；**共同信息偏差；隐藏档案**；群体思维｜**隐藏**：从众/权威压力、心理安全、董事会独立性。
+- **💎 核心招式**：经典群体有限觉察 —— **董事会作为整体比其个体成员更不觉察**，且正要把这有缺陷的流程用于**不可逆的并购**（赢家诅咒也潜伏）。
+- **推荐(流程)**：① **独立预读**（讨论前提交书面独立评估，防被 CEO/会场锚定）② 结构化轮次（每人必须说一个疑虑 + 一条未共享信息）③ 轮值 devil's advocate/red team ④ **CEO/主席最后发言**，理想由首席独立董事主持战略辩论 ⑤ 并购专项：独立估值 + walk-away 价 + 竞争对手反应/整合风险分析。
+- **推荐(我的行为)**：**不沉默** —— 会前**书面**提出具体疑虑（比口头更难忽视），框定为"检验决策"而非"反对 CEO"，联合其他独立董事；若流程无法改善且并购被无审查通过 → 升级并最终**记录我的异议**。
+
+### Q3.4 The Slow Erosion（变化视盲与战略漂移）
+- **情景**：新任 CEO，十年来每季度环比都"还行"，但利润率/质量/忠诚度悄悄侵蚀，低端对手向上蚕食。
+- **考点**：变化视盲；焦点主义｜**隐藏**：**normalisation of deviance（偏差正常化）**、基线漂移、温水煮蛙、信号 vs 噪音。
+- **💎 核心招式**：每季度都和**上一季度**比（**移动的基线**），增量下滑始终低于察觉阈值 = 温水煮蛙。焦点主义加剧：盯熟悉指标和老对手，低估低端进入者（战略有限觉察/经典颠覆）。
+- **推荐(检测)**：用**多年 + 业界最佳**重设基线（而非上季度）；建纵向仪表盘 + **绝对阈值 tripwire**；委托**由外而内**评审（客户/流失客户/低端对手轨迹）打破内部框架；pre-mortem。**(逆转)** 把进入者当**首要战略威胁**，明确决定防守/重定位/反击，分阶段 + 复审 gate。
+- **设防**：用统计区分**趋势 vs 方差**防过度反应；分阶段、可逆、带 kill criteria；防自己"新官上任"的近因过度自信。
+
+### Q3.5 The Winner's Curse（拍卖中的战略有限觉察）
+- **情景**：CEO 在竞争性拍卖中收购人人都想要的标的；团队建议激进出价因"我们能比谁都榨出更多协同"。
+- **考点**：战略有限觉察；**赢家诅咒**；perspective-taking｜**隐藏**：信息不对称（**卖方为何卖？**）、竞争对手理性、情绪升级（拍卖热）。
+- **💎 核心招式**：两个方向的盲：① 对**竞争对手** —— "我们最好所以会赢" = **overplacement**，人人都这么想，而赢家通常是**最高估价值的人**（赢家诅咒）② 对**卖方** —— 消息灵通的卖方愿在此价成交，本身就是"价格可能偏高"的信息。
+- **推荐**：① 独立**压力测试协同主张**（凭什么我们的协同真更大且不可模仿）② 从**对手视角**建模拍卖估清算价 ③ 设基于独立价值 + 仅可辩护的风险调整协同的**walk-away 价并预承诺** ④ 隔离升级（固定上限、决策者不卷入竞价情绪、明确 kill criteria）。**"宁可输掉拍卖，也不要赢得赢家诅咒。"**
+
+---
+
+## 4. Session 4 — Framing, Preference Reversals & Mental Accounting
+
+### Q4.1 Saving 200 Jobs or Cutting 50?（框架与领导伦理）
+- **情景**：CEO 宣布重组，两种**都真实**的框架："保住 200 个岗位"（收益）vs "裁掉 50 个"（损失）；收益框架更讨喜。
+- **考点**：框架效应；收益 vs 损失框架；前景理论｜**隐藏**：透明 vs 操纵、信任是重复博弈、利益相关者义务。
+- **💎 核心招式**：**没有无框架的方式**宣布这件事 → 问题不是"要不要框架"，而是"**如何框架、为何目的**"。**伦理界线不是收益 vs 损失，而是透明度与意图** —— 真实易懂、服务理解 = 正当；隐瞒重大事实、利用偏差绕过理性 = 操纵。
+- **推荐**：**两个框架都诚实用** —— 直面人的现实（公开承认裁 50 人 + 安置措施），同时真实框定目的（"这保住了 200 个岗位和公司未来"）。不用收益框架来回避点名裁员。
+- **设防（自检）**：*"如果受影响的员工看到我**如何选择**这个框架，我是否坦然？"* 是 → 领导；否 → 操纵。
+
+### Q4.2 House Money（心理账户与冒险的 CFO）
+- **情景**：CFO 用意外横财做高风险投资，理由"这是赌资 (house money)，输得起"；有些已大赚。
+- **考点**：心理账户；**赌资效应；可替代性 (fungibility)**；沉没成本｜**隐藏**：幸存者偏差（只看赢的赌注）、赢后过度自信。
+- **💎 核心招式**：明确的心理账户错误 —— 把横财当"不太真实的钱"违反**金钱可替代性**（横财的一先令 = 留存收益的一先令）。近期回报诱人但受幸存者/可得性偏差污染。**坏流程产生好结果不代表是好流程（决策质量 vs 结果质量）。**
+- **推荐**：**既不解雇也不空洞表扬** —— 针对**推理**而非结果：所有资本可替代，每笔投资须过**同样的向前看、风险调整的门槛**，无论来源。要更高风险偏好就**刻意设定**（董事会批准的创新配额 + 明确上限/标准/kill criteria），而非靠横财框架。
+- **设防（治理测试）**：*"如果这笔横财从未存在，这笔赌注凭其向前的merits 会被批准吗？"* 否 → 不应进行。也要防自己用幸运的赢来评判 CFO（结果偏差）。
+
+### Q4.3 The Burning Platform（损失框架与冒险）
+- **情景**：衰退公司 CEO，变革顾问力推"燃烧的平台"损失框架激发紧迫感 + 一个豪赌式转型；你注意到损失框架让高管越来越接受以前会拒绝的高风险方案。
+- **考点**：损失框架；前景理论（**损失域内冒险**）；损失厌恶｜**隐藏**：承诺升级、为翻本豪赌、伪确定性。
+- **💎 核心招式**：燃烧平台是损失框架，**不只制造紧迫感 —— 还让人变得冒险**（损失域里为避免确定损失而赌博）。这正是观察到的现象，也是衰退企业"为翻本豪赌"的机制 ——**本想救公司的框架可能把它更快推进鲁莽的豪赌而毁掉。**
+- **推荐**：要损失框架的**动员能量**，不要其**冒险病理** —— **分离情绪叙事（可紧迫）与选项的分析评估（须冷静、基于期望值）**。用**温和的损失框架**建紧迫（"现状不安全"）**立即配对能动+收益框架**（"这是通往更强未来的可信路径"），使参照点不是纯损失。把转型**分阶段**而非一次性押上全部；按风险调整期望值评估；pre-mortem + kill criteria + 保留期权。
+- **设防**：明确告诉团队"我们可能因框架而感到冒险"，把决策**重新锚定在数字上**。
+
+### Q4.4 Joint or Separate?（招聘与定价中的偏好反转）
+- **情景**：MD 两个决策 —— 招聘目前**逐个**单独面试打分（排名在并排比较时会翻转）；定价团队想**单独**评估产品而非对标竞品。
+- **考点**：**联合 vs 分离评估**；偏好反转；**可评估性 (evaluability)**；构建型偏好｜**隐藏**：客户实际如何评估（常分离）vs 公司该如何决策（常联合）。
+- **💎 核心招式**：评估模式在塑造决策。招聘**分离**打分使"难评估的真实能力"不可评估 → 过度看重易判但不相关的线索 → 排名在联合比较下翻转（偏好是**构建的**，非稳定）。**正确模式取决于目标，不是"联合永远更好"。**
+- **推荐(招聘)**：转**联合评估** —— 标准化记分卡、并排对同维度比较、让能力（非表面线索）可评估 → 提升质量/一致性/公平。**(定价)** 内部用**联合**对标竞品决策（睁眼定价）；但 go-to-market 要认识到**客户常分离评估** → 创造有利比较情境（锚点/参照产品）或确保产品单独评估也够强。
+- **元洞见**：**偏好由评估情境构建** —— 如何呈现和比较选项本身就是战略决策。
+
+### Q4.5 Pseudocertainty & the Sunk-Cost Trap（综合资本决策）
+- **情景**：主持委员会决定是否继续挣扎中的 $80M 项目。发起人："已投 $50M，供应商现提供 $30M 的'保证修复'。"但"保证"的条件由供应商控制，发起人明显锚定在收回原投资。
+- **考点**：**沉没成本；心理账户；伪确定性；框架/损失厌恶**（一题综合 4 概念）｜**隐藏**：向前看估值、确定性效应、kill criteria。
+- **💎 核心招式**：**三个偏差汇聚** —— ① $50M 是**沉没成本**（不可收回、与向前决策无关），发起人却锚定在"收回"（升级/损失厌恶 + "这个项目"的心理账户不能显示亏损）② 供应商"保证"是**伪确定性**（实为供应商控制里程碑的条件性，利用确定性效应让或然结果感觉安全）③ 整个案子**损失框架**推委员会"为翻本豪赌"。
+- **推荐**：**不批准按现状继续** —— ① 向前重设基线："**若一分钱没花过，我们会为这个预期结果和风险投 $30M 吗？**"② 把"保证"拆成真实条件 + 赋真实概率（把供应商控制的里程碑当风险）③ 多半**暂停 + 重谈**条款使保证真正无条件/风险共担 + 设 kill criteria ④ 若向前看、去沉没成本的分析不过门槛 → **终止**。默认倾向终止，除非向前看的论证独立地令人信服。
+- **设防**：成员讨论前**独立评估向前论证**（抵消发起人锚定 + 确认）；引入外部视角；**点名沉没成本和伪确定性陷阱使其可见**；**把发起人从 $50M 的责备中保护出来**以降低升级动机（把问责与"为损失辩护的冲动"分离）。
+
+---
+
+## 5. 跨题通用结论 (Cross-Cutting Lessons)
+
+> 这些主线**反复**出现在多道题里 —— 背熟它们，半数题目都能下笔。
+
+1. **过度自信无处不在** —— 几乎每题的"隐藏概念"。先点名 overprecision/estimation/placement 中的哪一种。
+2. **决策质量 ≠ 结果质量** —— 评判决策看**过程**；凭结果倒推 = **结果偏差**。(Q1.3, Q1.4, Q4.2)
+3. **沉没成本与向前看** —— 永远问"**若一分钱没花过，我现在会投吗？**"(Q4.5, S6 Rich-Con)
+4. **不对称风险 → 下行主导** —— "经不起一次灾难"时，下行的致命性压倒上行的诱惑。(Q2.1, Q3.5)
+5. **一致 = 危险信号** —— 缺异议不是好决策，是**未经检验**的决策。(Q2.2, Q3.3)
+6. **把直觉/启发式当假设，再用外部视角检验** —— 不消灭它，而是检验它。(Q1.1, Q2.4)
+7. **框架无法回避 → 伦理在透明与意图** —— 不是收益vs损失之分。(Q4.1, Q4.3)
+8. **结构化去偏 > 意志力** —— pre-mortem、devil's advocate、独立预读、red team、tripwire、kill criteria、walk-away 价。
+9. **可得性/代表性 → 回到基率** —— 用预期损失/参照类，而非生动个案或刻板印象。(Q2.3, Q2.4)
+10. **答题永远收尾在 Evaluate & Safeguard** —— 点出**你自己方案**的风险并设防，是高分的标志。
+
+---
+
+## 附录
+- [CAT 学习材料 (Study Guide)](MBA8205_CAT_Study_Guide.html)
+- 复习样题原始 PDF：[Sample Questions and Answers - Revision Guide.pdf](MBA8205%20-%20Sample%20Questions%20and%20Answers%20-%20Revision%20Guide.pdf)
+
+</script>
+<script>
+  const md = document.getElementById('md-source').textContent;
+  marked.setOptions({ gfm: true, breaks: false });
+  const article = document.getElementById('content');
+  article.innerHTML = marked.parse(md);
+  document.getElementById('status').textContent = 'Loaded · ' + md.length.toLocaleString() + ' chars';
+  const headings = article.querySelectorAll('h2, h3, h4');
+  const numToId = {};
+  let idCounter = 0;
+  headings.forEach(h => {
+    if (!h.id) h.id = 'h-' + (idCounter++);
+    const m = h.textContent.match(/^\s*([0-9]+(?:\.[0-9]+)?)/);
+    if (m && !(m[1] in numToId)) numToId[m[1]] = h.id;
+  });
+  const tocList = document.getElementById('toc-list');
+  headings.forEach(h => {
+    const li = document.createElement('li');
+    li.className = 'lvl-' + h.tagName[1];
+    const a = document.createElement('a');
+    a.href = '#' + h.id; a.textContent = h.textContent;
+    li.appendChild(a); tocList.appendChild(li);
+  });
+  const tocHeading = Array.from(article.querySelectorAll('h2')).find(h => h.textContent.includes('目录'));
+  if (tocHeading) {
+    let el = tocHeading.nextElementSibling;
+    while (el && el.tagName !== 'TABLE') el = el.nextElementSibling;
+    if (el) {
+      el.querySelectorAll('tbody tr').forEach(tr => {
+        const cells = tr.children;
+        if (cells.length < 2) return;
+        const num = cells[0].textContent.trim();
+        const id = numToId[num];
+        if (id) {
+          const a = document.createElement('a');
+          a.className = 'toc-link'; a.href = '#' + id; a.innerHTML = cells[1].innerHTML;
+          cells[1].innerHTML = ''; cells[1].appendChild(a);
+          const a2 = document.createElement('a');
+          a2.className = 'toc-link'; a2.href = '#' + id; a2.innerHTML = cells[0].innerHTML;
+          cells[0].innerHTML = ''; cells[0].appendChild(a2);
+        }
+      });
+    }
+  }
+  document.getElementById('toc-toggle').addEventListener('click', () => {
+    document.getElementById('toc').classList.toggle('visible');
+  });
+</script>
+</body>
+</html>

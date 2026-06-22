@@ -1,0 +1,441 @@
+# MBA 8205 — Decision Analysis · CAT 复习材料 (Study Guide)
+
+> **课程**：MBA 8205 — Decision Analysis, Negotiation & Bargaining（**Part I：Decision Analysis**）
+> **讲师 (Facilitator)**：Dr. Freddie Acosta, PhD
+> **主参考书**：**Bazerman, M. H. & Moore, D. A. (2013). _Judgment in Managerial Decision Making_, 8th ed. Wiley.**
+> **CAT 覆盖**：Sessions 1–7（样题指南重点在 **Sessions 1–4**）
+>
+> *💡 浏览器中读 `MBA8205_CAT_Study_Guide.html`，右上角 📑 目录 / 顶部目录表可跳转。*
+
+---
+
+## 📋 目录 (Table of Contents)
+
+> 图例：⭐ CAT 样题重点（S1–4）｜ 📐 定量计算 ｜ 📂 案例
+
+| § | 章节 | 标记 |
+|---|------|------|
+| 0 | CAT 概览 & 答题套路 (Exam Strategy) | ⭐ |
+| 1 | Managerial Decision Making（管理决策导论） | ⭐ |
+| 2 | Overconfidence & Heuristics（过度自信与启发式） | ⭐ |
+| 3 | Bounded Awareness（有限觉察） | ⭐ |
+| 4 | Framing, Preference Reversals & Mental Accounting（框架·偏好反转·心理账户） | ⭐ |
+| 5 | Motivational, Emotional & Ethical Influences（动机·情绪·伦理影响） | 📂 |
+| 6 | Escalation of Commitment & Investment Mistakes（承诺升级与投资失误） | 📂 |
+| 7 | Decisions Under Risk & Uncertainty + Debiasing（风险不确定性决策） | 📐 |
+| 8 | 关键术语速查 (Glossary) | |
+| 9 | 答题模板 & 自测清单 (Templates & Self-Check) | ⭐ |
+
+---
+
+## 0. CAT 概览 & 答题套路 (Exam Strategy)
+
+**考试形式**：情景题 —— 把你放在 CEO/高管的椅子上，有**不确定性 + 相互冲突的优先级 + 没有干净答案**。要求**同时**展示应用、分析、综合、判断、评估。
+
+### 🎯 答题黄金套路（每道大题都按这五步）
+> **Diagnose（诊断）→ Analyse trade-offs（权衡分析）→ Synthesise across sessions（跨 session 综合）→ Recommend（建议）→ Evaluate & Safeguard（评估并设防）**
+
+| 步骤 | 你要写什么 |
+|------|-----------|
+| **Diagnose** | 这是什么类型的决策？高/低风险？可逆/不可逆？新颖/常规？正在起作用的偏差是什么？ |
+| **Analyse trade-offs** | 各选项的代价与收益；不是"速度 vs 准确"，而是"在有限条件下能买到多少决策质量" |
+| **Synthesise** | 把多个 session 的概念串起来（如：System 1 + 过度自信 + 框架）|
+| **Recommend** | 给一个**具体、可执行**的方案（不是"视情况而定"）|
+| **Evaluate & Safeguard** | 用**过程**而非**结果**评判；列出去偏机制（pre-mortem、devil's advocate、tripwire）|
+
+> 💡 **高分关键**：① 用过程而非结果评判决策（decision quality ≠ outcome quality）② 主动暴露并设防自己的偏差 ③ 跨 session 综合。
+
+---
+
+## 1. Managerial Decision Making（管理决策导论） ⭐
+> 📖 Bazerman & Moore, **Ch. 1**
+
+### 1.1 System 1 vs System 2（双系统思维）
+| | **System 1（直觉）** | **System 2（分析）** |
+|--|---------------------|---------------------|
+| 速度 | 快、自动、无意识 | 慢、刻意、费力 |
+| 成本 | 几乎为零 | 认知成本高 |
+| 优点 | 高效、适合常规 | 准确、适合复杂 |
+| 缺点 | **系统性易错**（偏差源头） | 慢、累、可能"分析瘫痪" |
+| 何时可信 | **高效度 (high-validity) + 高反馈 (high-feedback)** 环境（如老练消防员、棋手） | 高风险、新颖、不可逆决策 |
+
+> 🔑 **核心命题**：不要教条地偏爱直觉或分析 —— 要**让思维模式匹配决策环境**（风险、新颖性、可逆性、反馈效度）。
+> 💡 实务：把 System 1 的直觉当作**假设 (hypothesis)**，再用压缩版 System 2 去**检验**它。
+
+### 1.2 Rational vs Behavioral Models（理性 vs 行为模型）
+| | **Rational Model（理性模型）** | **Behavioral Model（行为模型）** |
+|--|------------------------------|--------------------------------|
+| 性质 | **Normative（规范性）** — 应该怎么决策 | **Descriptive（描述性）** — 实际怎么决策 |
+| 假设 | 完全信息、稳定偏好、最优化 | 有限理性、满意决策、系统性偏差 |
+| 代表 | 经济学最优化 | Simon、Kahneman & Tversky |
+
+> 🔑 **考试金句**：理性模型在**描述上是错的**，但在**规范上不可或缺** —— 它是"最优的标杆"。
+> 比喻：*"拒绝理性模型因为它不现实，就像拒绝指南针因为没人能走完美直线。"*
+> 💡 两个模型是**互补**：用行为模型**预测**判断会在哪里失灵；用理性模型作为**纪律性流程**，在高风险处选择性地应用。
+
+### 1.3 决策的解剖 (Anatomy of Decisions)
+每个管理决策都含**五个基本要素**（老师 slide）：
+1. **The Decision-Maker（决策者）** — 偏差、经验、风险偏好、价值观（**最易变的部分**）
+2. **The Problem/Opportunity（问题/机会）** — 现状与期望的差距；无差距则无决策触发
+3. **Alternatives（备选项）** — **决策质量很少超过备选项的质量**（至少生成 3 个不同选项）
+4. **Criteria（标准）** — 选择规则（利润、速度、员工福利、合规）—— **常常是隐性的，要写下来**
+5. **Information（信息）** — 永远**不完整**
+
+**决策过程**：ANALYSIS → SYNTHESIS → EVALUATION → IMPLEMENTATION
+**批判性思维 (Critical Thinking)** = 在每一步施加纪律，避免偏差、错误与逻辑谬误。
+
+### 1.4 三大现实约束 (Constraints)
+- **Bounded Rationality（有限理性, Herbert Simon）** —— 无法穷尽所有选项/预测所有后果 → **Satisfice（满意决策，选"够好"）** 而非 optimize
+- **Risk vs Uncertainty** —— Risk = 概率**可知可算**；Uncertainty = 概率**不可知**（多数战略决策是深度不确定）
+- **Organizational Politics** —— 决策由**联盟**做出，谈判/权力/妥协取代纯分析
+
+### 1.5 解剖失效时 (When the Anatomy Breaks Down)
+- **Escalation of commitment（承诺升级）** —— 因沉没成本继续失败路线（→ S6）
+- **Groupthink（群体思维）** —— 压制异议以保和谐（→ S3）
+- **Confirmation bias（确认偏差）** —— 只找支持证据（→ S2）
+- **Analysis paralysis（分析瘫痪）** —— 过度设计选项却不决策
+- **Framing effects（框架效应）** —— 表述方式（收益/损失框架）彻底改变选择（→ S4）
+
+### 1.6 给管理者的实用框架（决策前自问）
+- 这是什么类型的决策？（程序化？战略？危机？）
+- 我定义的是**真问题**还是症状？
+- 我**主动生成**了哪些备选项？（≥3 个不同的）
+- 我的**隐性标准**是什么？（写下来）
+- 我因为难获取而**忽略**了哪些信息？
+- 谁会影响执行，他们想要什么？
+- **我的退出规则 (exit rule) 是什么？**
+
+### 📂 案例：The Gun Stand-Off
+> **问题**：Capt. Yoo 接到直接命令要 stand down（停止行动）。他**应该服从上级命令吗？**
+- 讨论角度：服从 vs 抗命的伦理与后果；System 1（战场直觉）vs System 2（依命令链）；不可逆性、信息不全。
+- 我的答案：
+
+### 💬 讨论题
+1. System 1 快但易错、System 2 慢但准 —— 组织**应该惩罚过度依赖直觉的员工吗？**
+   - 提示：不应一刀切惩罚直觉 → 区分**决策质量 vs 结果质量**（outcome bias）；直觉在高效度环境有价值；应**惩罚坏流程而非坏运气**。
+2. 既然连专家都违反理性原则，"理性模型"是否只是**没实用价值的学术幻想**？
+   - 提示：规范 vs 描述之分 —— 模型描述上错、规范上不可或缺；指南针比喻；分层应用（高风险才上理性脚手架）。
+
+---
+
+## 2. Overconfidence & Heuristics（过度自信与启发式） ⭐
+> 📖 Bazerman & Moore, **Ch. 2–3** ｜ "The Mother of All Biases"
+
+### 2.1 过度自信的三种形式 (Three Forms of Overconfidence)
+> **定义**：系统性地相信自己的判断/能力/知识比实际更准、更优。**不是傲慢 —— 谦逊的人也中招。**
+
+| 形式 | 定义 | 经典发现 | 业务场景 |
+|------|------|---------|---------|
+| **Overprecision（过度精确）** ⭐最常见最危险 | 相信自己的估计**比实际更精确** | 要求 90% 置信区间时，人们只对了 **40–60%** | PM 估"6 个月 90% 把握"上线 → 实际 11 个月 |
+| **Overestimation（过度高估）** | 高估自己的**实际能力/表现/控制力** | **93% 司机**自认驾驶高于平均 | CEO 认为并购整合会成功，无视 70–90% M&A 失败率 |
+| **Overplacement（过度自我定位）** | 认为自己**优于他人** | 94% 教授自认教学高于平均；87% MBA 自认伦理高于平均 | 采购经理自认"谈判高手"，拒用基准 → 把价值留在桌上还自以为赢 |
+
+> 💡 **去偏**：① Overprecision → 问"90% 区间"再把下行**翻三倍**、用**参照类预测/外部视角**；② Overestimation → **pre-mortem（事前验尸）** + 比对真实基率；③ Overplacement → 用外部数据**benchmark**。
+
+### 2.2 启发式 (Heuristics) —— 省时但系统性出错的捷径
+> **定义**：形成判断的简单经验法则；通常有用，但**以可预测的方式系统出错**。你无法消除启发式，只能**识别它何时在误导你**。
+
+| 启发式 | 定义 | 对应偏差 | 关键例子 |
+|--------|------|---------|---------|
+| **Availability（可得性）** | 容易想起的事 → 判为更可能 | 高估**戏剧性/近期/情绪鲜明**事件 | 空难后高估坐飞机风险；忽视基率 |
+| **Confirmation（确认）** | 只找/记**支持已有信念**的信息 | 确认偏差 —— 组织生活中**最普遍** | 只看支持自己方案的数据 |
+| **Affect（情感）** | 凭**情绪好恶**判断好坏，再事后合理化 | 喜欢某物 → 判其收益高、风险低（即使数据相反） | 喜欢核电/太阳能 → 扭曲风险收益判断 |
+| **Representativeness（代表性）** | 凭**与原型的相似度**判断概率，忽视基率 | **基率忽视、合取谬误、样本量不敏感** | Linda 问题 |
+
+> 🧩 **Linda 问题（合取谬误）**：Linda 31 岁、单身、直率、聪明，哲学专业，关心歧视与社会公正。"#1 银行出纳" vs "#2 银行出纳 + 女权积极分子"哪个更可能？
+> **答案 #1** —— #2 是 #1 的子集，**不可能更可能**；但 85% 的人选 #2，因为它更"代表"Linda。
+
+### 2.3 去偏策略 (Debiasing)
+- **Availability** → 强制回忆**基率**，写决策日志校准
+- **Confirmation** → 指派 **Devil's Advocate** / **Red Teaming**；提案前写下"它可能错的三个理由"
+- **Affect** → 先**匿名**评估风险收益再揭晓项目；问"我们喜欢它是因为它好，还是因为它感觉好？"
+- **Representativeness** → 永远先问"**基率是多少？**"；用清单强制考虑反向基率
+
+> 🪞 **Feynman 名言**：*"The first principle is that you must not fool yourself — and you are the easiest person to fool."*
+
+### 📂 案例：A Fall Before Rising — "如果你是 Jai…"（待补充课堂讨论）
+
+### 💬 讨论题
+1. 93% 司机自认高于平均 —— 若过度自信带来更高风险**也带来更大野心与创新**，组织是否该**雇用"适度过度自信"的领导**而非完美校准的？
+2. 确认启发式让管理者只找支持证据。CEO **故意安排 devil's advocates**（明知会拖慢决策、制造内部冲突），**道德吗？**
+
+---
+
+## 3. Bounded Awareness（有限觉察） ⭐
+> 📖 Bazerman & Moore, **Ch. 4**
+
+### 3.1 定义
+> **Bounded Awareness（有限觉察）** = 系统且可预测地**未能注意到本来可得的关键信息**。
+> 成因：认知极限（大脑处理量有限）· 启发式与偏差 · 情境因素（压力、时间、多任务）。
+
+### 3.2 三大现象
+| 现象 | 定义 | 经典/例子 |
+|------|------|----------|
+| **Inattentional Blindness（无意视盲）** | 专注于某事时，**对眼前的意外刺激视而不见** | **Invisible Gorilla（看不见的大猩猩）** |
+| **Change Blindness（变化视盲）** | 没注意到**环境中明显的变化**（渐变尤其危险） | 竞争对手悄悄转向新市场；客户偏好缓慢下滑 |
+| **Focalism / Focusing Illusion（焦点主义/聚焦幻觉）** | 过度聚焦某一事件，**太少关注同时发生的其他事** | 只盯季度盈利 → 忽视长期创新/员工发展 |
+
+**业务场景（视盲）**：招聘只看技术忽视文化契合；审计只查大额漏掉小额经常性舞弊；供应链只压运费忽视关键供应商延误；战略只顾短期营收错过颠覆性技术。
+
+### 3.3 群体与战略层面的有限觉察
+- **群体 (Groups)**：共同信息偏差、隐藏档案（hidden profiles）、群体思维
+- **战略 (Strategic)**：系统性风险盲点（**2008 金融危机** —— 专家盯着单笔房贷，看不见系统风险）
+
+### 3.4 如何克服 (Overcoming Bounded Awareness)
+- **Broaden focus（拓宽视野）** + 多元信息源
+- **Encourage dissent（鼓励异议）** + 心理安全
+- **Use checklists（清单）**
+- **Pre-mortems（事前验尸）** —— 想象项目已失败，倒推原因
+- **Devil's Advocate** / **Red Team vs Blue Team**
+- **Scenario Planning（情景规划）** —— 最好/最坏/最可能
+- **Rotate roles（轮岗）**、**Delegate（下放决策）**、**Seek external feedback（外部反馈）**、**Monitor external trends（监测外部趋势）**
+
+### 💬 讨论题
+1. 既然无意视盲让我们看不见眼前关键信息，组织是否该**强制定期"觉察审计 (awareness audits)"** —— 停下手头一切系统性扫描被忽视的威胁？这是**实用还是会瘫痪**？
+2. 2008 危机部分源于有限觉察。既然有限觉察**不可避免**，当灾难性的"未知的未知"发生时，**谁该负法律责任？**（提示：道德风险、问责 vs 后见之明偏差、治理设计）
+
+---
+
+## 4. Framing, Preference Reversals & Mental Accounting ⭐
+> 📖 Bazerman & Moore, **Ch. 5**
+
+### 4.1 框架效应 (Framing)
+> 理性选择假设：偏好**传递且稳定**（A>B 且 B>C → A>C）。
+> **框架违反**：问题如何描述（正/负）会改变选择 —— **即使客观概率完全相同**。
+
+🧩 **经典（Tversky & Kahneman, 亚洲疾病问题）**：
+- **正框架**："600 人中救活 200 人" → **风险规避 (risk averse)**
+- **负框架**："400 人会死" → **风险寻求 (risk seeking)**
+- 数学完全相同，偏好却反转。
+
+### 4.2 相关偏差
+| 偏差 | 定义 | 例子 |
+|------|------|------|
+| **Pseudocertainty（伪确定性）** | 把近乎确定（98%）当 100%；略低（95%）却视为高风险 | 选"100% 拿到 95% 目标"而非"98% 拿到 100% 目标" |
+| **Endowment Effect（禀赋效应）** | 拥有的东西估值高于同等未拥有的 | 马克杯：拥有者要价 $7，非拥有者只愿付 $3（理性应 ~$5）|
+| **Omission Bias（不作为偏差）** | 行动造成的伤害**比同等的不作为更糟**（Do No Harm） | 该裁 50 人换利润 +$1M，却选"什么都不做"保留现状 |
+| **Status Quo Bias（现状偏差）** | 仅因是默认就偏好现状 | 同上 |
+
+> 💡 损失厌恶 (Loss Aversion)：损失的痛 ≈ 同等收益之乐的 2 倍 → 损失框架触发冒险（呼应 S6 为翻本豪赌）。
+
+### 4.3 框架的陷阱与重构 (Reframing)
+- **沉迷复杂、忽视简单选项**：机场行李投诉 → 与其改造行李系统，不如…（装镜子让人少察觉等待）
+- **强加想象的约束/错误假设**："客户绝不会接受"、"技术上不可能"、Kodak"谁要即时照片？"
+- **Reframing = 找一个更好的问题来解决**（Wedell-Wedellsborg：*"创造性方案几乎总来自对问题的重新定义"*）
+- 🧩 **慢电梯问题**：租户抱怨电梯慢 → 多数人想换马达/加装电梯；**优雅解**：装**镜子** —— 人照镜子就忘了时间。
+
+### 4.4 心理账户 (Mental Accounting)
+> 把钱分进不同"心理账户"区别对待，**违反金钱的可替代性 (fungibility)**。
+- **House-Money Effect（赌资效应）**：用"赢来的钱"更敢冒险（"反正是白赚的"）
+- 街上捡的 $100 ≠ 工资赚的 $100（理性应等价）
+- 关联：**沉没成本谬误**（→ S6）
+
+### 📂 案例：Dawa na Mbolea Co.（待补充课堂讨论）
+
+### 💬 讨论题
+1. 同样结果，把裁员框架成"保住 200 个岗位"（收益框架）而非"裁掉 50 人"（损失框架）—— 这是**操纵还是有效领导**？伦理界线在哪？
+2. 若发现 CFO 用心理账户把"赌资"合理化高风险投资 —— 你会**解雇他还是赞赏其心理智慧？**
+
+---
+
+## 5. Motivational, Emotional & Ethical Influences 📂
+> 📖 Bazerman & Moore, **Ch. 6 & 8**
+
+### 5.1 核心概念
+- **Self-Serving Reasoning（自利推理）** —— 管理者**真诚地相信**对自己事业有利的也对组织有利（无意识的自我欺骗）
+- **Emotional Influences（情绪影响）** —— 情绪扭曲判断（呼应 Affect 启发式）
+- **Bounded Ethicality（有限伦理性）** —— **绝大多数不道德行为发生时并无故意作恶的意图**；是无意识的心理过程，与自己偏好的伦理不一致
+- **In-Group Favoritism（内群体偏袒）** —— 偏袒自己人胜过外群体
+- **Conflicts of Interest（利益冲突）** —— 决策被个人目标扭曲，忽视对他人的责任；研究表明人**无法简单地"无视"利益冲突**
+
+### 5.2 伦理框架
+| | **Deontology（义务论）** | **Utilitarian（功利主义）** |
+|--|------------------------|---------------------------|
+| 判断依据 | 行为是否**遵守规则/义务** | **最大多数人的最大善** |
+| 口号 | "不要撒谎"、"不要偷窃" | 加总成本收益，选净收益最大的 |
+
+🧩 **电车难题 (Trolley) vs 天桥难题 (Footbridge)**：扳道岔牺牲 1 救 5（多数人愿意）vs 亲手推人下桥救 5（多数人不愿）—— 结果相同，**直接动手 (deontology) vs 间接 (utilitarian)** 的道德直觉不同。
+
+### 5.3 公平感知 (Fairness)
+- **雪铲问题**：暴雪后把 $15 雪铲涨到 $20 → 多数人觉得**不公平**
+- **工资问题 A vs B**：通胀 0% 时降薪 7% → 62% 觉得不公；通胀 12% 时只涨 5%（实质降薪）→ 仅 22% 觉得不公 —— **同样实质损失，框架不同感知不同**
+- 高管间薪酬差距与公司绩效**负相关** —— 大差距损害协作
+
+### 📂 案例：Agrico, Inc. — Software Dilemma
+> **问题**：VP Burdelle **应该授权复制源代码 (copy the source code) 吗？为什么？**
+- 对比 Burdelle 与 AMR 的 Rogers 对情况的不同看法；利益冲突、有限伦理性、义务论 vs 功利。
+- 我的答案：
+
+### 💬 讨论题
+1. 自利推理让管理者真诚相信"利己即利组织"。这种**无意识自欺**是否比**公然撒谎**对伦理决策威胁更大？为什么？
+2. 利益冲突无处不在（审计师拿被审公司钱）。既然人无法"无视"冲突，**是否该全面立法禁止此类安排** —— 即使提高成本、降低效率？
+
+---
+
+## 6. Escalation of Commitment & Investment Mistakes 📂
+> 📖 Bazerman & Moore, **Ch. 7 & 9**
+> ⚠️ *注：你手上标"Session 6"的课件实为「数字化转型」(MBA 8103)，与本主题无关；本节核心是 **Rich-Con 案例** + 教材 Ch.7&9。*
+
+### 6.1 核心概念
+- **Unilateral Escalation Paradigm（单边升级范式）** —— **一个人**因沉没成本 + 自我辩护，对失败路线**加倍下注**
+- **Competitive Escalation Paradigm（竞争性升级范式）** —— **多方**竞争中相互升级（如**美元拍卖**：赢家和输家都要付钱 → 越陷越深）
+- **为何升级 (Why escalation occurs)**：
+  - **Sunk-cost fallacy（沉没成本谬误）** —— 已投入的不可收回，却影响决策
+  - **Self-justification（自我辩护）** —— 不愿承认当初错了
+  - **Loss framing**（损失框架下冒险，呼应 S4）+ 印象管理 + 过度自信
+- **Active Trading（频繁交易）** —— 主动交易者**持续跑输**被动指数基金（过度自信 + 过度交易）
+
+> 🔑 **如何区分"沉没成本谬误" vs "坚持不懈 (perseverance/commitment)"？**
+> 看**向前看的预期价值 (forward-looking expected value)**：若**从现在起**继续投入仍有正期望 → 是坚持；若只因"已经投了这么多" → 是沉没成本谬误。**已花的钱与未来决策无关**。
+
+### 📂 案例：Rich-Con Steel Company（Marty Sawyer）
+> **核心问题**：Sawyer **应该继续用新系统，还是该 pull the plug（果断止损）？**
+> **小组作业题（Group Assignment No.1）：**
+> 1. 1996 年 12 月上线前，Sawyer **本应掌握哪 3 个最关键信息**？为何关键？有何证据表明她缺这些信息？
+> 2. Sawyer 把 **75% 时间**花在 IT 实施上 → 制造了什么 trade-offs？指出**三个**因此受损的业务领域 + 因果链。
+> 3. 到 1997 年 1 月 Rich-Con 陷入混乱 —— 出了什么错？给出因果解释（涵盖：**软件本身 · 实施过程 · 涉及的人**），说明它们**如何相互作用**（别只列问题）。
+> 4. 若你是 1997 年 1 月受聘的顾问，你会**建议什么**？具体说明。再指出你**仍缺哪些**敲定建议前必需的信息。
+
+### 💬 讨论题
+1. 项目超支 $10M 且明显失败，但批准它的经理说"现在取消就浪费了已花的 $20M"。"沉没成本谬误"是否只是给商业上的"承诺与坚持"贴的学术标签？**怎么分辨？**（→ 用向前看的期望价值）
+2. 主动交易者持续跑输指数，却仍有数十亿日交易量。若多数专业人士知道自己会输给市场，**整个金融业是在维系集体幻觉，还是有数据捕捉不到的真实价值？**
+
+---
+
+## 7. Decisions Under Risk & Uncertainty + Debiasing 📐
+> 📖 Bazerman & Moore, **Ch. 10 & 12**
+
+### 7.1 决策树 (Decision Trees) — 用于风险决策
+- 用于**复杂多阶段**问题；理清结构、看清不同行动的可能场景
+- 符号：**Decision node（决策节点 ☐）· Chance node（机会节点 ○）**
+- **Rolling back（回滚/倒推）** —— 从右往左计算每个节点的期望值，选最优分支
+
+### 7.2 期望货币值 (EMV — Expected Monetary Value)
+> **EMV = Σ p·x**（p = 概率，x = 结果值）= 加权平均
+
+🧮 **例：展会选酒店**
+- Hotel A：高出席 60% → +$30k；低出席 40% → +$11k → **EMV = 0.6×30,000 + 0.4×11,000 = $22,400**
+- Hotel B：高 50% → +$60k；低 50% → −$10k → **EMV = $25,000**（回报更高，但**最冒险**）
+- 仅看 EMV 选 B；但要考虑**风险态度** → 用效用函数
+
+### 7.3 效用函数 (Utility Function) — 表达风险态度
+> 当不确定性是主要考量时用效用（确定性用价值函数）。选**最高期望效用**的行动。
+- 设 u($60,000)=1, u(−$10,000)=0。问"$30,000 确定 vs 抽奖"找**无差异点**：
+  - 85% 赢 $60k / 15% 输 $10k 时无差异 → **u($30,000) = 0.85×1 + 0.15×0 = 0.85**
+- 效用计算：
+  - Hotel A = 0.6×0.85 + 0.4×0.60 = **0.75**
+  - Hotel B = 0.5×1.0 + 0.5×0 = **0.50**
+  - **决策：选 Hotel A**（B 太冒险）→ 注意与 EMV 的结论**相反**！风险规避者重视效用而非纯 EMV。
+
+### 7.4 不确定性下的决策准则 (Decision Criteria under Uncertainty)
+> 用 **Payoff Table（收益表）**。当**概率未知**时用以下准则：
+
+| 准则 | 风险态度 | 规则 |
+|------|---------|------|
+| **Maximax** | **风险寻求** | 最大化**最好**的结果（best of the best）|
+| **Maximin** | **风险规避** | 最大化**最坏**的结果（best of the worst）|
+| **Minimax Regret** | 机会成本 | 看与最优结果的差距（regret），**最小化最大后悔值** |
+| **Expected Monetary Value (EMV)** | 概率已知时 | Σ p·x，选最大期望值 |
+
+🧮 **例：Maina 蔬果摊（Group Exercise 2）**
+- 进价 Ksh 3,000/箱，售价 Ksh 6,000/箱，未售残值 Ksh 300/箱（易腐，不可存）
+- 需求记录（150 天）：10 箱→45 天；20 箱→75 天；30 箱→30 天 → 概率 10:0.30, 20:0.50, 30:0.20
+- 要求：① 用 payoff table 算各进货量的净日利润 ② 分别用 EMV / Maximin·Maximax / Minimax Regret 建议进货量
+- **解法提示**：构建 3×3 收益表（进货 10/20/30 × 需求 10/20/30）；售出箱赚 3,000，未售箱亏 2,700（3000−300）；再分别套各准则。
+
+### 7.5 去偏策略 (Debiasing Strategies)
+- **Outside View / Outsider's View（外部视角）** —— 用参照类/基率，而非内部一厢情愿
+- **Nudging（助推）** —— 默认选项、选择架构，在不剥夺自由的前提下改善决策
+- **Analogical Reasoning（类比推理）** —— 借鉴相似情境的经验
+- 配套：决策分析工具、多目标决策法
+
+### 💬 讨论题
+1. 去偏策略（外部视角、决策分析工具）已被证明能提升判断，但忙碌的高管很少用。若你**强制**所有重大决策使用这些工具，**决策质量的提升能否抵消执行速度的显著下降？**
+2. 助推（默认选项、选择架构）能不剥夺自由地改善决策。但**谁来决定**朝哪个"更好的决策"助推？这是**尊重式的家长制还是隐蔽的自主操纵？**
+
+---
+
+## 8. 关键术语速查 (Glossary)
+
+| 术语 | 中文 | 一句话定义 |
+|------|------|-----------|
+| System 1 / System 2 | 直觉 / 分析系统 | 快而易错 / 慢而准确 |
+| Bounded Rationality | 有限理性 | 信息/认知/时间有限 → satisfice |
+| Satisficing | 满意决策 | 选"够好"而非最优 |
+| Decision vs Outcome Quality | 决策 vs 结果质量 | 好流程也可能坏结果；评决策看流程 |
+| Outcome Bias | 结果偏差 | 凭结果好坏评判当初的决策 |
+| Overprecision/estimation/placement | 过度精确/高估/自我定位 | 三种过度自信 |
+| Availability | 可得性启发式 | 易想起 → 判更可能 |
+| Representativeness | 代表性启发式 | 凭相似度判概率，忽视基率 |
+| Confirmation | 确认启发式 | 只找支持证据 |
+| Affect | 情感启发式 | 凭好恶判断 |
+| Conjunction Fallacy | 合取谬误 | "A且B"被判得比"A"更可能（Linda）|
+| Base-Rate Neglect | 基率忽视 | 忽略背景概率 |
+| Inattentional Blindness | 无意视盲 | 专注时看不见眼前意外（大猩猩）|
+| Change Blindness | 变化视盲 | 没注意明显变化 |
+| Focalism | 焦点主义 | 过度聚焦单一事件 |
+| Framing Effect | 框架效应 | 表述方式改变选择 |
+| Pseudocertainty | 伪确定性 | 把近乎确定当 100% |
+| Endowment Effect | 禀赋效应 | 拥有的估值更高 |
+| Mental Accounting | 心理账户 | 钱分账户区别对待 |
+| House-Money Effect | 赌资效应 | 用赢来的钱更敢冒险 |
+| Sunk-Cost Fallacy | 沉没成本谬误 | 已花的钱影响未来决策 |
+| Escalation of Commitment | 承诺升级 | 对失败路线加倍下注 |
+| Bounded Ethicality | 有限伦理性 | 无意中做出不道德行为 |
+| Self-Serving Bias | 自利偏差 | 真诚相信利己即利组织 |
+| EMV | 期望货币值 | Σ p·x 加权平均 |
+| Utility Function | 效用函数 | 表达风险态度 |
+| Maximax / Maximin / Minimax Regret | 决策准则 | 风险寻求 / 风险规避 / 最小化最大后悔 |
+| Pre-mortem | 事前验尸 | 假设已失败，倒推原因 |
+| Devil's Advocate / Red Team | 魔鬼代言人 / 红队 | 结构化异议去偏 |
+| Outside View | 外部视角 | 用基率/参照类而非内部直觉 |
+| Nudging | 助推 | 不剥夺自由地改善选择 |
+
+---
+
+## 9. 答题模板 & 自测清单 (Templates & Self-Check)
+
+### 📝 万能答题模板（套在任何情景题上）
+```
+1. DIAGNOSE（诊断）
+   - 决策类型：高/低风险？可逆/不可逆？新颖/常规？
+   - 正在起作用的偏差：（点名 2–3 个，如过度自信 + 可得性 + 框架）
+   - System 1 在这里可信吗？（环境效度/反馈如何）
+
+2. ANALYSE TRADE-OFFS（权衡）
+   - 选项 A 的代价/收益 … 选项 B … 选项 C（至少 3 个）
+   - 真正的变量是什么？（常不是"速度 vs 准确"）
+
+3. SYNTHESISE（跨 session 综合）
+   - 把 2–3 个概念串起来形成洞见
+
+4. RECOMMEND（具体建议）
+   - 一个可执行的方案 + 时间盒/触发条件
+
+5. EVALUATE & SAFEGUARD（评估并设防）
+   - 用过程而非结果评判
+   - 去偏机制：pre-mortem / devil's advocate / 分离生成与评估 / tripwire
+   - 我自己方案的风险是什么？怎么防？
+```
+
+### ✅ 自测清单（考前过一遍）
+- [ ] 能区分 System 1/2 并说出各自**何时可信**
+- [ ] 能解释"理性模型描述上错、规范上不可或缺"
+- [ ] 能默写决策解剖 5 要素 + 三大约束
+- [ ] 能区分过度自信三型 + 各自经典数据
+- [ ] 能说出 4 个启发式 + 对应偏差 + 一个例子
+- [ ] 能讲 Linda 问题 = 合取谬误
+- [ ] 能区分无意视盲 / 变化视盲 / 焦点主义
+- [ ] 能讲亚洲疾病问题（框架反转）
+- [ ] 能区分沉没成本谬误 vs 坚持（向前看期望值）
+- [ ] 能算 EMV，懂 Maximax/Maximin/Minimax Regret 的区别
+- [ ] 能解释为何效用函数可能给出与 EMV 相反的决策
+- [ ] 能背答题五步：Diagnose→Trade-offs→Synthesise→Recommend→Safeguard
+- [ ] 每个案例（Gun Stand-Off / Rich-Con / Agrico / Dawa na Mbolea）都有自己的立场和论据
+
+---
+
+## 附录 (Appendix)
+- 复习样题指南：[Sample Questions and Answers - Revision Guide.pdf](MBA8205%20-%20Sample%20Questions%20and%20Answers%20-%20Revision%20Guide.pdf)
+- 课程大纲：[Course Outline](MBA%208205%20Negotiation%20and%20Bargaining%20Course%20Outline.pdf)
+- 谈判部分笔记（Part II）：见 `MBA8105 Organization Behavior.../MBA8205 Decision-Making and Negotiation/`

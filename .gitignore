@@ -1,0 +1,33 @@
+# ── Whitelist approach ──────────────────────────────────────────
+# Ignore everything by default, then explicitly re-include only the
+# study-note files I generate. Keeps PDFs, other courses, binaries,
+# .DS_Store, .claude/, and temp files out of the repo.
+
+*
+
+# allow git to descend into all directories (contents still ignored)
+!*/
+
+# repo meta
+!.gitignore
+!README.md
+
+# generated study notes (matched at any depth → handles spaces in paths)
+!**/MBA8105_Notes.md
+!**/MBA8105_Notes.html
+!**/MBA8205_Notes.md
+!**/MBA8205_Notes.html
+!**/MBA8205_CAT_Study_Guide.md
+!**/MBA8205_CAT_Study_Guide.html
+!**/MBA8205_CAT_Sample_Questions_Walkthrough.md
+!**/MBA8205_CAT_Sample_Questions_Walkthrough.html
+!**/build.py
+
+# never include these even if matched above
+.DS_Store
+**/.DS_Store
+.claude/
+
+# exclude nested repo / other course
+mba8104-notes/
+mba8104-notes

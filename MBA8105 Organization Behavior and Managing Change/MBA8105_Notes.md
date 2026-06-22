@@ -1,0 +1,3661 @@
+# MBA 8105 — Organization Behavior and Managing Change
+
+> 课程笔记 / Course Notes
+> 学生：
+> 学期：
+> 讲师：
+>
+> *💡 在浏览器中阅读 `MBA8105_Notes.html`，点右上角 **📑 目录** 可跳转章节。*
+
+---
+
+## 📋 目录 (Table of Contents)
+
+> 图例：✅ 已填充课堂内容 ｜ ⬜ 模板待填
+
+| § | 章节 | 状态 |
+|---|------|------|
+| 0 | 课程概述 (Course Overview) | ✅ |
+| 1 | 组织行为学导论 (Introduction to OB) | ✅ |
+| **2** | **个体层面 (The Individual)** | |
+| 2.1 | 个性、EI 与多样性 (Personality, EI & Diversity) | ✅ |
+| 2.2 | 态度、知觉与决策 (Attitudes, Perception & Decision Making) | ✅ |
+| 2.3 | 动机理论 (Motivation) — *What is Motivation / Content / SDT / Process* | ✅ |
+| 2.4 | 情绪与态度 (Satisfaction · Commitment · Engagement) | ✅ |
+| 2.5 | 当代工作动态 (Contemporary Dynamics) | ✅ |
+| 2.6 | 工作的未来 — 重设动机架构 (Future of Work) | ✅ |
+| 3 | 团队层面 (Groups & Teams) | ✅ |
+| **4** | **领导力 (Leadership)** | |
+| 4.0 | 领导力的本质 (Nature of Leadership) + Opening Provocation | ✅ |
+| 4.1 | 经典理论 (Trait · Behavioural · Contingency) | ✅ |
+| 4.2 | 权力与影响 (French & Raven's Power Bases) | ✅ |
+| 4.3 | 现代理论 (Transformational · Servant · Authentic · LMX) | 🚧 进行中 |
+| 4.4 | 课堂讨论 (Discussion Notes) | 🚧 |
+| 5 | 管理、组织结构与文化 (Management, Structure & Culture) | ✅ |
+| 6 | 变革管理 (Managing Change) | ✅ |
+| 7 | 案例分析 (Case Studies) | ✅ |
+| 8 | 阅读笔记 (Readings) | 🚧 |
+| 9 | 关键术语速查 (Glossary) | ✅ |
+| 10 | 期末复习 (Exam Prep) | ✅ |
+
+---
+
+## 0. 课程概述 (Course Overview)
+
+- **课程定位 (Course Positioning):**
+  - 本课程把 **Organisational Behaviour (OB)**、**Managing Change** 和 **Strategic Foresight** 放在同一张图里理解。
+  - 课堂核心不是背理论，而是解释：人在组织中为什么这样想、这样感受、这样行动；组织如何在不确定环境中调整结构、文化、领导与管理方式。
+  - 老师的整合框架是 **Triple Helix of Survival**：
+    - **Behavioural Helix (OB)** - 理解人的认知、情绪、关系、文化与行为。
+    - **Adaptive Helix (Change Management)** - 设计和执行变革，让组织能移动。
+    - **Anticipatory Helix (Strategic Foresight)** - 提前感知弱信号，形成时间优势。
+
+- **课程目标 (Learning Objectives):**
+  - 解释 OB 的性质、范围与三种组织参考框架：unitarist、pluralist、radical。
+  - 从个体、团队、组织三个层面分析行为、绩效、冲突、领导与变革。
+  - 运用人格、情绪智力、动机、公平、冲突、权力、领导力、管理角色等框架诊断组织问题。
+  - 将理论应用到东非和新兴市场场景，尤其是 EABL / Senator Keg 案例。
+  - 形成管理者视角：在效率、效果、伦理、利益相关者和不确定性之间做判断。
+
+- **评估方式 (Assessment):**
+  - 课堂参与 (Participation): __%
+  - 个人作业 (Individual Assignment): __%
+  - 小组项目 (Group Project): __%
+  - 期末考试 (Final Exam): __%
+
+- **核心教材 (Core Texts):**
+  - Buchanan & Huczynski (2023), *Organizational Behaviour*, 11th ed.
+  - 课堂补充：Onyango, *Beyond the Void* (forthcoming) - Triple Helix, anticipatory organisation, STEEP-linked OB.
+  - 案例：Kanter & Bird (2009), *Diageo and East African Breweries Ltd.: Tapping New Markets for Social Good*.
+
+- **一页复习地图 (One-Page Course Map):**
+
+| 层面 | 关键问题 | 主要框架 |
+|------|----------|----------|
+| 个体 | 人为什么这样工作、反应、投入或抵抗？ | OCEAN, EI, Attitudes ABC, SDT, Pink AMP, Equity, Expectancy |
+| 团队 | 人在群体中如何协作、冲突与沟通？ | Tuckman, conflict views, inverted-U, Thomas-Kilmann, psychological safety |
+| 领导/管理 | 领导者和管理者实际做什么？ | Trait/behavioural/contingency, French & Raven, transformational leadership, POSDCORB, Mintzberg |
+| 组织 | 结构、文化和环境如何塑造行为？ | Morgan metaphors, Schein, Hofstede/GLOBE, mechanistic vs organic |
+| 变革 | 组织如何从现在移动到未来？ | Lewin, Kotter, ADKAR, 7S, resistance, anticipatory organisation |
+
+---
+
+## 1. 组织行为学导论 (Introduction to Organizational Behavior)
+
+### 1.1 关键概念 (Key Concepts)
+- **OB 的定义与范畴：**
+  - Buchanan & Huczynski: OB 是研究和理解组织中个体、群体行为与结构模式，以提升组织绩效和有效性。
+  - 关键句：**Behaviour is the unit of organisational performance.** 组织绩效不是抽象发生的，而是通过人的行为实现。
+- 三个分析层次 (Three Levels of Analysis)：
+  - 个体 (Individual)
+  - 团队 (Group)
+  - 组织 (Organization)
+- OB 的跨学科来源：
+  - Psychology - motivation, personality, perception
+  - Sociology - groups, structure, culture
+  - Economics - incentives, decision-making
+  - Anthropology - culture, symbols, rituals
+  - Political Science - power, conflict, authority
+  - Technology - AI, digital transformation, algorithmic management
+
+### 1.1.1 三种组织参考框架 (Frames of Reference)
+
+| 框架 | 核心假设 | 管理含义 | 风险 |
+|------|----------|----------|------|
+| **Unitarist** | 组织是一个拥有共同目标的团队 | 管理者强调一致性、忠诚、共同愿景 | 容易压制真实不满，制造 false harmony |
+| **Pluralist** | 组织是多利益群体联盟 | 冲突合法且不可避免，管理任务是谈判和平衡 | 决策可能慢，妥协成本高 |
+| **Radical** | 组织是结构性权力/阶级冲突场域 | 关注剥削、不平等和系统性变革 | 可能低估合作和共同利益空间 |
+
+> 考试用法：同一个事件可以用三种框架解释。例如员工抗拒变革：unitarist 会看成“不配合”；pluralist 会看成“利益未对齐”；radical 会看成“权力与资源分配不公”。
+
+### 1.1.2 工作取向 (Orientations to Work)
+
+| 取向 | 人为什么工作 | 管理回应 |
+|------|--------------|----------|
+| **Instrumental** | 工作是换取收入的手段 | 清晰薪酬、目标、交付物、即时反馈 |
+| **Bureaucratic** | 工作提供职业、身份、地位和归属 | 晋升、认可、职业发展、自主性 |
+| **Solidaristic** | 工作意义来自团队和群体归属 | 团队凝聚、集体认可、Ubuntu/共同体原则 |
+
+### 1.1.3 组织隐喻 (Gareth Morgan)
+
+| 隐喻 | 看组织像什么 | 管理关注 |
+|------|--------------|----------|
+| Machine | 机器 | 效率、流程、控制 |
+| Organism | 有机体 | 适应、生存、环境匹配 |
+| Brain | 大脑 | 学习、知识、智能、自组织 |
+| Culture | 文化 | 价值观、仪式、意义 |
+| Political System | 政治系统 | 权力、冲突、利益 |
+| Flux & Transformation | 流变系统 | 变化、反馈、悖论 |
+| Domination | 支配系统 | 剥削、异化、控制 |
+| Psychic Prison | 心理牢笼 | 认知陷阱、无意识模式 |
+
+### 1.2 课堂笔记 (Class Notes)
+
+- **Triple Helix of Survival：**
+  - OB 让组织不再“行为盲目”。
+  - Change Management 让组织不只是“看见问题”，还能移动。
+  - Strategic Foresight 让组织不是被动救火，而是提前感知和预行动。
+
+- **Anticipatory Organisation（三个动作）：**
+  - **Sensing** - 发现弱信号和早期扰动。
+  - **Adapting** - 调整结构、流程和行为，不破坏核心运营。
+  - **Pre-acting** - 基于概率性未来提前行动，而不是危机发生后才反应。
+
+- **Hot Spots Theory (Gratton)：**
+  - **Hot Spot** - 合作能量高，成员愿意投入 discretionary effort，跨边界创新。
+  - **Cold Spot** - 人只做最低要求，缺乏能量和风险承担。
+  - **Frozen Middle** - 中层或系统卡住，上下都动不了。
+
+- **STEEP-linked OB：环境信号都有行为后果。**
+
+| STEEP | 环境信号 | OB 含义 |
+|-------|----------|---------|
+| Social | 非洲年轻人口、Gen Z 权威观变化 | 多代际团队、反向导师制、权威张力 |
+| Technological | 生成式 AI、算法管理 | 身份威胁、自主性悖论、监控压力 |
+| Economic | 通胀、汇率、资源稀缺 | 稀缺心态、认知带宽税、工具性工作取向 |
+| Environmental | 气候风险、ESG、工作空间变化 | 使命感、生态焦虑、混合团队 |
+| Political | 监管不确定、选举、制度空缺 | 权力行为、信任赤字、政治技能 |
+
+- **Peter Principle & Parkinson's Law：**
+  - Peter Principle：人在层级中常因当前岗位表现好而晋升，最后升到自己不胜任的位置。解决：技术/管理双通道，晋升前定义新角色能力。
+  - Parkinson's Law：工作会膨胀到填满可用时间。解决：明确优先级、压缩审批、用结果而非忙碌衡量管理。
+
+### 1.3 关键问题 (Key Questions)
+
+- OB 为什么不是 “soft”？为什么它是绩效的基础？
+- 你的组织更像 machine、culture、political system，还是 psychic prison？这个隐喻带来什么管理后果？
+- 面对同一场冲突，unitarist、pluralist、radical 三种框架会给出什么不同解释？
+- 组织如何把 STEEP 信号翻译成人的行为、动机、冲突和变革风险？
+- 什么是 temporal advantage？为什么在 2030s 的组织竞争中重要？
+
+---
+
+## 2. 个体层面 (The Individual)
+
+### 2.1 个性、情绪智力与多样性 (Personality, EI & Diversity)
+
+#### A. Personality 是什么？
+
+> Personality = 以稳定、独特的方式影响个体行为模式的心理特质。
+
+三类理解路径：
+- **Psychodynamic** - Freud: id, ego, superego；强调无意识驱力和防御机制。
+- **Trait Approach** - 稳定特质能跨情境预测行为；代表：Cattell, Eysenck, Big Five。
+- **Social-Cognitive** - Bandura: 行为由环境、认知和自我效能共同塑造。
+
+#### B. Big Five / OCEAN
+
+| 维度 | 高分表现 | 低分表现 | 工作含义 |
+|------|----------|----------|----------|
+| **O - Openness** | 创造、好奇、艺术性、愿意尝试 | 传统、务实、偏稳定 | 创新、战略、变革适应 |
+| **C - Conscientiousness** | 有组织、自律、可靠 | 灵活、随性 | 最稳定预测任务绩效 |
+| **E - Extraversion** | 外向、活跃、善社交 | 内向、反思 | 领导涌现、销售、团队互动 |
+| **A - Agreeableness** | 合作、同理、友善 | 竞争、直接 | 团队和谐、服务角色 |
+| **N - Neuroticism** | 情绪反应强、压力敏感 | 冷静、稳定、有韧性 | 压力管理、缺勤、EI |
+
+> 课堂重点：Conscientiousness 是跨岗位最稳定的绩效预测因子；Extraversion 对领导涌现和销售/社交型岗位更重要。
+
+#### C. Emotional Intelligence (EI)
+
+**Goleman mixed model：**
+- **Self-awareness** - 识别自己的情绪及其影响。
+- **Self-regulation** - 管理破坏性情绪，保持控制。
+- **Motivation** - 成就驱动、韧性、乐观。
+- **Empathy** - 理解他人的情绪状态。
+- **Social skills** - 建立关系、影响他人、协作。
+
+**Mayer-Salovey-Caruso ability model：**
+1. Perceiving emotions - 准确识别表情、声音、艺术中的情绪。
+2. Using emotions - 利用情绪促进思考。
+3. Understanding emotions - 理解情绪词汇、变化与组合。
+4. Managing emotions - 调节自己和他人的情绪以促进成长。
+
+| 比较 | Goleman | Mayer-Salovey-Caruso |
+|------|---------|----------------------|
+| 类型 | Mixed model | Ability model |
+| 测量 | 问卷/360 度较多 | MSCEIT 等表现测试 |
+| 焦点 | 特质 + 能力 + 领导胜任力 | 情绪处理的认知能力 |
+| 风险 | 容易和人格/受欢迎程度混淆 | 更窄，但研究效度更清楚 |
+
+**EI 与领导风格 (Primal Leadership)：**
+- Visionary - 需要 empathy, self-confidence, change catalyst；适合需要方向时。
+- Coaching - 发展他人、长期能力建设。
+- Affiliative - 修复关系、建立和谐。
+- Democratic - 建立共识和 buy-in。
+- Pacesetting - 只适合高绩效团队，慎用。
+- Commanding - 只适合危机，最少使用。
+
+#### D. Psychometrics, Diversity & Neurodiversity
+
+**心理测评的价值：**
+- 类型：认知能力测试、人格量表、EI 测量、SJT、Assessment Centre。
+- 好测评必须具备：validity, reliability, standardisation, predictive validity, incremental validity。
+- 伦理要求：避免 adverse impact；提供解释和反馈；保护隐私；由受训人员使用；不能把单一测试当作 silver bullet。
+
+**多样性：**
+- Surface-level diversity：种族、性别、年龄、身体能力、外貌等可见差异。
+- Deep-level diversity：价值观、人格、工作风格、沟通方式等深层差异。
+- 管理含义：多样性不是自动带来绩效，需要 inclusion、psychological safety 和公平制度把差异转化为创新。
+
+**Neurodiversity：**
+- 神经多样性强调认知功能的自然差异，不把差异简单看成缺陷。
+- Autism spectrum：模式识别、细节、系统思维，适合数据、工程、研究、质量。
+- ADHD：超聚焦、创造力、风险承受、创业能量，适合创业、创意、销售、战略。
+- Dyslexia：大局思维、空间推理、叙事力、问题解决，适合设计、领导、法律、创业。
+
+> 与心理安全连接：只有当人能安全学习、贡献、挑战和做自己时，多样性才会变成绩效资产。
+
+### 2.2 态度、知觉与决策 (Attitudes, Perception & Decision Making)
+
+#### A. 态度 ABC 模型
+
+| 元素 | 含义 | 例子 |
+|------|------|------|
+| **Affective** | 情感反应 | 我喜欢/讨厌这个变革 |
+| **Behavioural** | 行为倾向 | 我会支持/拖延/退出 |
+| **Cognitive** | 信念与认知 | 我认为这个变革有用/不公平 |
+
+**Cognitive Dissonance (Festinger)：**
+- 当人的信念、态度和行为不一致时，会产生心理不适。
+- 解决方式：改变态度、改变行为、或合理化不一致。
+- 管理启示：不要假设员工“口头支持”就等于真实行为支持。
+
+**Attitude-Behaviour Gap 的原因：**
+- 情境压力和社会规范限制行为。
+- 习惯会覆盖理性态度。
+- 态度强度不足。
+- 态度形成和行为之间有时间滞后。
+- 多个态度相互竞争。
+
+#### B. 知觉与归因
+
+- **Perception** - 个体选择、组织和解释信息的过程；管理者看到的不是“现实本身”，而是经过过滤的现实。
+- **Attribution Theory** - 人们会把行为原因归为内部原因或外部原因。
+
+| 判断线索 | 问题 | 解释 |
+|----------|------|------|
+| Distinctiveness | 这个人只在这个任务上这样吗？ | 高 distinctiveness 更可能外部归因 |
+| Consensus | 其他人也这样吗？ | 高 consensus 更可能外部归因 |
+| Consistency | 这个人一直这样吗？ | 高 consistency 更可能内部归因 |
+
+常见偏差：
+- Fundamental attribution error - 解释别人行为时高估人格、低估情境。
+- Self-serving bias - 解释自己结果时成功归因自己，失败归因外部。
+- Halo effect - 一个突出特质影响整体评价。
+- Stereotyping - 用群体标签替代个体判断。
+- Confirmation bias - 只寻找支持既有看法的信息。
+
+#### C. 决策与偏差
+
+- 管理决策常处于 bounded rationality：信息不完整、时间有限、认知能力有限。
+- 高风险 OB 决策需要同时考虑数据、情境、利益相关者和行为后果。
+
+常见认知偏差：
+- Anchoring - 被初始信息锚定。
+- Availability - 最近/最鲜明的信息被高估。
+- Escalation of commitment - 对错误决策继续投入。
+- Overconfidence - 高估自己的判断准确性。
+- Groupthink - 团队为了和谐压制异议。
+- Status quo bias - 偏好维持现状，即使变革更合理。
+
+### 2.3 动机理论 (Motivation Theories)
+
+#### 📌 课堂主题一：What is Motivation? Intrinsic vs Extrinsic Drivers
+
+**1. 什么是动机 (What is Motivation?)**
+
+> **老师课堂定义 (Lecturer's definition):**
+> *"Motivation is the **cognitive, social and emotional force** that initiates, directs and maintains [behavior toward a goal]..."*
+> ⚠️ 待补全后半句
+
+> **教科书定义 (Textbook — Robbins & Judge):**
+> *"The processes that account for an individual's intensity, direction, and persistence of effort toward attaining a goal."*
+
+📝 **两个定义的对比：**
+- 老师强调 **"force"**（推动力）+ 三种来源：**认知 / 社会 / 情绪**
+- 教科书强调 **"process"**（过程）+ 三个特征：**强度 / 方向 / 持久性**
+- 共同点：都包含 **initiate → direct → maintain** 的逻辑链条
+
+三个核心要素：
+- **Intensity (强度)** — 一个人有多努力 (How hard a person tries)
+- **Direction (方向)** — 努力是否指向组织有益的目标 (Toward beneficial outcomes)
+- **Persistence (持久性)** — 努力能维持多久 (How long the effort is sustained)
+
+> 💡 高强度但方向错误 ≠ 有效动机。例如：员工很拼，但忙的不是公司真正需要的事。
+
+---
+
+**2. 内在动机 vs 外在动机 (Intrinsic vs Extrinsic Drivers)**
+
+| 维度 | Intrinsic Motivation (内在动机) | Extrinsic Motivation (外在动机) |
+|------|-------------------------------|-------------------------------|
+| 来源 (Source) | 来自工作本身 / 内心 | 来自外部奖励或惩罚 |
+| 驱动力 (Drivers) | 兴趣、成就感、成长、自主、意义 | 薪资、奖金、晋升、表扬、避免惩罚 |
+| 示例 (Example) | "我喜欢解决难题" | "我要拿到这个季度的 bonus" |
+| 持久性 (Sustainability) | 长期、稳定 | 短期、易消退 |
+| 风险 (Risk) | 较慢建立 | **挤出效应 (Crowding-out effect)** — 外在奖励反而削弱内在兴趣 |
+
+**核心理论基础：**
+- **Self-Determination Theory (Deci & Ryan)** — 人有三种基本心理需求：
+  - **Autonomy (自主)** — 自己决定怎么做
+  - **Competence (胜任)** — 感觉自己能做好
+  - **Relatedness (归属)** — 与他人有联结
+  - 满足这三者 → 内在动机自然产生
+
+- **Cognitive Evaluation Theory** — 当外在奖励被感知为"控制"而非"信息"时，会**削弱**内在动机。
+
+---
+
+**📌 课堂重点框架：Reward & Punishment vs Pink's Drive Model**
+
+**(a) Extrinsic 机制：Reward & Punishment（胡萝卜与大棒）**
+- 工业时代的主流激励逻辑：做对 → 奖励；做错 → 惩罚
+- 效果特点：**short-term satisfaction (短期满足)**
+- 适用：规则明确、流程化、重复性任务
+- 局限：奖励一旦停止，行为也停止；可能引发"挤出效应"（crowding-out）和操纵行为（gaming the system）
+
+**(b) Intrinsic 机制：Daniel Pink 的 "Drive" — The AMP Model**
+
+> Pink 的 **AMP** = **A**utonomy + **M**astery + **P**urpose
+> 这是 21 世纪知识工作的"操作系统升级"，取代工业时代的胡萝卜大棒。
+
+| 支柱 | Pink 的官方定义 | 具体含义 / 课堂展开 |
+|------|---------------|------------------|
+| **A — Autonomy (自主)** | *"The urge to direct our own lives."* — 主导自己生活的渴望 | 在 **4 个 T** 上有选择权：**Task**（做什么）/ **Time**（什么时候做）/ **Technique**（怎么做）/ **Team**（和谁做） |
+| **M — Mastery (精通)** | *"The desire to improve at meaningful tasks."* — 在有意义的事情上不断变好 | 通过 **Deliberate Practice (刻意练习)** 实现；关键词：**meaningful** — 没有意义的重复不算 Mastery |
+| **P — Purpose (目的)** | *"The yearning to contribute to something larger than ourselves."* — 渴望为比自己更大的事做贡献 | Impact, Values, Deeper Ideals（详见下方） |
+
+---
+
+**🌍 Purpose 深度展开：Purpose Maximisers vs Profit Maximisers**
+
+Pink 提出的组织/个人分类：
+
+| 类型 | 核心驱动 | 行为表现 | 例子 |
+|------|---------|---------|------|
+| **Profit Maximisers** | 利润最大化 | 短期 KPI、股东回报至上、交易型 | 传统华尔街公司 |
+| **Purpose Maximisers** | 使命/影响最大化 | 长期意义、利益相关者导向、使命驱动 | Patagonia、Doctors Without Borders、B-Corps |
+
+> 💡 不是不要利润 — 而是把利润当作**实现使命的手段**，不是目的本身。
+
+---
+
+**📊 课堂数据：Gen Z 与 Purpose**
+
+> **Deloitte 2025**：**67% 的 Gen Z** 表示他们想要 **purpose-driven work**（有使命感的工作）
+
+启示：
+- 招聘留任：单纯薪资难以吸引/留住 Gen Z
+- EVP (Employer Value Proposition) 必须包含 purpose、impact、价值观
+- 组织若没有清晰的 "Why" → 人才流失 + 敬业度下降
+- 与 SDT 呼应：Gen Z 想要的是 **Identified / Integrated** 级别的自主型动机，而非 External Regulation
+
+> 💡 **Deliberate Practice 三要素**：
+> - 明确目标 (Specific goal)
+> - 即时反馈 (Immediate feedback)
+> - 走出舒适区 (Stretch zone, 不重复已会的)
+
+> 🌍 **Purpose 的内涵（课堂展开）：**
+> - **Impact (影响力)** — 工作能改变什么、帮到谁
+>   - 例子：**Doctors Without Borders / Médecins Sans Frontières (无国界医生)** — 医生放弃高薪去战区/灾区，因为 purpose 远超 paycheck
+> - **Values (价值观)** — 工作是否与个人核心信念一致
+> - **Deeper Ideals (深层理想)** — 超越个人利益的更高追求（使命感）
+>
+> 管理启示：组织若只谈 KPI 不谈 Why，难以激发高水平投入；变革管理中尤其重要 — 见 [§6 Managing Change]。
+
+---
+
+**🛠 实用工具：Do Your Own Performance Review (自我绩效评估)**
+
+Pink 提出的 Mastery / 自我激励工具 — 不依赖外部考核：
+- 每月/每季度问自己：
+  - 我比上个月更进步了吗？(Am I getting better?)
+  - 哪些技能在提升？哪些没有？
+  - 我的目标是否仍与 Purpose 一致？
+- 优点：把"被评估"变成"自我驱动"，强化 Autonomy + Mastery
+- 与传统年度绩效评估的区别：**频率高、自主、聚焦成长而非排名**
+
+---
+
+**3. 管理启示 (Managerial Implications)**
+
+- 单纯加薪 ≠ 长期激励。短期有效，长期边际递减。
+- 设计工作时考虑：自主性、技能多样性、任务完整性、任务重要性、反馈 (Job Characteristics Model)
+- 对**创造性工作**：优先内在动机；对**重复性工作**：外在奖励仍然有效
+- "If-then" 奖励 (做 X 就给 Y) 对常规任务有效，但会损害需要创造力的任务表现 — *Daniel Pink, "Drive"*
+
+---
+
+**4. 课堂讨论 / 例子 (Class Examples & Discussion)**
+
+- 例子：
+- 老师强调的考点：
+- 同学提问：
+
+---
+
+**🎯 Activity 1: Think — Pair — Share**
+
+经典互动式学习结构：
+1. **Think (独立思考)** — 个人先就老师抛出的问题独立思考 (~1–2 分钟)
+2. **Pair (两人讨论)** — 与旁边同学配对交流观点 (~3–5 分钟)
+3. **Share (全班分享)** — 向全班汇报小组的想法/达成的结论
+
+> **老师抛出的问题 / Prompt：**
+> *（待补 — 把今天 Activity 1 的题目记在这里）*
+
+> **我的思考 (Think)：**
+>
+>
+> **搭档的观点 (Pair)：**
+>
+>
+> **班级分享要点 (Share)：**
+>
+>
+> **我的收获 / 反思：**
+>
+
+---
+
+---
+
+#### 📌 课堂主题二：Content Theories — What motivates people?
+
+**框架定位：动机理论的两大流派**
+
+| 流派 | 问什么 | 焦点 | 代表理论 |
+|------|--------|------|---------|
+| **Content Theories (内容理论)** | **WHAT** motivates people? | 人的**需要 / 需求 (Needs)** — 是什么"东西"在推动行为 | Maslow, Alderfer (ERG), Herzberg, McClelland, McGregor (X/Y) |
+| **Process Theories (过程理论)** | **HOW** does motivation work? | 动机产生的**认知过程** | Vroom (Expectancy), Adams (Equity), Locke (Goal-Setting) |
+
+> 💡 Content 回答"人想要什么"；Process 回答"人怎么决定去追求"。
+
+---
+
+**Content Theories — 五大经典：**
+
+##### (1) Maslow's Hierarchy of Needs (马斯洛需求层次, 1943)
+
+人有 5 层需求，**低层未满足前，高层不构成主要动机**；满足后自动追求上一层。
+
+| 层级 | 需求 | 工作场景对应 |
+|------|------|------------|
+| 5 | **Self-Actualization (自我实现)** | 挑战性工作、创造力、个人成长 |
+| 4 | **Esteem (尊重)** | 认可、头衔、晋升、地位 |
+| 3 | **Social / Belonging (社交/归属)** | 团队归属、友谊、归属感 |
+| 2 | **Safety (安全)** | 工作保障、医保、安全的工作环境 |
+| 1 | **Physiological (生理)** | 基本工资、食物、休息 |
+
+- **低阶 (1-2)**：外部满足（薪资、福利） ↔ 多对应 **Extrinsic**
+- **高阶 (4-5)**：内部满足（成就、意义） ↔ 多对应 **Intrinsic**
+- 💡 例子：刚毕业员工先关心薪资和稳定，资深员工更看重晋升和自我实现
+- ⚠️ 批评：层级未必严格线性；缺乏实证支持；文化差异（集体主义文化可能社交需求优先）
+
+---
+
+##### (2) Alderfer's ERG Theory (1969)
+
+把 Maslow 5 层压缩为 **3 个核心需求群**，更灵活：
+
+| ERG | 含义 | 对应 Maslow |
+|-----|------|------------|
+| **E — Existence (生存)** | 物质和生理需求 | 生理 + 安全 |
+| **R — Relatedness (关系)** | 人际关系、归属 | 社交 + 部分尊重 |
+| **G — Growth (成长)** | 个人发展、自我实现 | 部分尊重 + 自我实现 |
+
+- **核心创新：Frustration-Regression（挫折-倒退）原则**
+  - 当高层需求受挫，人会**退回**追求低层需求
+  - 例子：晋升无望（Growth 受挫）→ 转而追求加薪/福利（Existence）
+- 比 Maslow 更贴近现实：**多个层次可以同时被激活**
+
+---
+
+##### (3) Herzberg's Two-Factor Theory (双因素理论, 1959)
+
+也称 **Motivation-Hygiene Theory**。Herzberg 访谈工程师/会计师后发现：**让人满意的因素 ≠ 让人不满意的因素的反面**。
+
+| 类型 | 因素 | 性质 | 缺失会怎样 | 提供会怎样 |
+|------|------|------|----------|-----------|
+| **Hygiene Factors (保健因素)** | 薪资、公司政策、工作条件、监督、人际关系、安全 | **外在**, 与**工作环境**相关 | 不满意 (Dissatisfied) | 仅消除不满, **不会激励** (No dissatisfaction) |
+| **Motivators (激励因素)** | 成就、认可、工作本身、责任、晋升、成长 | **内在**, 与**工作内容**相关 | 没有激励 (No satisfaction) | 真正激励 (Satisfied) |
+
+> 💡 **关键洞见**：满意的反面不是不满意，而是"没有满意"。
+> → 加薪只是消除不满，不会带来长期激励；要激励，需丰富工作本身。
+
+- **管理启示**：**Job Enrichment (工作丰富化)** — 增加责任、自主性、反馈
+- 与 Intrinsic/Extrinsic 对应：Motivators ≈ Intrinsic；Hygiene ≈ Extrinsic
+- ⚠️ 批评：方法论依赖访谈（人倾向把成功归己，失败归外）；分类不绝对
+
+---
+
+##### (4) McClelland's Theory of Needs (三需要理论)
+
+也称 **Acquired Needs Theory** — 需求是**后天习得**的，因人而异：
+
+| 需求 | 高分者的特征 | 适合的岗位 |
+|------|------------|----------|
+| **nAch — Need for Achievement (成就需要)** | 追求挑战、设定中等难度目标、要求即时反馈、个人责任感强 | 销售、创业者、独立项目 |
+| **nPow — Need for Power (权力需要)** | 想影响他人、控制环境、追求地位 | 管理者、领导岗位 |
+| **nAff — Need for Affiliation (归属需要)** | 追求被喜欢、和谐人际关系、避免冲突 | 客服、HR、协调岗位 |
+
+- 💡 **关键结论**：**最佳高管 ≠ nAch 最高，而是 nPow 高 + nAff 低**
+  - 成就需求高的人擅长自己做事，但管理需要通过他人完成任务
+- 测量工具：**TMA / TAT (主题统觉测验)** — 看图编故事
+- 应用：人才选拔、岗位匹配、领导力发展
+
+---
+
+##### (5) McGregor's Theory X & Theory Y (1960)
+
+管理者**对员工本性的两种假设**，这些假设决定了管理风格：
+
+| | **Theory X (悲观假设)** | **Theory Y (乐观假设)** |
+|--|----------------------|----------------------|
+| **对人的假设** | 天生懒惰、不喜欢工作、逃避责任、需要被控制 | 工作如游戏般自然、自我导向、寻求责任、有创造力 |
+| **管理风格** | 命令-控制、严密监督、外部奖惩 | 授权、参与决策、自主、信任 |
+| **激励手段** | Extrinsic — 薪资、惩罚 | Intrinsic — 成长、意义、自主 |
+| **典型组织** | 传统科层制、流水线 | 知识型组织、创新企业 |
+
+- 💡 **自我实现的预言 (Self-fulfilling prophecy)**：你怎么假设员工，他们就怎么回应你
+- 与 Pink 的 Drive 高度一致：Theory Y ≈ Autonomy + Mastery + Purpose
+- 后续 **Theory Z (Ouchi)** — 融合日本式终身雇佣 + 共识决策（可作延伸）
+
+---
+
+**🔗 五大 Content Theories 的整合视角：**
+
+```
+低阶需求 / Extrinsic           高阶需求 / Intrinsic
+─────────────────────────►
+Maslow:   生理→安全→社交→尊重→自我实现
+ERG:      Existence → Relatedness → Growth
+Herzberg: Hygiene factors        →  Motivators
+Pink:     Reward/Punishment      →  Autonomy/Mastery/Purpose
+McGregor: Theory X               →  Theory Y
+```
+
+> 📝 **考试常见提问**：
+> - 比较 Maslow 与 ERG / 与 Herzberg 的异同
+> - 用某一理论分析一个组织/员工激励问题
+> - Herzberg 的 hygiene factors 为什么不能"激励"员工？
+> - 一位管理者如何应用 McClelland 来选拔/培养高管？
+
+---
+
+#### 📌 课堂主题三：Self-Determination Theory — Deci & Ryan (2000)
+
+**SDT 是现代动机理论的整合框架** — 兼具 Content（讲需求）和 Process（讲调节机制）的双重视角，也是 Pink 的 "Drive" 模型的学术基础。
+
+##### A. 三大基本心理需求 (Basic Psychological Needs)
+
+人**与生俱来**有三种普世心理需求，满足它们 → 内在动机 + 心理健康；剥夺它们 → 动机受损 + ill-being。
+
+| 需求 | 含义 | 工作场景 | 受挫表现 |
+|------|------|---------|---------|
+| **Autonomy (自主)** | 感到自己的行为是**自愿**的、由自己发起的 | 自主选择任务/方法/节奏 | 被微观管理、被强迫 |
+| **Competence (胜任)** | 感到自己能**有效**应对挑战、不断成长 | 适度挑战 + 反馈 + 成长机会 | 任务太难/太易、缺反馈 |
+| **Relatedness (归属)** | 感到与他人有**真实连接**、被关心被理解 | 团队信任、心理安全、归属感 | 被孤立、冷漠的同事关系 |
+
+> 💡 三者**都满足**才有高质量动机；缺一不可。
+> 💡 与 Pink 对应：Autonomy = Autonomy；Competence ≈ Mastery；Purpose ≈ 整合后的高层调节。
+
+---
+
+##### B. 动机的连续谱 (Motivation Continuum) — SDT 的核心创新
+
+不是"有 vs 没有动机"，而是**动机的"质"**有等级。从**最不自决** → **最自决**：
+
+| 类型 | 调节方式 | 行为驱动 | 例子（学习/工作） |
+|------|---------|---------|------------------|
+| **Amotivation (无动机)** | 无 | 没意愿、不行动 | "做这个根本没意义" |
+| **Extrinsic — External Regulation** | 外部奖惩 | 为获得奖励/避免惩罚 | "不写作业老师扣分" |
+| **Extrinsic — Introjected (内摄)** | 自我压力、内疚、自尊 | 为避免负罪感、维护自尊 | "不学习我会觉得自己很差劲" |
+| **Extrinsic — Identified (认同)** | 认同行为的价值 | "这件事对我重要" | "学这个对我未来事业有用" |
+| **Extrinsic — Integrated (整合)** | 与自我身份整合一致 | 与个人核心价值观契合 | "我是一个终身学习者" |
+| **Intrinsic Motivation (内在动机)** | 行为本身的乐趣 | 兴趣、享受 | "我就是喜欢思考这个问题" |
+
+> 🔑 **关键洞见**：
+> - 外在动机**不一定差** — Identified / Integrated 已经高度自决，效果接近 Intrinsic
+> - 管理目标：不是消灭外在奖励，而是**帮助员工从 External → Identified/Integrated 内化**
+> - 实现内化的关键：满足 **Autonomy + Competence + Relatedness**
+
+---
+
+**🎯 课堂强调：Controlled vs Autonomous Motivation（核心分组）**
+
+把上面 6 个层级合并成两大类 — 这是 SDT 最实用的管理框架：
+
+```
+   ← Controlled Motivation →      ← Autonomous Motivation →
+   ┌──────────┬──────────────┐    ┌────────────┬────────────┬───────────┐
+   │ External │ Introjected  │    │ Identified │ Integrated │ Intrinsic │
+   │ (外部奖惩) │ (内疚/自尊) │    │ (认同价值)  │ (身份整合) │ (兴趣)    │
+   └──────────┴──────────────┘    └────────────┴────────────┴───────────┘
+            ↓                                    ↓
+       Compliance only            Discretionary effort + Creativity
+        （只做被要求的）              （主动多做 + 创造性投入）
+```
+
+| 维度 | **Controlled Motivation** | **Autonomous Motivation** |
+|------|-------------------------|---------------------------|
+| 来源 | 外部压力 / 内部压力（内疚、自尊） | 个人价值认同 / 内在兴趣 |
+| 行为表现 | **Compliance only** — 做到底线、不越界、不主动 | **Discretionary effort** — 主动加码、走得更远 |
+| 创造力 | 低 — 不愿冒险、按部就班 | 高 — 愿意尝试、解决新问题 |
+| 持久性 | 短：奖惩一停就停 | 长：内化后自我驱动 |
+| 心理代价 | 高（焦虑、倦怠、ill-being） | 低（活力、well-being） |
+| 典型组织语言 | "你**必须**完成 KPI" | "这件事**为什么**重要" |
+
+> 🔑 **关键考点**：
+> - **Controlled** 只能拿到员工的"手"（compliance），拿不到"脑"和"心"
+> - **Autonomous** 才能解锁 **discretionary effort + creativity** — 这正是知识经济和变革管理最需要的
+> - 经理的核心工作：**减少控制性语言，增加自主支持** → 把员工从左半边推向右半边
+
+---
+
+##### C. SDT 的管理启示 (Managerial Implications)
+
+| 想增强... | 经理该做的 | 避免 |
+|----------|-----------|------|
+| Autonomy | 解释 why、给选择权、邀请参与决策 | 命令式、控制性语言（"必须"、"应该"） |
+| Competence | 给清晰任务 + 即时反馈 + 培训 | 过难任务、模糊期待、负面评价 |
+| Relatedness | 关心员工本人、建立心理安全 | 冷漠、纯交易型关系 |
+
+- **"Controlling vs Autonomy-Supportive Leadership"** — 同样的 KPI 目标，控制型 leader vs 支持型 leader 效果截然不同
+- 应用于**变革管理 (§6)**：变革阻力很多源于剥夺了员工的 Autonomy 和 Competence 感
+- 应用于**绩效管理**：传统年度评估往往破坏 Autonomy；建议采用持续反馈 + 自评（呼应 Pink 的 "Do Your Own Performance Review"）
+
+---
+
+##### D. 课堂笔记 / 老师例子
+
+- 老师强调的点：
+- 课堂例子：
+- 与其他理论的对比（Maslow / Pink / Herzberg）：
+- 同学讨论 / 提问：
+
+---
+
+#### 📌 课堂主题四：Process Theories — How does motivation work?
+
+**框架定位：** 不问"人想要什么"(content)，而问"人如何**决策**是否努力、努力多少、为什么继续"(process) — 聚焦**认知机制**。
+
+**Process Theories — 待课堂展开：**
+
+##### (1) Vroom's Expectancy Theory (期望理论, 1964)
+- Expectancy (期望)：
+- Instrumentality (工具性)：
+- Valence (效价)：
+- 课堂内容：
+- 例子：
+
+##### (2) Adams' Equity Theory (公平理论, 1963)
+- 输入/产出比 (Inputs / Outcomes)：
+- 参照对象 (Referent)：
+- 不公平时的反应：
+- 课堂内容：
+
+##### (3) Locke's Goal-Setting Theory (目标设定理论, 1968)
+- SMART 目标：
+- 目标承诺 (Goal Commitment)：
+- 反馈 (Feedback)：
+- 课堂内容：
+
+##### (4) Reinforcement Theory (Skinner) — 强化理论（如老师涉及）
+- 正强化 / 负强化 / 惩罚 / 消退：
+- 课堂内容：
+
+### 2.4 情绪与态度 (Emotions & Attitudes)
+
+#### 📌 课堂主题：Job Satisfaction, Organisational Commitment & Engagement
+
+这是三个**相关但不同**的态度概念 — 经常被混淆，但行为后果不同。
+
+---
+
+##### 📊 起点：Gallup 2025 全球敬业度数据
+
+> **Only 21% of workers globally are engaged** (Gallup, 2025)
+> ⇒ 全球近 **80%** 的员工处于 "not engaged" 或 "actively disengaged"
+
+**Cascade Effect (级联效应)：**
+- **Managers 的敬业度** 是关键传导节点
+- 数据显示 **manager 的敬业度低于** executives **和** frontline staff
+- → 不投入的中层 → 拉低整个团队 → 整个组织的敬业度坍塌
+
+💡 含义：要提升组织敬业度，**先救中层经理**，而不是只盯前线员工或高层。
+
+---
+
+##### A. Job Satisfaction (工作满意度)
+
+> 定义：员工对其工作的**总体评价性态度** — 喜欢 or 不喜欢这份工作。
+
+**两种评估路径**（课堂强调）：
+
+| 路径 | 含义 | 例子 |
+|------|------|------|
+| **Affective (情感性)** | 基于**情绪体验** — 这份工作让我感到怎样？ | "我每天上班都很开心 / 焦虑" |
+| **Cognitive (认知性)** | 基于**理性比较** — 这份工作是否符合我的期待？ | "薪资、晋升、工作内容都达到了我的标准" |
+
+> 💡 两者可能**分离**：可能认知上满意（"客观条件不错"），但情感上不满意（"就是觉得没劲"）— 这是离职的高危信号。
+
+- 测量工具：JDI (Job Descriptive Index)、MSQ (Minnesota Satisfaction Questionnaire)
+- 五大来源：工作本身、薪资、晋升、同事、上级
+- ⚠️ 满意 ≠ 高绩效；满意 ≠ Engagement
+
+---
+
+##### B. Organisational Commitment (组织承诺) — Meyer & Allen 三成分模型
+
+员工与组织的**心理纽带**，决定**是否留下**以及**为什么留下**：
+
+| 类型 | 心理状态 | 留下的原因 | 内化语言 |
+|------|---------|-----------|---------|
+| **Affective (情感承诺)** | 情感依恋、认同组织 | *"I want to stay"* — 我**想**留 | "我热爱这家公司" |
+| **Continuance (持续承诺)** | 离开成本太高 | *"I need to stay"* — 我**必须**留 | "我没别的选择" |
+| **Normative (规范承诺)** | 道义/责任感 | *"I ought to stay"* — 我**应该**留 | "公司栽培了我，我不能走" |
+
+> 🔑 **三者中 Affective 承诺与绩效、OCB、低离职率关联最强；Continuance 则关联最弱（甚至负相关于绩效）**。
+
+**🌍 非洲语境下的延伸（老师强调）：**
+- **Communal loyalty (社群忠诚)** — 集体主义文化中的强纽带
+- 在非洲组织环境中，**Communal loyalty amplifies Affective Commitment**
+  - 同事被视为"家人 / Ubuntu"
+  - 组织被视为延伸的社群单元
+  - 离开组织 ≈ 背叛社群
+- 管理启示：在非洲组织建设承诺，**关系导向** + **共同体语言**比西方式契约更有效
+
+---
+
+##### C. Employee Engagement (员工敬业度)
+
+> 定义 (Kahn, 1990)：员工在工作角色中**全身心的自我投入** — **Physical + Cognitive + Emotional Investment**
+
+| 投入维度 | 表现 |
+|---------|------|
+| **Physical (身体)** | 投入精力、坚持、不偷懒 |
+| **Cognitive (认知)** | 专注、思考、解决问题 |
+| **Emotional (情感)** | 热情、自豪、与工作产生情感连接 |
+
+**⚠️ 关键区分：Engagement ≠ Satisfaction ≠ Happiness**
+
+| 概念 | 焦点 | 例子 |
+|------|------|------|
+| Satisfaction | 我**喜欢**这份工作吗？（被动评价） | "工作不错" — 但下班准点走 |
+| Happiness | 我此刻**开心**吗？（情绪状态） | 今天心情好 |
+| **Engagement** | 我**全身心投入**了吗？（主动投入） | 加班解决问题、主动改进流程 |
+
+> 💡 一个员工可以满意但不敬业（"舒服地躺平"）；也可以敬业但不那么"快乐"（投入挑战时压力大但有意义）。
+
+**Preconditions for Engagement (Kahn 的三个前提条件)：**
+1. **Meaningfulness (意义感)** — 工作值得投入吗？ → 对应 Pink 的 Purpose
+2. **Safety (心理安全)** — 投入是否安全、不会被惩罚？ → 对应 SDT 的 Relatedness
+3. **Availability (资源可得性)** — 我有精力/资源投入吗？ → 对应 SDT 的 Competence
+
+**📊 业务影响 (Gallup)：**
+> **High engagement → 22% higher profitability**
+- 同时关联：更低离职率、更少安全事故、更高客户满意度、更高生产力
+- 这是为什么敬业度被视为 HR 和高管的**首要 KPI** 之一
+
+---
+
+##### D. 三者关系总结
+
+```
+Satisfaction (我喜欢吗?)  ─┐
+                            ├─→  Engagement (我全身心投入吗?)  →  绩效 + 创新 + 留任
+Commitment (我想留吗?)    ─┘                ↑
+                                            │
+                              Meaningfulness + Safety + Availability
+                                            ↑
+                              (=Pink 的 AMP + SDT 的 ACR 的下游产物)
+```
+
+> 📝 **考点连接**：
+> - Satisfaction 是**态度**；Commitment 是**纽带**；Engagement 是**行为投入**
+> - SDT 的 ACR 满足 → Autonomous motivation → Engagement → 绩效
+> - 变革管理中，低 Engagement 是**变革阻力的根源**之一
+
+---
+
+##### E. 课堂笔记 / 老师例子 / 讨论
+
+- 老师强调的点：
+- 课堂例子：
+- 同学讨论：
+
+---
+
+#### 其他相关概念
+- 情绪劳动 (Emotional Labor)：
+
+---
+
+### 2.5 当代工作动态 (Contemporary Dynamics — New Realities of Work)
+
+> **课堂主题：** 后疫情 + AI 浪潮下，工作场所出现的新现象与新词汇。
+> 这些概念是 §2.4 (Satisfaction/Commitment/Engagement) 的**反面或延伸** — 当组织未能满足 SDT 三需求时，员工会用这些方式回应。
+
+#### A. 员工的"安静"反应 (The "Quiet" Family)
+
+| 现象 | 定义 | 行为信号 | 与 Engagement 的关系 |
+|------|------|---------|--------------------|
+| **Quiet Quitting (安静辞职)** | 只做最低限度的工作 — *doing the minimum required* | 不加班、不主动、不越界、卡点下班 | Engaged → Not Engaged 滑落的可见信号 |
+| **Quiet Cracking (安静崩裂)** | **隐形的情感脱离** — 表面正常但内心已不投入，绩效悄悄下滑 | 不抱怨、不离职，但创造力 / 主动性枯竭 | 比 Quiet Quitting 更难发现，更危险 |
+| **Quiet Cutting (安静裁员)** | **雇主侧**反向操作：把员工调到次要岗位代替正式裁员，包装为 "cost-effective redeployment" | 降级、调岗、剥夺核心职责 | 制造心理性退出；伦理争议大 |
+| **Presenteeism (出勤主义)** | 人到岗了但**没有真正在工作** — 带病上班 / 摸鱼 / 形式化出席 | 出勤率高 ≠ 生产力高；可能伴随健康代价 | 表面 Engagement 假象；Gallup 估全球年损失数千亿美元 |
+
+> 💡 **共同根源**：组织没满足 Autonomy / Competence / Relatedness → 员工选择"心理性退出"而非物理性退出
+
+---
+
+#### B. 主动重塑工作 (Proactive Reshaping)
+
+**Job Crafting (工作塑造)** — Wrzesniewski & Dutton (2001)
+> *"Proactively reshaping tasks, relationships & meaning to fit one's values."*
+> 员工**主动**调整工作的三个维度，让工作更契合自己的价值观：
+
+| 维度 | 怎么做 | 例子 |
+|------|-------|------|
+| **Task crafting (任务塑造)** | 改变做什么 / 怎么做 | 增加自己擅长的任务，外包不擅长的 |
+| **Relational crafting (关系塑造)** | 改变和谁互动、互动的频率/质量 | 主动找跨部门的人合作 |
+| **Cognitive crafting (认知塑造)** | 改变对工作的**意义诠释** | 医院清洁工把自己定义为"治愈环境的守护者" |
+
+> 🔑 与 SDT 高度互补 — Job crafting 是员工**自己创造** Autonomy + Competence + Purpose 的方式。
+
+---
+
+#### C. 市场不确定性下的新趋势
+
+**Job Hugging (抱岗)**
+> 员工因**市场不确定性**死守现职位，而非真正满意 — Great Resignation 的反转：**安全 > 流动**
+- 经济不确定时，工人宁愿接受**停滞**，也不冒险变动
+- 表面留任率上升 ≠ Commitment 上升（更像 Continuance Commitment）
+- 来源：*Beyond the Void, Ch. 9 — Onyango (n.d., forthcoming)*
+
+**Portfolio Careers & Freelancing (组合式职业 / 自由职业)**
+> 把多份 side gig + freelance 组合作为**主动的韧性策略**，而非临时过渡
+- **62% of US adults** 参与某种形式的 gig work
+- 从"单一雇主 = 安全"转向"多元收入 = 安全"
+- 对组织的挑战：核心人才不再"全身心"属于一家公司
+
+---
+
+#### D. 表达与沉默 (Voice & Silence)
+
+**Employee Voice (员工发声)** — *B&H p.294*
+> *"Expressing views, ideas and concerns upward — formal and informal."*
+
+**关键洞察：**
+- **Silence ≠ Agreement** — 沉默不代表同意，往往代表恐惧或疏离
+- **Voice 预测**：Commitment ↑ + Psychological Safety ↑
+- **Voice cultures** → 更高创新率 + 更低 toxic behaviour
+- 与变革管理直接相关 — 缺 voice 的组织难以发现变革阻力的真实源头
+
+**Voice 的两种形式：**
+- **Formal**：建议系统、town hall、调查问卷、工会
+- **Informal**：日常对话、跨级沟通、open-door policy
+
+---
+
+#### E. AI 与职业 (AI-Driven Role Transformation)
+
+> AI fluency 正成为**核心技能**；重塑工作需求与职业路径。
+
+| 数据 | 含义 |
+|------|------|
+| 雇主**重视** AI skills | 招聘要求快速升级 |
+| 员工同时表达**信心**与**焦虑** | 矛盾态度 |
+| **69%** 担心 AI / 自动化将**负面**影响其职业 | 大规模技能焦虑 |
+
+**管理启示：**
+- HR 必须在重塑 (reskilling / upskilling) 上投入
+- 沟通 AI 战略时同时回应**焦虑** — 否则触发 Quiet Cracking / Quitting
+- 在变革管理中，AI 转型是当下最大的"为什么变" (driver) 也是最大的"为什么抗" (resistance)
+
+---
+
+#### F. 健康与意义 (Wellbeing & Meaning)
+
+**Burnout & Wellbeing (倦怠与福祉)**
+> 已从**道德议题**转变为**经营要务** (operational imperative)
+- WHO 2019 把 burnout 正式列为"职业现象" (occupational phenomenon)
+- 三维度 (Maslach)：情绪耗竭 / 去人格化 / 个人成就感降低
+- 关联：流失率、医疗成本、出错率、客户满意度
+- 不再只是"福利项目" → 进入 CFO / 董事会议程
+
+**Entrepreneurial Paradigm (创业型范式)**
+> 员工以**创业者心态**对待自己的职业 — 视自身为"个体公司" (Me Inc.)
+- 自我投资、自建品牌、对结果负责
+- 与传统"雇佣关系"逻辑不同：组织是平台，不是父亲
+- 与 Portfolio Careers + Job Crafting 互相强化
+
+---
+
+#### G. 工人的叙事 (Worker Narratives)
+
+**"Living Big" & "Getting Burned" — 矛盾叙事**
+
+| 叙事 | 核心情绪 | 在说什么 |
+|------|---------|---------|
+| **"Living Big"** | 庆祝、自豪 | 从工作中获取意义、自我实现、把不稳定当自由 |
+| **"Getting Burned"** | 批判、警觉 | 揭露系统的剥削、不安全、过度承诺 |
+
+> 🔑 **两个叙事并存于同一群人** — 不是逻辑矛盾，而是**反映工人在 Agency（能动性）与 Exploitation（剥削）之间的真实处境**。
+> 工人用这两套话术**导航**自己的不稳定工作 — 既不完全乐观，也不完全悲观。
+
+研究启示：理解不稳定 (precarious) 工作不能只看客观条件，还要看工人**如何讲述**自己的处境。
+
+---
+
+#### H. 整合视角 — 当代动态如何连接核心理论
+
+```
+SDT 需求受挫 (A/C/R unmet)
+       ↓
+┌──────────────────────┬──────────────────────┐
+↓                      ↓                      ↓
+Employee 反应          Employer 反应          市场反应
+- Quiet Quitting       - Quiet Cutting        - Job Hugging
+- Quiet Cracking       - Layoff / RIF         - Portfolio Careers
+- Presenteeism                                - Entrepreneurial mindset
+       ↓                                        ↓
+缓解机制：Job Crafting + Employee Voice + Wellbeing 投资
+       ↓
+重新激活 Engagement → 绩效 + 创新 + 留任
+```
+
+> 📝 **考点连接**：
+> - 用 SDT / Engagement 框架分析 Quiet Quitting 的根因
+> - 比较 Job Hugging vs Continuance Commitment（高度相似）
+> - 讨论 AI 转型作为变革管理案例 — drivers + resistance + voice 的作用
+> - 评论 "Living Big / Getting Burned" 叙事对管理者的启示
+
+---
+
+### 2.6 工作的未来 — 重设动机架构 (The Future of Work — Redesigning Motivation Architecture)
+
+> **课堂收束 (Capstone)：** 把 §2.3 (Motivation Theories) + §2.4 (Engagement) + §2.5 (Contemporary Dynamics) 整合成一个**可操作的动机系统**。
+> 核心问题：在 AI、不确定性、Gen Z 期望、quiet quitting 等新现实下，**管理者应该怎样重新设计动机**？
+
+---
+
+#### A. 旧 vs 新动机架构 (Old vs New Architecture)
+
+| 维度 | 工业时代架构 (Motivation 1.0/2.0) | 未来工作架构 (Motivation 3.0) |
+|------|-------------------------------|----------------------------|
+| **基本假设** | 员工 = 被动执行者 (Theory X) | 员工 = 主动创造者 (Theory Y) |
+| **主驱动力** | Reward & Punishment | Autonomy + Mastery + Purpose |
+| **动机类型** | Controlled (compliance) | Autonomous (discretionary effort) |
+| **工作设计** | 流程化、标准化、监督 | 工作丰富化、Job Crafting、自主单元 |
+| **绩效逻辑** | 年度考核、强制排名 | 持续反馈、自评、成长导向 |
+| **承诺基础** | Continuance（"我必须留"） | Affective + Normative（"我想留 / 应该留"） |
+| **领导风格** | 命令-控制 | Autonomy-Supportive / Servant / Coach |
+| **典型组织** | 科层制工厂 | 网络型、敏捷、平台型 |
+
+---
+
+#### B. 重设动机架构的四个杠杆 (Four Levers)
+
+把所有学过的理论整合成**经理可操作的四类杠杆**：
+
+##### Lever 1 — 重设工作本身 (Redesign the Job)
+- **Job Enrichment** (Herzberg) — 增加内容深度、责任、自主性
+- **Job Characteristics Model** — 技能多样性、任务完整性、任务重要性、自主性、反馈
+- **支持 Job Crafting** — 给员工合法授权去 reshape 自己的工作
+- **AI 整合** — 把重复任务交给 AI，让人聚焦判断、创造、关系
+
+##### Lever 2 — 重设关系与文化 (Redesign Relationships & Culture)
+- **Psychological Safety (Edmondson)** — 让人敢于发声、犯错、提问
+- **Voice cultures** — 制度化的发声渠道 + 非正式开放
+- **Relatedness** (SDT) — 团队级归属感，跨代/跨文化包容
+- **非洲语境**：Ubuntu / communal loyalty 作为承诺资源
+
+##### Lever 3 — 重设成长与精通 (Redesign Growth & Mastery)
+- **Deliberate Practice** 文化：明确目标 + 即时反馈 + 走出舒适区
+- **Continuous Feedback** 取代年度评估
+- **"Do Your Own Performance Review"** (Pink) — 自我驱动的成长
+- **Reskilling / Upskilling** — 把 AI 焦虑转化为 AI fluency
+- 给员工 **stretch assignments** 和"学习预算"
+
+##### Lever 4 — 重设意义与目的 (Redesign Meaning & Purpose)
+- 让组织的 **Why** 清晰、可信、可传播 (Simon Sinek — *Start with Why*)
+- 把 KPI 与 **Purpose narrative** 连接 — 不只是数字，而是数字**为何**重要
+- 让 Gen Z 看到工作的 **impact**（呼应 Deloitte 67% 数据）
+- Purpose Maximisers 文化 — 利润是手段，使命是目的
+
+---
+
+#### C. 设计原则速记 (Design Principles)
+
+> 把这套架构压缩成 6 条原则，方便记忆 + 答题：
+
+1. **From Carrots/Sticks → AMP**（外驱 → 内驱）
+2. **From Compliance → Discretionary Effort**（拿手 → 拿脑和心）
+3. **From Control → Autonomy Support**（管控 → 赋能）
+4. **From Annual Review → Continuous Feedback**（年度评估 → 持续反馈）
+5. **From Silence → Voice**（沉默 → 发声）
+6. **From "Profit Only" → Purpose-Anchored**（纯利润 → 使命锚定）
+
+---
+
+#### D. 与变革管理的连接 (Bridge to §6 Managing Change)
+
+> 这套架构本身就是**一场组织变革** — 因此 §6 的所有工具都适用：
+
+- **Lewin** — Unfreeze 旧的 X 假设 → Change 到 AMP 架构 → Refreeze 在新文化中
+- **Kotter 8 步** — 紧迫感（AI 浪潮、Gen Z、quiet quitting 都是 burning platforms）
+- **ADKAR** — 个体层面：Awareness 新动机逻辑 → Desire → Knowledge → Ability → Reinforcement
+- **关键风险**：变革本身若用 controlled motivation 推动（"必须按新方式工作"）→ 矛盾自毁
+
+---
+
+#### E. 六大 Future-of-Work 主题深入 (Six Key Themes)
+
+##### E1. AI & Algorithmic Management (AI 与算法管理)
+
+> **算法管理** = 用算法/AI 系统**部分或完全替代**人类管理者的功能（任务分派、绩效评分、奖惩决策）。
+
+| 维度 | 传统管理 | 算法管理 |
+|------|---------|---------|
+| 决策者 | 人类 manager | 算法（不可解释、不可申诉） |
+| 透明度 | 可对话、可澄清 | 黑箱 |
+| 反馈 | 关系性 | 数据点 / 评分 |
+| 速度 | 慢 | 实时 |
+| 例子 | 传统主管 | Uber 派单、Amazon 仓库节奏跟踪、客服 AI 质检 |
+
+**对动机的双面影响：**
+- ➕ 减少偏见、即时反馈、规模化
+- ➖ **侵蚀 Autonomy**（不能讨论）、**侵蚀 Relatedness**（无人际关系）、**控制型动机扩大**
+- 触发：Quiet Quitting / Cracking / Voice 被压制
+- **伦理风险**：surveillance capitalism、可解释性 (XAI)、申诉机制缺失
+
+> 💡 管理启示：算法**辅助**人类经理，而非**替代** — 保留"人在回路"(human-in-the-loop) 是维持 Autonomy / Voice 的关键。
+
+---
+
+##### E2. Gen Z Purpose Economy (Z 世代的目的经济)
+
+> Gen Z (1997-2012) 进入劳动力市场后，**重塑了雇主-员工契约**。
+
+**核心特征：**
+- 优先 **Purpose > Paycheck**（Deloitte 2025：67% 想要 purpose-driven work）
+- 期待 **持续反馈** 而非年度评估
+- 把 **DEI、可持续性、心理健康** 视为基本要求而非福利
+- 数字原住民 — 透明度期待高，雇主品牌的"造假"瞬间被识破
+- **多元收入观** — 倾向 portfolio careers 而非单一雇主
+- 高 **跳槽容忍度** 但同时高 **使命忠诚度**（项目结束就走，但对使命极投入）
+
+**对组织的要求：**
+- EVP 必须包含清晰的 **Why**
+- 经理需要从"老板"转为 **coach + mentor**
+- 工作设计要给 **flexibility + impact visibility**
+- 否则 → 高流失 + Quiet Quitting
+
+> 💡 与 SDT 对应：Gen Z 天然追求 **Identified / Integrated** 级动机；External Regulation 对他们最无效。
+
+---
+
+##### E3. Hybrid & Remote Work (混合与远程工作)
+
+> 疫情常态化的工作模式革命 — 永久改变了"工作地点 = 办公室"的假设。
+
+**三种模式：**
+| 模式 | 特征 | 适合 |
+|------|------|------|
+| **Fully Remote** | 100% 远程 | 个人产出型、文档化高的工作 |
+| **Hybrid** | 混合，每周 X 天到岗 | 需要协作 + 自主平衡 |
+| **In-office** | 全到岗 | 强协作、机密、训练新人 |
+
+**对动机的影响（SDT 视角）：**
+- ➕ **Autonomy 大幅提升** — 时间、地点、节奏自主
+- ➕ **Mastery 不受打扰** — deep work 时间增加
+- ➖ **Relatedness 削弱** — 弱关系凋零、归属感下降、新人融入难
+- ➖ **Presenteeism 数字化** — 出现"在线表演"(productivity theater)
+
+**经理的新挑战：**
+- 从"看到员工 = 信任" → 从"看到产出 = 信任"
+- **Async-first** 沟通文化（写文档、录视频代替会议）
+- 主动设计 **Relatedness 仪式**（线下 offsite、虚拟咖啡）
+- 防止"远程 = 隐形" — 否则触发 Quiet Cracking
+
+---
+
+##### E4. Psychological Contract (心理契约) — Rousseau (1989)
+
+> 定义：员工与组织之间**不成文的、相互的**期待与义务 — 写不进合同，但**实际驱动**双方行为。
+
+**两种契约类型：**
+
+| 类型 | **Transactional (交易型)** | **Relational (关系型)** |
+|------|--------------------------|----------------------|
+| 焦点 | 短期、具体、经济 | 长期、广泛、情感 |
+| 内容 | "我做 X，你付 Y" | "我承诺投入，你照顾我成长/福祉" |
+| 典型 | 临时工、合约工、Gig | 终身雇佣、家族企业 |
+| 信任基础 | 法律契约 | 互惠 + 公平 |
+
+**Psychological Contract Breach (心理契约违反)：**
+- 当员工感知组织**违背了未写明的承诺** → 强烈的不公平感
+- 触发：Engagement ↓、Voice ↓、离职意愿 ↑、报复性行为 ↑
+- 典型场景：承诺培养却被忽视、文化宣称 vs 实际做法差异、Quiet Cutting
+
+> 💡 与 §2.5 的连接：**Quiet Quitting 往往是心理契约违反的"安静抗议"**。
+> 与变革管理连接：组织重大变革必然**重塑心理契约** — 必须显性沟通新约定。
+
+---
+
+##### E5. Total Motivation (ToMo) — Doshi & McGregor (2015)
+
+> *Primed to Perform* 框架 — 把动机量化为一个**单一可测量指标**。
+
+**六大动机（按"质量"由高到低排序）：**
+
+| 排序 | 动机 | 类型 | 描述 | 对绩效影响 |
+|------|------|------|------|----------|
+| 1 | **Play (玩乐)** | Direct ↑ | 我享受工作本身 | +++ |
+| 2 | **Purpose (目的)** | Direct ↑ | 我相信这工作的意义 | ++ |
+| 3 | **Potential (潜力)** | Direct ↑ | 工作助我成长 | + |
+| 4 | **Emotional Pressure (情感压力)** | Indirect ↓ | 我做是因为内疚 / 自尊 | − |
+| 5 | **Economic Pressure (经济压力)** | Indirect ↓ | 我做是为了奖励 / 避免惩罚 | −− |
+| 6 | **Inertia (惯性)** | Indirect ↓ | 我做是因为一直这么做 | −−− |
+
+**ToMo 公式：**
+```
+ToMo Score = (Play + Purpose + Potential) − (Emotional + Economic + Inertia)
+           = (直接动机) − (间接动机)
+```
+
+- ToMo 越高 → 绩效、创新、客户满意度越高
+- **关键洞见**：前 3 个 (Direct) 与工作**本身**相关；后 3 个 (Indirect) 与工作**外部因素**相关
+- **完美对应** SDT：Direct ≈ Autonomous；Indirect ≈ Controlled
+
+> 💡 实操：ToMo 是 SDT 的**可调查、可比较、可追踪**版本，HR/OD 常用作 culture metric。
+
+---
+
+##### E6. Learning as Motivator (学习作为动机)
+
+> 学习本身是一种**强大的内在动机** — 满足 SDT 的 Competence + Pink 的 Mastery。
+
+**核心思想：**
+- 在 AI 时代，**技能半衰期**急剧缩短 — 学习从"福利"变为"生存必需"
+- 把组织设计为 **Learning Organization (Senge, 1990)**：
+  1. **Personal Mastery (自我超越)**
+  2. **Mental Models (心智模式)** — 反思自己的假设
+  3. **Shared Vision (共同愿景)**
+  4. **Team Learning (团队学习)** — 通过对话
+  5. **Systems Thinking (系统思考)** — 第五项修炼，整合前四项
+
+**学习作为动机的机制：**
+- 满足 **Competence** — "我变得更强"
+- 满足 **Autonomy** — "我选学什么"
+- 触发 **Mastery** 螺旋 — 越学越好 → 越好越愿意学
+- 缓解 **AI 焦虑** — 把威胁感转化为成长感
+
+**组织实践：**
+- 70-20-10 学习模型（70% 在岗经验 / 20% 同事 / 10% 正式培训）
+- 学习预算 + 学习时间
+- **Failure tolerance** — 学习需要心理安全
+- AI fluency 培训 — 把"被替代焦虑"转化为"增强能力"
+
+> 💡 与 ToMo 对应：Learning 同时滋养 **Play (好奇)** + **Purpose (成长意义)** + **Potential (未来回报)** — 三种 Direct 动机一起拉满。
+
+---
+
+#### F. 课堂笔记 / 老师强调 / 讨论
+
+- 老师强调的点：
+- 课堂例子 / 案例：
+- 同学讨论 / 提问：
+- 我的反思：
+
+---
+
+#### 🎓 本单元 (Motivation) 完整思维导图
+
+```
+                    动机的本质 (What is Motivation?)
+                    ──── force / process ────
+                            │
+              ┌─────────────┼─────────────┐
+         Intrinsic      Extrinsic     连续谱 (SDT)
+              │             │              │
+       AMP (Pink)    R&P (旧逻辑)   Controlled ↔ Autonomous
+              │             │              │
+              └─────────────┴──────────────┘
+                            │
+                    理论流派 (Theories)
+                            │
+              ┌─────────────┼─────────────┐
+         Content         Process        Modern
+       (WHAT)          (HOW)         Integrative
+         │               │               │
+   Maslow/ERG/        Vroom/         SDT (Deci & Ryan)
+   Herzberg/          Adams/         Pink's AMP
+   McClelland/        Locke/
+   McGregor           Skinner
+                            │
+                  ↓ 下游产出 ↓
+                            │
+              Satisfaction / Commitment / ENGAGEMENT
+                            │
+                  ↓ 当代现象 ↓
+                            │
+    Quiet Quitting / Cracking / Cutting · Job Crafting ·
+    Job Hugging · Voice · AI Transformation · Burnout ·
+    Portfolio Careers · "Living Big / Getting Burned"
+                            │
+                  ↓ 管理回应 ↓
+                            │
+          重设动机架构 (4 Levers)
+       Job · Relationships · Growth · Purpose
+                            │
+                  ↓ 通往 ↓
+                            │
+                    §6 变革管理
+```
+
+---
+
+### 2.7 组织公平、OCB 与反生产行为 (Organisational Justice, OCB & CWB)
+
+> **课堂主题：** 员工**如何感知公平**,决定了他们是**多做（OCB）**还是**破坏（CWB）**。
+> 逻辑链：**Justice 知觉 → 态度（满意/承诺/信任）→ 行为（OCB ↔ CWB）**。
+
+---
+
+#### A. Organisational Justice（组织公平）— Greenberg ｜ 三维度 = 冲突的前因 (Conflict Antecedents)
+
+> 员工对组织中**公平程度的主观知觉**。注意:是**知觉 (perceived)**,不是客观事实 —— "感觉不公平"就会触发反应。
+> 🎯 **课堂定位**：组织公平的三个维度是**冲突的前因 (antecedents of conflict)** —— **不公平感是冲突最常见的源头之一**。修复公平 = 从源头预防冲突。
+
+**三种公平维度 (Three Dimensions — 老师框架)：**
+
+| 维度 | 关注 | 关键问题 | 不公平时 → 冲突 |
+|------|------|---------|----------------|
+| **1. Distributive Justice (分配公平)** | **结果**是否公平（薪资、晋升、奖金的分配） | "我得到的回报合理吗？" | 资源/回报争夺 → 关系与群体冲突 |
+| **2. Procedural Justice (程序公平)** | **过程/规则**是否公平（标准一致、透明、可申诉） | "决定是怎么做出的？过程公正吗？" | 规则被质疑 → 对权威/制度的冲突 |
+| **3. Interactional Justice (互动公平)** | **被对待的方式**是否有尊严与充分解释 | "我被尊重地对待、被好好解释了吗？" | 感到被羞辱/被蒙 → 人际冲突、报复 |
+
+> 📌 **三维 vs 四维**：有些学者把 **Interactional** 再细分为 **Interpersonal（人际尊重）+ Informational（信息解释）**→ 四维模型。**本课用三维**(Interactional 已含"尊重 + 解释")。
+
+> 💡 **关键洞见**：**Procedural justice 常比 Distributive 更重要** —— 即使结果不理想,只要**过程公平**,员工更可能接受（"我没拿到晋升,但流程公正,我能接受"）。
+> 💡 连接 Adams **公平理论 (§2.3)**：员工比较自己的"投入/产出比"与他人 → 失衡感即不公平感。
+> 💡 连接 §3.4 冲突:**Injustice = 冲突前因** → 三维度对应 §3.4-C3 的 Sources（Goal/Power/Resource 多通过"不公平感"引爆冲突）。
+> 💡 连接 SDT:不公平直接侵蚀 Relatedness 与信任。
+
+---
+
+#### B. OCB — Organisational Citizenship Behaviour（组织公民行为）
+
+> **超越正式职责的、自愿的、利组织的行为** —— "份外的好事",不在 job description 里,也不直接被奖励,但让组织运转更好。
+
+**OCB 五维度 (Organ, 1988)：**
+| 维度 | 含义 | 例子 |
+|------|------|------|
+| **Altruism (利他)** | 主动帮助同事 | 帮新人上手、替人分担 |
+| **Conscientiousness (尽责)** | 超出最低要求 | 从不迟到、加倍认真 |
+| **Sportsmanship (运动家精神)** | 不抱怨、容忍不便 | 遇到问题不无谓抱怨 |
+| **Courtesy (礼貌)** | 提前沟通、避免给人添麻烦 | 决定前知会相关方 |
+| **Civic Virtue (公民美德)** | 积极参与组织事务 | 主动开会、关心组织发展 |
+
+- **驱动因素**:高 **job satisfaction**、**组织公平**、**Affective commitment**、信任
+- **结果**:提升团队绩效、减少摩擦、增强组织韧性
+- 💡 OCB 是 **Engagement / Autonomous motivation** 的**行为表现** —— 公平 + 内在动机 → 主动多做
+
+---
+
+#### C. CWB — Counterproductive Work Behaviour（反生产行为）
+
+> **故意伤害组织或其成员的行为** —— OCB 的**反面**。冲突章节(§3.4)的失能产物。
+
+**常见类型：**
+| 类型 | 例子 |
+|------|------|
+| **Production deviance (生产偏差)** | 故意放慢、敷衍、磨洋工 |
+| **Property deviance (财产偏差)** | 偷窃、破坏 (sabotage)、滥用资源 |
+| **Political deviance (政治偏差)** | 散布谣言、偏袒、甩锅 |
+| **Personal aggression (人身攻击)** | 欺凌、骚扰、言语暴力 |
+| **Withdrawal (退缩)** | 缺勤 (absenteeism)、迟到、Quiet Quitting |
+
+- **驱动因素**:**感知到的不公平 (perceived injustice)**、心理契约违反、有毒冲突、倦怠
+- 💡 **核心因果**:**不公平 → 报复性 CWB**。员工常把 CWB 当作"扯平 (evening the score)"的手段 → 呼应 Adams 公平理论的"降低投入"反应
+- 💡 连接 §3.4:CWB 是 **Dysfunctional Conflict** 的典型产物;连接 §2.5:Quiet Quitting / Cracking 属于 withdrawal 型 CWB
+
+---
+
+#### D. 整合逻辑：Justice → Attitudes → Behaviour
+
+```
+组织公平感知 (Justice)
+   ├─ 公平 → 满意/信任/承诺 ↑ → OCB（份外多做）↑
+   └─ 不公平 → 不满/愤怒/契约违反 → CWB（报复/退缩）↑
+```
+
+> 🔑 **管理启示**：
+> - 公平**不是软性议题**,而是 OCB↑ / CWB↓ 的核心杠杆
+> - 尤其重视 **Procedural + Interactional justice** —— 即使资源有限(分配难完全公平),也能靠**公正的程序 + 尊重的沟通**维持信任
+> - 连接 §4 领导力:公平的领导 = Referent power + Transformational 的伦理基础
+> - 连接 §6 变革:变革中最容易触发**不公平感**(谁受益、谁牺牲)→ 必须重视程序与沟通公平,否则引爆 CWB
+
+> 📝 **考点**：
+> - 用四种 justice 维度分析一个"员工觉得被不公对待"的案例
+> - 解释为什么 Procedural justice 有时比 Distributive 更重要
+> - 论证 Justice 如何同时驱动 OCB(正向)与抑制 CWB(负向)
+
+---
+
+## 3. 团队层面 (Groups & Teams)
+
+### 3.1 群体动力 (Group Dynamics)
+- Tuckman 阶段模型 (Forming–Storming–Norming–Performing–Adjourning)：
+
+### 3.2 团队效能 (Team Effectiveness)
+- 团队构成 (Composition)：
+- 角色分工 (Belbin Roles)：
+- 团队规范与凝聚力 (Norms & Cohesion)：
+
+### 3.3 沟通 (Communication)
+- 沟通过程模型：
+- 沟通障碍：
+- 跨文化沟通：
+
+### 3.4 冲突与谈判 (Conflict & Negotiation)
+
+#### 📌 课堂主题：Conflict Management（冲突管理）
+
+##### A. Why Study Conflict? — The Organisational Reality
+
+> **核心立场（老师强调）：**
+> **冲突应被接受为一种"组织现实" (organisational reality)** —— 它不可避免、无处不在。
+> 关键不是**消灭**冲突，而是**妥善管理 (properly managed)** —— 管理得当，冲突反而能**带来积极结果**（建设性产出 / 成长 / 创新）。
+
+**为什么要研究冲突？**
+- 冲突是组织生活的**常态**，不是异常 —— 只要有人协作、资源有限、目标各异，冲突就会发生
+- 管理者平均花 **~20%+ 的时间**处理冲突
+- 处理得好 → 更好的决策、创新、关系；处理不好 → 内耗、流失、绩效下滑
+- **冲突本身是中性的** —— 结果好坏取决于**如何管理**
+
+> 💡 **关键句（老师原话,已确认）**：
+> *"Conflict should be accepted as a reality and, properly managed, can be an **energising force**."*
+> （冲突应被当作现实接受；管理得当，它能成为一股**激发活力的力量**。）
+
+---
+
+##### B. 三种冲突观 (Three Views of Conflict)
+
+| 观点 | 立场 | 时代 |
+|------|------|------|
+| **Traditional View (传统观)** | 冲突**都是坏的**,必须避免,是管理失败的信号 | 早期 (1930s-40s) |
+| **Human Relations View (人际关系观)** | 冲突是**自然且不可避免**的,接受它 | 1940s-70s |
+| **Interactionist View (互动观)** ⭐ | 冲突**有时是必要的** —— 适度冲突能激发活力与创新;太少会僵化 | 现代主流 |
+
+> 🔑 现代立场 = **Interactionist**：目标不是"零冲突",而是**最优水平的冲突**。
+
+---
+
+##### C. 功能性 vs 失能性冲突 (Functional vs Dysfunctional) — The Inverted-U
+
+> **核心模型：The Inverted-U（倒 U 曲线 / 冲突-绩效曲线,Robbins）**
+> 冲突与绩效的关系**不是线性**的,而是**倒 U 形**:**太少**和**太多**冲突都损害绩效,**适度**冲突绩效最高。
+
+**📈 Inverted-U：冲突水平 vs 团队绩效**
+```
+绩效
+ 高 │              ╭─────╮            ← 最优区 (Optimal)
+    │           ╭──╯     ╰──╮           适度冲突 = 最佳绩效
+    │        ╭──╯           ╰──╮
+    │     ╭──╯                 ╰──╮
+ 低 │  ╭──╯                       ╰──╮
+    └────────────────────────────────────► 冲突水平
+      低              适中             高
+   (太少:冷漠、)    (Functional:)   (太多:混乱、)
+    停滞、无创新     建设性争论       敌意、内耗
+```
+
+| 冲突水平 | 状态 | 绩效 | 表现 |
+|---------|------|------|------|
+| **太低 (Too Little)** | 冷漠、自满 | 低 | 无新想法、群体思维 (groupthink)、停滞 |
+| **适中 (Optimal)** ⭐ | **Functional** | **高** | 健康辩论、创新、自我审视 |
+| **太高 (Too High)** | 混乱、敌意 | 低 | 内耗、破坏、士气崩塌 |
+
+> 🔑 **反直觉洞见**：**零冲突不是好事** —— 太少冲突 = 群体思维 + 停滞。管理目标是**维持最优水平**,既不压制也不放任。
+
+> ### ⚠️ 对 Inverted-U 的重要修正：**Conflict TYPE matters more than conflict LEVEL**
+> **De Dreu & Weingart (2003)** 元分析:**Task conflict 改善决策 —— 但仅当 Relationship conflict 处于低水平 (LOW)**。
+> - 经典倒 U 关注的是冲突的**"量/水平"** (level)
+> - 但这项研究指出:更关键的是冲突的**"质/类型"** (type) —— **类型比水平更重要**
+> - 含义:与其纠结"冲突多少算适度",不如确保它是**任务型而非关系型**
+> - 实务:可以鼓励**大量**就事论事的 task 争论(只要 relationship 冲突低),而**任何**relationship 冲突都该尽快化解
+> 💡 这是对简单倒 U 模型的**精细化**:不只调"音量",更要选"频道"。
+
+---
+
+**两类冲突详解（老师 slide）：**
+
+**🟢 Functional (Constructive) Conflict（功能性/建设性冲突）**
+- **Surface hidden assumptions and bad decisions**（暴露隐藏假设与糟糕决策）
+- **Drives innovation and creative problem-solving**（驱动创新与创造性解决问题）
+- **Clarifies roles, responsibilities, and boundaries**（澄清角色、职责与边界）
+- **Strengthens team trust when resolved well**（妥善解决时**增强**团队信任）
+- 📋 **例子**：devil's advocacy（魔鬼代言人）、structured debate（结构化辩论）、design reviews（设计评审）
+
+**🔴 Dysfunctional (Destructive) Conflict（失能性/破坏性冲突）**
+- **Damages relationships, trust, and cooperation**（破坏关系、信任与合作）
+- **Diverts attention and energy from goals**（把注意力与精力从目标上引开）
+- **Triggers CWB**（触发**反生产行为 Counterproductive Work Behaviour**）：sabotage（破坏）、withdrawal（退缩）、absenteeism（缺勤）
+- **Creates emotional scars and long-term team dysfunction**（留下情感创伤与长期团队失能）
+- **Spreads to non-involved parties**（**扩散**到未卷入的旁人 → 毒化整个氛围）
+- **Causes talent exit**（导致人才流失：**顶尖员工最先逃离有毒冲突**）
+
+> 💡 **CWB (Counterproductive Work Behaviour)** = 反生产行为,呼应 §2.5 的 Quiet Quitting / withdrawal 家族。
+> 💡 **顶尖人才最先走** —— 他们机会多、最不愿忍受有毒环境;失能冲突的隐性成本极高。
+
+---
+
+**三种冲突类型 (Types — 按内容分)：**
+- **Task Conflict (任务冲突)** — 关于**工作内容/目标**的分歧 → 适度时**有益**（激发更好方案）→ 多属 Functional
+- **Relationship Conflict (关系冲突)** — 关于**人际/情感**的摩擦 → 几乎总是**有害** → 几乎总是 Dysfunctional
+- **Process Conflict (过程冲突)** — 关于**怎么做/分工**的分歧 → 少量可接受,过多有害
+
+> 💡 关键洞见：**适度的 Task conflict 是好的**；**Relationship conflict 永远要尽量降低**。
+> 💡 管理艺术 = 保持建设性的任务争论(把冲突维持在倒 U 顶部)，同时防止它升级为人际敌意(滑向右侧失能区)。
+> 💡 连接 **De Dreu & Weingart (2003)**：task conflict 有益**当且仅当** relationship conflict 低 —— 正是"维持在倒 U 顶部而不滑向失能"的实证支撑。
+
+---
+
+##### C2. 冲突的层级 (Levels of Conflict — 按发生范围分)
+
+> 冲突可发生在 **4 个层级**，由小到大、由内到外：
+
+| 层级 | 类型 | 发生于 | 典型成因 | 主要应对工具 |
+|------|------|--------|---------|------------|
+| **Level 1** | **Intrapersonal (个体内)** | **一个人内心** | Role conflict（角色冲突）、Role ambiguity（角色模糊）、Goal incompatibility（目标不兼容） | 自我觉察、辅导、角色澄清 |
+| **Level 2** | **Interpersonal (人际间)** | **两个人之间** | 性格冲突、沟通破裂、权力争夺 | TKI 五模式、调解、沟通 |
+| **Level 3** | **Intergroup (群体间)** | **部门 / 团队 / 职能之间** | 资源竞争、目标不兼容、相互依赖失灵（多为**结构性**） | 上级目标、跨部门协调、结构调整 |
+| **Level 4** | **Interorganisational (组织间)** | **组织与组织之间** | 劳资纠纷、供应链冲突、监管对峙 | **谈判 (Negotiation) + 仲裁 (Arbitration)** |
+
+**逐层要点（老师 slide）：**
+- **L1 — Intrapersonal**：发生在**个人内部** —— 角色冲突 / 角色模糊 / 目标不兼容。
+  - ⚠️ **常常隐形 (invisible)**,直到以**退缩 (withdrawal)** 的形式浮现 → 连接 §2.5 Quiet Quitting / Cracking
+- **L2 — Interpersonal**：两人之间,是**最常见的管理挑战 (most common managerial challenge)**。
+  - 成因:personality clashes（性格冲突）、communication breakdown（沟通破裂）、power contests（权力争夺）
+- **L3 — Intergroup**：部门 / 团队 / 职能之间,**多为结构性 (often structural)**。
+  - 成因:resource competition（资源竞争）、goal incompatibility（目标不兼容）、interdependence failures（相互依赖失灵）
+  - 💡 因为是结构性的 → 单靠"调解个人"无效,要从**组织设计 / 共同目标**入手
+- **L4 — Interorganisational**：组织之间 —— 劳资纠纷、供应链冲突、监管对峙。
+  - 💡 **Negotiation 与 Arbitration 是主要工具**（个人/团队层面的 TKI 不再适用）
+
+> 🔑 **管理启示**：层级越高,冲突越**结构化、越需要正式机制**（从"对话"→"谈判/仲裁"）；层级越低,越靠**自我觉察与人际技巧**。
+> 💡 注意 **Goal incompatibility（目标不兼容）** 在 L1、L3 都出现 —— 同一成因可在不同层级表现。
+
+---
+
+##### C3. 冲突的来源与参照框架 (Sources & Frames of Reference)
+
+> 冲突从哪里来？6 大根源 —— 诊断"源头"才能对症下药：
+
+| 来源 | 含义 | 例子 |
+|------|------|------|
+| **Values & Beliefs (价值观与信念)** | 伦理、文化规范、专业标准**不兼容** | 不同职业道德/文化背景对"对错"判断不同 |
+| **Perception Gaps (知觉差异)** | 对**同一事件/决定/行为**有不同解读 | 同一封邮件,一方觉得正常,一方觉得冒犯 |
+| **Power & Status (权力与地位)** | 层级争议、资源竞争、地位威胁 | 谁说了算、谁的部门更重要 |
+| **Goal Incompatibility (目标不兼容)** | 各部门为**不同 KPI** 优化 → 一方赢=另一方输 | 销售要冲量,财务要控成本 |
+| **Communication (沟通)** | 模糊、谣言、信息过载、**hybrid invisibility（混合办公的隐形）** | 远程沟通误解、信息不对称 |
+| **Scarce Resources (稀缺资源)** | 预算、人才、空间、技术 → **零和竞争 (zero-sum)** | 两个项目抢同一笔预算 |
+
+**📌 重点解读：**
+- **Goal Incompatibility** —— *"what wins for one loses for another"*（一方的胜利就是另一方的失败）→ 这是**结构性冲突**的典型,呼应 §C2 的 Level 3 Intergroup
+- **Communication — hybrid invisibility** —— 远程/混合办公带来的"看不见"：信息断层、缺乏非语言线索、被边缘化感 → 连接 §2.5 Hybrid & Remote Work
+- **Scarce Resources — zero-sum** —— 资源有限是冲突最**根本**的结构性来源;蛋糕就这么大
+
+> 💡 **Frames of Reference（参照框架）的核心洞见**：
+> 很多冲突不是因为"事实"不同,而是因为**双方用不同的框架在看同一件事** —— 价值观框架、知觉框架、利益框架不同。
+> → 管理冲突的第一步:**理解对方的 frame**,而非急于证明自己对。
+> 💡 区分 **Sources（结构性根源:资源/目标/权力）** vs **Perceptual（认知性根源:知觉/价值/沟通）** —— 前者改**结构**,后者改**理解与对话**。
+
+---
+
+##### C4. 三种参照框架 (Frames of Reference) — Alan Fox (1966)
+
+> **关于"冲突的本质是什么"的三种根本世界观** —— 你站在哪个框架,决定了你如何看待和处理组织冲突。
+> （Alan Fox 经典分类,劳资关系/组织行为核心理论）
+
+| 框架 | 对冲突的看法 | 组织观 | 应对取向 |
+|------|------------|--------|---------|
+| **Unitarist (一元论)** | **Conflict = pathology（病态）** —— 冲突是不正常的、应被消除 | 组织像一个**大家庭**,大家有**共同目标**,管理层代表所有人利益 | 冲突=管理失败/害群之马 → 靠强化共同价值观、沟通消除 |
+| **Pluralist (多元论)** | **Conflict = normal（正常）** —— 冲突不可避免 | 组织由**多个利益群体**组成,各有**正当但相互竞争的利益 (competing interests)** | 接受冲突,靠**协商、制度、工会、谈判**来调和 |
+| **Radical / Marxist (激进论)** | **Conflict = structural（结构性）** —— 冲突根植于体制 | **权力不平衡内建于资本主义**;冲突反映**阶级对抗 (class antagonism)** | 表面调和不够,需要**系统性变革 (systemic reform)** |
+
+**逐一要点（老师 slide）：**
+- **Unitarist** — *Conflict = pathology.*
+  - 假设劳资利益**一致**,冲突是"出了问题"的信号 → 与 §C2-B 的 **Traditional View** 相通
+  - 管理含义:领导用愿景/文化把大家"拧成一股绳";工会被视为多余甚至破坏性
+- **Pluralist** — *Conflict = normal. Org has competing interests.*
+  - 承认组织内有**多个合法的利益主体**(管理层、员工、股东、工会…) → 与 **Interactionist View** 相通
+  - 管理含义:管理者是**调停者/平衡者**,靠规则、谈判、妥协维持秩序(连接 §3.4 谈判)
+- **Radical (Marxist)** — *Conflict = structural. Power imbalances built into capitalism.*
+  - 冲突源于**生产关系中的权力与阶级不平等**,不是个人或沟通问题
+  - 反映 **class antagonism（阶级对抗）**;真正的解决需 **systemic reform（系统性改革）**,而非小修小补
+  - 批判视角:质疑"管理层代表所有人"的假设
+
+> 🔑 **为什么重要（考点）：**
+> - 你的 frame 决定你的**诊断与处方**:Unitarist 会"压制"冲突,Pluralist 会"协商"冲突,Radical 会"改造结构"
+> - **多数现代管理实践 = Pluralist**(接受冲突 + 制度化管理),但 Unitarist 语言(团队/家文化)仍很流行
+> - Radical 框架提醒我们关注**权力结构** —— 呼应 §4.2 权力 + §2.5 "Getting Burned" 的剥削批判
+> 📝 论述题常见:用三种 frame **分别**分析同一个劳资/组织冲突案例,展示不同诊断。
+
+---
+
+##### D. 冲突过程 (The Conflict Process — Robbins)
+
+```
+阶段1          阶段2          阶段3          阶段4          阶段5
+潜在对立    →  认知与个人化  →  意图        →  行为        →  结果
+(条件具备)     (感知/感受到)   (TKI 五策略)   (公开冲突)     (功能/失能)
+```
+1. **Potential Opposition** — 前因：沟通、结构、个人差异
+2. **Cognition & Personalization** — 冲突被**感知 (perceived)** 和**感受 (felt)**
+3. **Intentions** — 决定如何回应 → **Thomas-Kilmann 五种模式**（见下）
+4. **Behaviour** — 冲突公开化 + 对方反应
+5. **Outcomes** — Functional（绩效↑）或 Dysfunctional（绩效↓）
+
+---
+
+##### E. Thomas-Kilmann Conflict Mode Instrument (TKI)
+
+> **最经典、最常用的冲突处理框架** (Thomas & Kilmann, 1974)。
+> 核心:处理冲突的风格可由**两个维度**定位 —— 没有"唯一正确"的模式,**视情境而定**（呼应权变思想）。
+
+**两个维度 (Two Dimensions)：**
+- **Assertiveness (果断 / 坚持自己)** — 多大程度满足**自己**的需求 (纵轴)
+- **Cooperativeness (合作 / 顾及对方)** — 多大程度满足**对方**的需求 (横轴)
+
+**五种冲突处理模式 (5 Modes) — 矩阵定位：**
+
+| **Assertiveness ↓ ＼ Cooperativeness →** | **低 Cooperativeness** | **中** | **高 Cooperativeness** |
+|:--|:-:|:-:|:-:|
+| **高 Assertiveness** | 🥊 **Competing**<br>(竞争 · Win-Lose) | | 🤝 **Collaborating** ⭐<br>(协作 · Win-Win) |
+| **中** | | ⚖️ **Compromising**<br>(妥协 · 各让一步) | |
+| **低 Assertiveness** | 🚪 **Avoiding**<br>(回避 · Lose-Lose) | | 🎁 **Accommodating**<br>(迁就 · Lose-Win) |
+
+> 📐 **读图**：纵轴 = **Assertiveness（坚持自己,从下往上递增）**；横轴 = **Cooperativeness（顾及对方,从左往右递增）**。
+> 四角 + 正中 = 5 种模式。左上**只顾自己**(Competing) ↔ 右下**只顾对方**(Accommodating)；右上**两者兼顾**(Collaborating) ↔ 左下**都不顾**(Avoiding)；正中**折中**(Compromising)。
+
+| 模式 | 果断×合作 | 输赢 | 含义 | 何时用 |
+|------|----------|------|------|--------|
+| **Competing (竞争/支配)** | 高 × 低 | Win-Lose | 坚持己见,牺牲对方 | 紧急、需果断、不受欢迎但必要的决定 |
+| **Collaborating (协作)** ⭐ | 高 × 高 | Win-Win | 共同找双赢方案 | 双方利益都重要、需要承诺、有时间 |
+| **Compromising (妥协)** | 中 × 中 | 各让一步 | 折中,部分满足双方 | 时间紧、势均力敌、临时方案 |
+| **Avoiding (回避)** | 低 × 低 | Lose-Lose | 退缩、拖延、不面对 | 议题琐碎、需冷静、信息不足 |
+| **Accommodating (迁就)** | 低 × 高 | Lose-Win | 让步,优先对方 | 自己错了、关系比议题重要、积累善意 |
+
+> 🔑 **关键洞见：没有"最佳"模式 —— 每种模式都有适用情境**（情境领导思维的延伸）。
+> - **Collaborating** 理论上最理想(Win-Win),但**最耗时**,不是每次都值得
+> - **Avoiding / Accommodating** 看似消极,但在某些情境(琐事、保关系)是明智的
+> - **成熟的冲突管理者 = 能根据情境灵活切换 5 种模式**,而非固守一种偏好
+
+> 💡 **连接**：
+> - 与 §4.1 **Situational Leadership** 同构 —— "no single best style",看情境
+> - 与 §C2 层级:**Avoiding** 易导致 L1 Intrapersonal 冲突被压抑 → 后续以 withdrawal 爆发
+> - 测评工具:TKI 问卷可测出个人的**默认冲突风格偏好**
+
+> 📝 **考点**：给一个冲突情境,判断**最合适的 TKI 模式并说明理由**;或分析过度使用某一模式的后果(如总是 Competing → 关系破裂;总是 Accommodating → 被利用)。
+
+**🔬 Key Evidence（老师强调的关键证据）：**
+1. **No mode is inherently good or bad** —— 没有模式天生好或坏,**每种在合适情境下都有用**（再次强调情境性）
+2. **Most managers over-use 1–2 modes, under-using the rest** —— 多数管理者**过度依赖 1–2 种**默认模式,而**忽略其余**
+   - 💡 成长方向:刻意练习自己**不擅长**的模式,扩大"冲突处理 range"（呼应 §4.0 Leadership Range）
+3. **De Dreu & Weingart (2003)** ⭐ 元分析:**Task conflict 能改善决策 —— 但前提是 Relationship conflict 处于 LOW（低水平）**
+   - 关键条件句:task 争论有益**当且仅当**人际关系冲突低;一旦掺入关系冲突,益处消失甚至反转
+   - → 实务:鼓励就事论事的争论,同时**严防它变成人身/情绪对立**
+4. **Hybrid / Remote 情境**:**Avoiding 和 Accommodating 增多** → 冲突变得**隐形 (invisible) 并不断升级 (escalates)**
+   - 远程下人们更倾向回避/迁就(不想在屏幕上对抗)→ 问题被掩盖 → 暗中累积 → 突然爆发
+   - 连接 §2.5 **hybrid invisibility** + §C2 **Level 1 以 withdrawal 浮现**
+5. **🎯 TKI Pre-class（课前任务）**:**reflect on your dominant mode and one missed opportunity**
+   - 反思:① 我的**主导模式**是哪种？ ② 一次我**本该用别的模式**却用错了的"错失机会"
+   - **我的主导模式：**
+   - **我的"错失机会"：**
+
+---
+
+##### F. 冲突解决 — Negotiation, Mediation & Arbitration（冲突解决三机制）
+
+> 当冲突需要正式干预时,有三种逐级升级的解决机制 —— 区别在于**谁掌握决定权**(从双方自主 → 第三方裁决)。
+
+> 🎯 **一句话精髓（老师 slide）：**
+> - **Negotiation** — *Parties resolve it themselves.*（当事双方自己解决）
+> - **Mediation** — *Neutral third party **facilitates**.*（中立第三方**协助**，不拍板）
+> - **Arbitration** — *Neutral third party **decides**.*（中立第三方**裁决**，做最终决定）
+>
+> 记忆钥匙:**谁拍板？** Negotiation=双方 → Mediation=仍是双方(第三方只搭桥) → Arbitration=第三方。
+
+**三机制对比（核心区分）：**
+
+| 机制 | 第三方角色 | 谁做最终决定 | 约束力 | 适用 |
+|------|-----------|------------|--------|------|
+| **Negotiation (谈判)** | **无第三方** | **当事双方自己** | 自愿 | 双方愿意直接对话 |
+| **Mediation (调解)** | 中立者**协助沟通**,不裁决 | **仍是双方** | 自愿/无约束力 | 沟通破裂、需第三方搭桥 |
+| **Arbitration (仲裁)** | 中立者**听证后裁决** | **第三方（仲裁员）** | **有约束力 (binding)** | 僵局、需权威了断 |
+
+```
+当事人掌控 ◄──────────────────────────────► 第三方掌控
+  Negotiation  →  Mediation  →  Arbitration  →  (诉讼 Litigation)
+   双方自决       第三方协助      第三方裁决        法院判决
+```
+
+---
+
+**① Negotiation（谈判）— 两种策略：**
+
+| | **Distributive (分配型)** | **Integrative (整合型)** ⭐ |
+|--|--------------------------|---------------------------|
+| 别名 | Win-Lose / "切蛋糕" | Win-Win / "做大蛋糕" |
+| 假设 | **固定的饼** (fixed pie) — 你多我就少 | **可扩大的饼** — 共创价值 |
+| 焦点 | **立场 (positions)** | **利益 (interests)** |
+| 关系 | 对抗、短期 | 合作、长期 |
+| 关键概念 | **BATNA**（最佳替代方案）、保留价(reservation point) | 探索共同利益、交换不同优先级 |
+
+> 💡 **BATNA (Best Alternative To a Negotiated Agreement)** —— 谈不成时你的最佳退路;BATNA 越强,议价力越大。
+> 💡 **整合型谈判的钥匙**：聚焦**利益**而非**立场**（Fisher & Ury, *Getting to Yes*）—— 问"你**为什么**要这个",常能发现双赢空间。
+> 💡 连接 TKI:Distributive ≈ Competing;Integrative ≈ Collaborating。
+
+---
+
+**⭐ Interest-Based Relational (IBR) Negotiation — Fisher & Ury (2011, *Getting to Yes*)**
+
+> 整合型谈判的经典操作框架,又称 **Principled Negotiation（原则式谈判）**。
+> 核心:既要达成**好结果**,又要**保护双方关系** —— 对事强硬,对人温和 (*hard on the problem, soft on the people*)。
+
+**四大原则 (The 4 Principles) — 逐条详解（老师 slide）：**
+
+**1️⃣ Separate the PEOPLE from the PROBLEM（把人与问题分开）**
+- **Attack the problem, not the person.**（攻击问题,不攻击人）
+- **Preserve the relationship.**（保护关系）
+- **People issues（人的问题）= perceptions（知觉）+ emotions（情绪）** —— 要**明确地处理它们 (address them explicitly)**,而**不是把它们当成绊脚石**忽略掉
+- 💡 防止 task 冲突滑向 relationship 冲突;情绪不消化,理性谈判无从谈起
+
+**2️⃣ Focus on INTERESTS, not POSITIONS（聚焦利益,而非立场）**
+- **Positions = stated demands**（立场 = 摆在桌面上的要求,"我要什么"）
+- **Interests = underlying needs, fears, hopes**（利益 = 背后的需求、恐惧、希望,"我为什么要"）
+- **Ask "Why?", not just "What?"**（问"为什么",而不只是"是什么"）
+- 🔑 **Behind every position sit compatible interests.**（每个对立立场背后,往往藏着**可兼容**的利益）—— 这是双赢的入口
+
+**3️⃣ Generate OPTIONS for Mutual Gain（创造双赢方案）**
+- **Brainstorm before deciding.**（先头脑风暴,再做决定 —— 把"创造选项"和"评判选项"分开）
+- **Invent options that expand the pie.**（发明能**做大蛋糕**的方案,而非只切分固定的饼）
+- **Avoid premature judgement.**（避免过早评判 —— 过早否定会扼杀好点子）
+- 🔑 **Best agreements meet both parties' core interests.**（最好的协议满足**双方的核心利益**）
+
+**4️⃣ Use OBJECTIVE CRITERIA（坚持客观标准）**
+- **Ground the agreement in standards both parties accept.**（让协议建立在**双方都认可的客观标准**上）
+- 例子:市场价、行业惯例、法律先例、专家意见、可量化指标
+- 💡 用"标准"说话,而非比谁更强硬/更能耗 —— 把谈判从"意志的较量"变成"道理的较量"
+
+> 📌 **经典立场 vs 利益例子**：两人抢一个橙子 → 立场都是"我要这个橙子"(零和);问利益才发现:一个要**果肉榨汁**,一个要**橙皮烤蛋糕** → 双赢分法。
+
+> 🔑 **IBR 的关键贡献**：
+> - 把抽象的"integrative negotiation"变成**可操作的 4 步**
+> - **People + Problem 分离** 直接呼应 §C 的 **De Dreu & Weingart**：保住关系(低 relationship 冲突)才能让 task 争论产生价值
+> - **BATNA** 是 IBR 的配套概念:知道自己的退路,才能既合作又不被占便宜
+> 💡 连接 TKI **Collaborating** + Fox **Pluralist** 框架(承认多方利益,靠协商调和)。
+> 📝 考点:用 IBR 四原则**改写**一个分配型(立场对抗)谈判,展示如何转为整合型。
+
+---
+
+**② Mediation（调解）：**
+- 中立第三方**促进沟通**、帮助双方找共识 —— 但**不强加**解决方案
+- 决定权**仍在双方手中**;调解员是"催化剂"不是"法官"
+- 适合:关系需维持、双方愿谈但卡住、希望保密与灵活
+- 例子:HR 介入两名员工的纠纷、劳资调解
+
+**③ Arbitration（仲裁）：**
+- 中立第三方**听取双方陈述后做出裁决**
+- 可以是 **binding（有约束力,双方须服从）** 或 non-binding
+- 比诉讼**更快、更私密、成本更低**;常见于商业合同、劳资协议
+- 决定权**转移给第三方** → 双方失去对结果的控制
+
+> 🔑 **选择逻辑**：先试 **Negotiation**（最省、保留关系与控制）→ 不成转 **Mediation**（第三方搭桥）→ 再不成上 **Arbitration**（第三方了断）→ 最后才 **Litigation**（法院）。
+> 💡 连接 §C2 层级:**Level 4 Interorganisational** 冲突主要靠 **Negotiation + Arbitration**。
+
+##### G. Critical Reflection, Summary & CAT Reminder（批判反思 · 小结 · CAT 提醒）
+
+**🎯 Closing Provocation（结尾挑衅命题）：**
+> *"Conflict should be accepted as a reality and properly managed can be an **energising force**. Managers should be encouraged to invoke **constructive conflict**."*
+> ❓ **核心辩题：Do the negative aspects outweigh the potential benefits?**
+> （冲突的负面是否盖过了它潜在的好处？管理者真的该**主动制造**建设性冲突吗？）
+
+**⚖️ 正方（好处 > 风险，应主动激发建设性冲突）：**
+- Inverted-U:**零冲突 → 群体思维 + 停滞**;适度冲突提升决策与创新
+- Functional conflict 暴露隐藏假设、驱动创新（devil's advocacy、结构化辩论）
+- 不激发冲突 = 放任 groupthink,长期更危险
+
+**⚖️ 反方（风险 > 好处，应谨慎）：**
+- 冲突**极易失控**:task 冲突一旦掺入 relationship 冲突就反转为破坏性（De Dreu & Weingart）
+- CWB、人才流失、情感创伤、扩散到旁人 —— 失能成本高且难逆转
+- "主动 invoke 冲突"在低信任 / 低心理安全的团队中 = 玩火
+- 文化因素:在高**和谐导向**(如部分东非/集体主义)文化中,刻意制造冲突可能适得其反
+
+**🧭 平衡立场（多数学者 / 本课倾向）：**
+> 不是"要不要冲突",而是"**要哪种冲突 + 在什么条件下**"。
+> → 主动激发 **task conflict**,**前提是**先建立 **心理安全 + 低 relationship 冲突 + 公平程序**;否则不宜 invoke。
+> → 呼应:**Conflict TYPE matters more than LEVEL**（类型比水平更重要）。
+
+**📝 我的立场（写下你的答案）：**
+-
+
+---
+
+**⭐ 5 Key Takeaways（老师总结的五个要点）：**
+1. **Conflict is normal** —— **management creates the conditions** that make it **functional or destructive**.
+   （冲突是常态;是**管理**决定了它走向**建设性还是破坏性** —— 责任在如何管理,而非冲突本身）
+2. **Frames of reference** (Unitarist / Pluralist / Radical) **塑造我们如何看待与回应冲突**
+   *（老师原句待补全 —— "Frames of reference (...)"，发我后替换）*
+3. *（待补）*
+4. *（待补）*
+5. *（待补）*
+
+---
+
+**📌 本节小结（Conflict Management — 一页回顾）：**
+1. **冲突是组织现实** → 目标是管理而非消灭;适度冲突是 energising force
+2. **类型**：Task（适度有益）/ Relationship（有害）/ Process
+3. **层级**：Intrapersonal → Interpersonal → Intergroup → Interorganisational
+4. **来源 & 框架**：6 大来源 + Fox 三框架（Unitarist / Pluralist / Radical）
+5. **Inverted-U**：太少/太多都差;**Type > Level**（De Dreu & Weingart）
+6. **TKI 五模式**：Competing / Collaborating / Compromising / Avoiding / Accommodating（无最佳,看情境）
+7. **解决机制**：Negotiation → Mediation → Arbitration（谁拍板逐级转移）
+8. **IBR 四原则**（Fisher & Ury）：人/问题分开 · 利益非立场 · 创造选项 · 客观标准
+9. **Justice → OCB / CWB**：公平是冲突前因,也是 OCB↑/CWB↓ 的杠杆
+
+---
+
+**📋 CAT Reminder（持续评估任务提醒）：**
+> *CAT = Continuous Assessment Task（持续评估任务 / 平时作业）*
+- **任务内容：**
+- **截止日期 (Due)：**
+- **提交方式 / 格式：**
+- **占比：** ___%
+- **备注 / 老师要求：**
+
+##### H. 课堂笔记 / 老师强调 / 讨论（冲突管理）
+- 老师强调的点：
+- 课堂例子：
+- 同学讨论：
+
+### 3.5 权力与政治 (Power & Politics)
+
+#### Session Roadmap — Control, Power & Organisational Politics
+
+**课堂主线：**
+1. **Opening & Framing:** Politics - disease or operating system?
+2. **Power & Sources:** French & Raven's six bases of power
+3. **Control:** formal and informal mechanisms that shape behaviour
+4. **Organisational Politics:** how people pursue interests under uncertainty and scarce resources
+
+---
+
+#### A. Opening & Framing: Politics - Disease or OS?
+
+课堂开场问题：**组织政治是组织疾病，还是组织运行系统 (operating system)?**
+
+**Disease, or Operating System?**
+
+> **The Myth:** Power and politics are corruption - disciplined managers rise above them through merit and transparency alone.
+
+> **The Reality:** Power and control are the operating system of every organisation - the invisible layer running underneath every decision (Pfeffer, 1992).
+
+**Core premise:**
+- **Organizations are political.**
+- **Humans are political.**
+
+**Why organisations are political:**
+- **Competing goals** across departments and functions.
+- **Scarce budgets** that must be contested and justified.
+- **Multiple stakeholders** with legitimate but conflicting needs.
+- **Strategic ambiguity** that creates power vacuums.
+
+**Why humans are political:**
+- **Evolved for coalition and tribal alliance.**
+- **Hardwired to seek status and recognition.**
+- **Navigate influence through trust networks.**
+- **You cannot train political instinct away.**
+
+**课堂反转 / 解释：**
+- Power and politics are not automatically corruption; they are unavoidable features of collective work.
+- Merit matters, but merit alone rarely moves decisions when resources are scarce, goals conflict, and information is unevenly distributed.
+- Transparency reduces toxic politics, but it does not eliminate power differences, stakeholder interests, informal networks, or agenda-setting.
+- Disciplined managers do not “rise above” politics; they learn to **read, use, and constrain** politics ethically.
+- The managerial question is not “How do I avoid politics?” but “How do I use power responsibly while preventing manipulation, fear, and unfairness?”
+
+| Myth | Reality |
+|------|---------|
+| Politics = corruption | Politics = informal operating system of decisions |
+| Good managers avoid power | Good managers understand and use power ethically |
+| Merit and transparency are enough | Merit needs influence, coalitions, timing, and stakeholder alignment |
+| Power is visible in the hierarchy | Much power is invisible: information, networks, expertise, agenda control |
+
+**The Spectrum: Where do you stand?**
+
+课堂反思可以把自己放在一条光谱上：
+
+```text
+Politics is disease                                      Politics is OS
+Corruption / manipulation        Mixed reality           Necessary influence system
+Avoid it completely              Use with caution        Use ethically and consciously
+```
+
+**我的位置：** ____________
+
+**为什么：**
+- 我认为组织政治最危险的地方是：
+- 我认为组织政治不可避免的原因是：
+- 作为管理者，我需要学习的政治能力是：
+
+**Reflection prompt:**
+- **Who has pretended politics did not exist - and it cost you?**
+- What was the cost: missed promotion, failed project, lost support, delayed decision, damaged trust, or personal frustration?
+- What political signal did you ignore?
+- What would you do differently now?
+
+**Two Voices in the Room**
+
+| Voice | Position | Core claim | Leadership implication |
+|-------|----------|------------|------------------------|
+| **Voice 1: Always destructive** | Politics is manipulation | Ethical leaders rise above politics through merit and transparency alone. | Good leadership means minimising politics, avoiding hidden agendas, and relying on fair systems. |
+| **Voice 2: It depends** | Politics depends on choice and context | Politics is a leadership tool - destructive when used for self-interest, constructive when used to align stakeholders and serve collective goals. | Good leadership means using influence ethically, reading context, and preventing power from becoming manipulation. |
+
+> 课堂判断：The ethical question is not whether politics exists, but **whose interest it serves and how transparently power is used**.
+
+**Office-politics cartoon（课堂图片）**
+
+画面中，一位办公室员工被上级/同事一边交代复杂的午餐和咖啡要求，一边用命令式语气提醒“不要像上次一样搞错”。这个 cartoon 把 office politics 的几个核心问题压缩在一个日常场景里：
+
+- **权力距离 (Power distance)：** 被指派的人处在低权力位置，只能承担琐碎、非正式、低价值的任务。
+- **非正式控制 (Informal control)：** 不是正式岗位说明书要求他买午餐，而是组织关系和地位压力让他难以拒绝。
+- **角色降格 (Role degradation)：** 员工的专业身份被弱化，变成“跑腿者”；这会伤害 dignity、motivation 和 commitment。
+- **Coercive / legitimate power 的微型使用：** 命令语气和“别再搞错”暗含惩罚性评价，形成 compliance 而非 commitment。
+- **Politics as disease：** 如果这种行为常态化，会造成怨气、沉默、CWB、心理安全下降。
+- **Politics as OS：** 同时也提醒管理者，组织中很多真实权力并不写在 organogram 上，而是藏在日常互动、谁能命令谁、谁不敢拒绝谁之中。
+
+> 课堂 takeaway：Office politics often appears in small everyday interactions before it becomes a formal conflict. Watch the micro-behaviours: who gives orders, who absorbs inconvenience, who cannot say no, and whose preferences count.
+
+| 视角 | 核心观点 | 管理含义 |
+|------|----------|----------|
+| **Politics as Disease** | 政治 = 操纵、偏袒、内耗、办公室斗争 | 应降低不透明决策、任人唯亲、谣言和权力滥用 |
+| **Politics as OS** | 政治 = 在资源稀缺、目标冲突、不确定环境中协调利益的非正式系统 | 管理者必须读懂利益相关者、联盟、议程和权力分布 |
+
+> 关键理解：政治本身不必然是坏的。**自利、隐蔽、损害组织目标**的政治是有害的；**透明、伦理、服务组织目标**的政治技能是管理能力的一部分。
+
+**为什么政治不可避免？**
+- 资源有限：预算、晋升、注意力和关键项目都稀缺。
+- 目标冲突：部门 KPI、个人职业目标和组织战略不完全一致。
+- 信息不对称：有人掌握更多数据、关系或决策入口。
+- 不确定性：规则不清时，人会通过关系、联盟和叙事争取影响。
+- 权力差异：职位、专业、信息和个人魅力带来不平等影响力。
+
+#### B. Organisational Control: 组织如何塑造行为
+
+**Control** 不只是监控员工，而是组织用来引导行为、降低不确定性、确保目标实现的机制。
+
+**Types of control in organisations**
+
+| # | 控制类型 | 机制 | 优点 | 风险 |
+|---|----------|------|------|------|
+| 1 | **Bureaucratic Control** | Rules, formal procedures, and hierarchical authority govern behaviour. | 稳定、一致、可追责 | 僵化、低自主、Parkinson's Law |
+| 2 | **Market / Output Control** | KPI、目标、价格、竞争、合同、客户反馈和结果考核。 | 结果导向、授权空间较大、外部纪律强 | 指标游戏化、短期主义、关系交易化 |
+| 3 | **Cultural / Normative Control** | 价值观、规范、身份认同、同伴压力和 shared meaning。 | 内化约束，适合复杂任务 | 排外、从众、压制异议 |
+| 4 | **Electronic / Technological Control** | 数据追踪、AI 分配任务、平台评分、监控系统和实时 dashboards。 | 实时反馈、规模化、一致性 | 监控压力、去人性化、责任真空 |
+| 5 | **Self-control / Concertive Control** | 员工或团队通过内在标准、专业身份、同伴承诺和团队规范自我管理。 | 高自主、高承诺、适合知识工作 | 可能形成隐性高压、过度工作、团队内部规训 |
+
+> 连接 §2.3 SDT：过强的控制会把员工推向 **Controlled Motivation**，降低 autonomy；好的管理要把控制和自主支持平衡起来。
+
+**Do Human Beings Need Controls?**
+
+| The case for controls | Why it matters |
+|-----------------------|----------------|
+| **Agency Problem** | Self-interest can diverge from collective organisational goals. |
+| **Bounded Rationality** | Cognitive limits mean people need structure to decide consistently. |
+| **Social Loafing** | Effort drops in groups without visible accountability. |
+| **Coordination** | Complex, interdependent tasks demand alignment to prevent chaos. |
+
+| The case against excessive control | Why it matters |
+|------------------------------------|----------------|
+| **Theory Y** | People are inherently motivated and seek responsibility (McGregor). |
+| **Self-Determination Theory** | Autonomy fuels intrinsic motivation; over-control erodes it. |
+| **Innovation** | Excessive rules stifle experimentation, creativity, and risk-taking. |
+| **Trust Deficit** | Heavy monitoring signals distrust. |
+
+**Balanced conclusion:**
+Humans need **enabling controls**, not suffocating controls. Good control clarifies goals, boundaries and accountability; bad control replaces judgment, autonomy and trust with fear and compliance.
+
+#### C. Six Sources of Power — French & Raven
+
+French & Raven 的权力基础在 §4.2 已详细展开；这里作为组织政治的分析工具使用。
+
+**Power = the capacity to influence behaviour, decisions, resources, and meaning.**
+
+| 权力基础 | 来源 | 政治含义 |
+|----------|------|----------|
+| **Reward** | 奖励、资源、机会 | 谁能给预算、晋升、项目和认可？ |
+| **Coercive** | 惩罚和制裁 | 谁能制造成本或阻止别人？ |
+| **Expert** | 专业知识和技能 | 谁的判断被依赖？ |
+| **Legitimate** | 正式职位和层级 | 谁有正式拍板权？ |
+| **Referent** | 魅力、信任、认同 | 谁能让人自愿跟随？ |
+| **Informational Power** | 信息、数据、议程控制 | 谁知道真相、控制叙事或决定信息流？ |
+
+**考试句：** Organisational politics is the practical use of power bases to shape decisions, resources, agendas and interpretations.
+
+**Slide notes - six sources in detail:**
+
+| Source | Slide definition | Key caveat |
+|--------|------------------|------------|
+| **Reward** | Power based on the ability to reward others' behaviour, e.g. pay, promotion, allocation to certain projects. | If followers do not value the rewards, the leader has no reward power. |
+| **Coercive** | Power based on the ability to punish non-conforming others, e.g. humiliation, loss of favour, withdrawal of support. | Followers' perception of penalties gives coercive power. |
+| **Expert** | Power based on influencing others through special expertise. | This is not dependent on job title or position; it works only if followers believe the leader has superior knowledge and expertise. |
+| **Legitimate** | Power to influence by being in a more powerful position; also called position power. | A leader has this power if followers believe the leader has a right to give them orders which they are obliged to accept. |
+| **Referent** | Power based on charisma due to personality or style of behaviour. | A leader has this power if followers believe they have desirable characteristics that should be copied. |
+| **Informational Power** | Power based on access to information. | This is not necessarily dependent on being in a leadership position; it overlaps with expert power, but some roles have privileged access to information. |
+
+**Slide insights:**
+- Power bases are dependent upon the beliefs of those following a leader.
+- A leader can operate from multiple bases of power at the same time.
+- Power bases can interact in complicated ways: use of one base may strengthen or weaken the ability to use another.
+- For example, excessive coercive power may weaken referent power; strong expert power may increase legitimate influence even without a formal title.
+
+#### C.1 Lukes' Three-Dimensional View — Power Has Depth
+
+> **Core idea:** The deeper the dimension, the less visible - and the more powerful (Lukes, 2025).
+
+Lukes' framework shifts the question from **"What is the source of power?"** to **"How deeply does power shape what can happen, what can be discussed, and what people think they want?"**
+
+| Dimension | Name | How power works | What to look for |
+|-----------|------|-----------------|------------------|
+| **1. Overt** | Visible decision-making | Power is seen in observable conflict: who wins the argument over budget, policy, or resources. | Votes, meetings, formal decisions, direct conflict, visible winners and losers |
+| **2. Covert** | Agenda-setting | Power is exercised by keeping issues off the table: deciding what never gets discussed. | Delayed items, excluded voices, missing topics, controlled agendas |
+| **3. Latent** | Shaping desires and ideology | The deepest power shapes what people believe they want, so conflict never surfaces. | "Common sense" assumptions, internalised norms, unquestioned traditions |
+
+**Example:**
+A board **postpones** a controversial item indefinitely (**covert power**) while treating **"that's just how it's done here"** as common sense (**latent power**).
+
+**Exam insight:**
+- Overt power asks: **Who won?**
+- Covert power asks: **What was never allowed onto the agenda?**
+- Latent power asks: **What do people no longer even imagine questioning?**
+
+#### C.2 Constructive vs Destructive Politics — The Two Sides of Politics and Power
+
+Politics and power are not automatically good or bad. Their impact depends on **intention, method, transparency, and whose outcomes are being served**.
+
+**Constructive politics:**
+
+```text
+Constructive Politics = Power + Influence x Shared Outcomes
+```
+
+Meaning:
+- **Power** gives the capacity to act.
+- **Influence** turns that capacity into movement.
+- **Shared outcomes** determine whether the political behaviour serves a wider purpose rather than narrow self-interest.
+
+| Dimension | Destructive politics | Constructive politics |
+|-----------|----------------------|----------------------|
+| **Purpose** | Personal gain, ego, survival | Shared organisational outcomes |
+| **Method** | Manipulation, deception, exclusion | Transparent influence, coalition-building |
+| **Result** | Short-term wins, long-term mistrust | Lasting credibility and relational capital |
+| **Label** | Political operator | Strategic, trusted leader |
+
+> Core distinction: politics becomes constructive when power and influence are used to create shared outcomes; it becomes destructive when power is used to extract compliance for private gain.
+
+**Influence toolkit — Ethos, Pathos, Logos**
+
+Aristotle's three modes of persuasion help explain how power becomes influence:
+
+| Mode | Meaning | In organisational politics | Risk if abused |
+|------|---------|----------------------------|----------------|
+| **Ethos** | Credibility, character, trustworthiness | People listen because they believe you are competent, ethical, and worth trusting. | False credibility, status games, reputation management without substance |
+| **Pathos** | Emotional appeal | People move because the issue connects to fear, pride, urgency, belonging, or purpose. | Manipulation, panic, guilt, tribal emotion |
+| **Logos** | Logic, evidence, reasoned argument | People are persuaded by data, causal reasoning, costs, benefits, and clear trade-offs. | Data dumping, selective evidence, rationalising a pre-decided agenda |
+
+**Practical link:**
+- **Ethos** builds permission to be heard.
+- **Pathos** creates energy to care.
+- **Logos** gives structure for deciding.
+
+> Constructive influence usually needs all three: credible messenger, emotionally meaningful purpose, and a rational case.
+
+**Empowerment vs Machiavellianism — Same Power Bases, Different Choices**
+
+The same power bases can be used to **empower others** or to **control them for private advantage**. The ethical difference is not the existence of power, but the intention, transparency, and distribution of benefit.
+
+| Dimension | Empowerment & Delegation | Machiavellianism |
+|-----------|--------------------------|------------------|
+| **Core logic** | Giving power away on purpose, with clear boundaries and accountability. | Political behaviour driven by self-interest, manipulation and strategic calculation. |
+| **View of others** | Others are capable contributors who can grow. | Others are instruments, rivals, or obstacles to be managed. |
+| **Use of information** | Shares enough information for responsible decisions. | Withholds, distorts, or selectively releases information. |
+| **Use of control** | Sets boundaries and accountability without micromanagement. | Uses ambiguity, dependency, fear, or favour to maintain advantage. |
+| **Effect on power bases** | Builds others' referent and expert power. | Concentrates power around the political actor. |
+
+**Empowerment & Delegation**
+
+Giving power away on purpose, with clear boundaries and accountability:
+- **Clear mandate and decision rights.**
+- **Trust backed by visible competence.**
+- **Accountability without micromanagement.**
+- **Builds others' referent and expert power.**
+
+**Machiavellianism**
+
+Political behaviour driven by self-interest:
+- Uses influence to protect personal gain, ego, status, or survival.
+- Treats transparency as optional when opacity is useful.
+- Builds dependency rather than capability.
+- May produce short-term wins but damages trust, psychological safety, and relational capital.
+
+> Exam distinction: Empowerment distributes power to increase collective capacity; Machiavellianism concentrates power to increase personal advantage.
+
+**Whistleblowing & the 3 Lenses — When Resistance Is the Ethical Act**
+
+> When control or politics crosses an ethical line, resistance - including whistleblowing - is a legitimate political act, not disloyalty.
+
+Whistleblowing reframes "resistance" as a possible form of **ethical voice**. It challenges the idea that loyalty means silence. In some cases, loyalty to the organisation's mission, stakeholders, law, or public interest requires speaking up against the organisation's current behaviour.
+
+| Lens | Key question | What whistleblowing reveals |
+|------|--------------|-----------------------------|
+| **Ethical lens** | Is this action right, lawful, fair, and responsible to affected stakeholders? | Some orders or practices should not be obeyed just because they are authorised. |
+| **Organisational justice lens** | Are procedures, outcomes and interpersonal treatment fair? | Whistleblowing often emerges when internal justice mechanisms fail. |
+| **Power lens (Lukes)** | Is power visible, hidden in agendas, or shaping what people think is normal? | Whistleblowing exposes covert or latent power: what was hidden, normalised, or kept off the agenda. |
+
+**When resistance becomes ethical:**
+- Harm is being hidden or normalised.
+- Internal voice channels are blocked, unsafe, or performative.
+- Control systems are used to punish truth-telling.
+- Political behaviour protects private interests at public or organisational cost.
+- Silence would make the employee complicit.
+
+**Managerial implication:**
+Healthy organisations do not treat all resistance as disloyalty. They build safe reporting channels, protect voice, investigate concerns fairly, and distinguish destructive sabotage from principled dissent.
+
+**3P Ethical Test for Political Behaviour**
+
+Before using power or political influence, ask:
+
+| Test | Question | What it checks |
+|------|----------|----------------|
+| **1. Purpose** | **Business outcome - or ego?** Is this genuinely serving the organisation, or mainly my own advancement? | Intention and interest |
+| **2. Path** | **Build or burn relational capital?** Does the method invest in trust, or damage relationships and exclude people? | Method and social cost |
+| **3. Perception** | **How would this look on the front page?** Would I be proud to explain this action to my board, or my successor? | Transparency and reputational legitimacy |
+
+> If the purpose is private, the path burns trust, and the perception test fails, the behaviour is likely destructive politics.
+
+**Power Map Self-check — Think / Pair / Share**
+
+**Think (2 min):**
+Rate yourself **1-5** on each of the six power bases.
+
+| Power base | My rating (1-5) | Evidence / example |
+|------------|------------------|--------------------|
+| Reward |  |  |
+| Coercive |  |  |
+| Expert |  |  |
+| Legitimate |  |  |
+| Referent |  |  |
+| Informational Power |  |  |
+
+- **Which is your anchor?** ____________
+- **Which is your blind spot?** ____________
+
+**Pair (3 min):**
+Tell a neighbour about:
+- One moment power was used **constructively** in your organisation.
+- One moment where it **wasn't**.
+
+**Share:**
+A few pairs report back:
+- What pattern showed up across the room?
+- Which power bases were most often used well?
+- Which power bases were most often abused or neglected?
+
+**Critical Reflections**
+
+- Can an organisation ever be truly "politics-free", or does that claim simply hide existing power?
+- When does loyalty become silence, and when does resistance become ethical responsibility?
+- Which is more dangerous: visible coercive power, or invisible agenda-setting power?
+- How can leaders use control without destroying autonomy, trust and intrinsic motivation?
+- Are "transparent systems" enough to prevent destructive politics, or do informal networks always reappear?
+- In your organisation, which power base is most rewarded: expertise, position, information, referent influence, or control over resources?
+- What would change if managers were evaluated not only by results, but by the relational capital they build or destroy while achieving them?
+
+> Final reflection: Power is unavoidable. The leadership question is whether power is used to enlarge collective capacity or to protect private advantage.
+
+**Closing Summary — Key Takeaways**
+
+1. **Power has many sources.** Position alone is the weakest; relational, expert and referent power are more durable.
+2. **Politics is neither good nor bad.** Purpose and method determine whether it becomes constructive or destructive.
+3. **Control has shifted.** It is no longer only visible hierarchy; it increasingly operates through algorithms, culture and self-regulation.
+4. **Lukes' warning:** The deepest power is the one nobody notices, including the assumptions you carry yourself.
+5. **You cannot opt out of organisational politics.** You can only choose how skilfully and ethically you engage.
+
+#### D. Organisational Politics: 定义、触发条件与行为
+
+**定义：**
+Organisational politics 是组织成员在正式规则之外，通过影响、联盟、议程设置、信息控制和印象管理来保护或推进自身/群体利益的行为。
+
+**Intention & Interest（意图与利益）：**
+
+分析组织政治时，不只看一个人“做了什么”，还要问两个问题：
+- **Intention:** 这个行为背后的意图是什么？是解决问题、保护团队、推动组织目标，还是操纵他人、维护个人地位？
+- **Interest:** 这个行为服务谁的利益？个人、部门、联盟、客户、组织整体，还是更广泛的利益相关者？
+
+| 组合 | 含义 | 判断 |
+|------|------|------|
+| Good intention + Collective interest | 为组织/团队目标使用影响力 | 健康政治，属于管理能力 |
+| Good intention + Narrow interest | 出发点可能合理，但视野局限 | 需要扩大 stakeholder thinking |
+| Self-serving intention + Collective language | 用组织目标包装个人利益 | 高风险，容易变成操纵 |
+| Self-serving intention + Narrow interest | 公开或隐蔽的个人化权力 | 有害政治，破坏信任和公平 |
+
+> 关键句：Politics becomes toxic when personal interest hides behind organisational language.
+
+**政治行为更容易出现的情境：**
+- 资源稀缺或预算削减。
+- 晋升、绩效评价、重组等高风险决策。
+- 目标模糊、规则模糊、责任边界模糊。
+- 组织变革导致赢家和输家重新分配。
+- 领导信任低、程序公平弱、沟通不透明。
+
+**常见政治策略：**
+- Coalition building - 建立联盟和支持网络。
+- Agenda setting - 决定哪些问题被讨论、哪些被忽略。
+- Information control - 选择性分享或延迟信息。
+- Framing - 用特定叙事定义问题，例如“成本问题”还是“公平问题”。
+- Impression management - 管理自己在关键人物眼中的形象。
+- Upward influence - 向上影响高层决策。
+- Blame avoidance - 甩锅、规避责任。
+
+#### E. Good Politics vs Bad Politics
+
+| 维度 | Good Politics | Bad Politics |
+|------|---------------|--------------|
+| 目的 | 推动组织目标、保护合理利益 | 个人私利优先，损害组织 |
+| 透明度 | 相对公开，可解释 | 隐蔽、操纵、误导 |
+| 方法 | 说服、联盟、证据、利益协调 | 谣言、偏袒、威胁、信息封锁 |
+| 结果 | 决策更现实，利益相关者更被看见 | 信任下降，CWB 上升，心理安全下降 |
+
+> 管理启示：成熟管理者不是“没有政治感”，而是能用伦理方式处理权力、利益和不确定性。
+
+#### F. 与课程其他章节的连接
+
+- **§1 Frames of Reference:** pluralist 视角认为组织本来就是利益联盟，因此政治是正常管理任务。
+- **§2 Motivation:** 控制型权力可能带来 compliance，但难以带来 commitment。
+- **§2.7 Justice:** 程序不公和互动不公会放大政治知觉，降低 OCB、提高 CWB。
+- **§3.4 Conflict:** 权力、地位和资源竞争是冲突来源。
+- **§4 Leadership:** 领导力的影响力来自权力基础，但伦理问题在于“权力为谁服务”。
+- **§6 Change:** 变革会重新分配资源、身份和地位，因此总会激活政治行为。
+
+---
+
+## 4. 领导力 (Leadership)
+
+### 🎯 Opening Provocation — The Leadership Question
+
+> **课堂开场命题 (Provocation Statement):**
+> *"Leadership is all about determination, personality and innate ability. Successful leaders are more likely born than trained."*
+
+老师用这个挑衅性命题打开整个领导力单元 — 这是 OB 里最古老也最持久的争论之一：**领导者是天生的，还是培养的？(Born vs Made)**
+
+---
+
+#### 🟢 支持"天生论"的论据 (Born — Trait Theory side)
+
+| 论据 | 论证 |
+|------|------|
+| 历史伟人案例 | Churchill, Mandela, Steve Jobs — 童年起就展现领导特质 |
+| 人格的稳定性 | Big Five 中外向性、尽责性、开放性大部分**遗传**且终生稳定 |
+| 早期 Trait Research (1900s-1940s) | Stogdill 整理发现部分特质（自信、智力、决断力）反复与领导效能相关 |
+| 神经科学 | 情绪调节、社交认知等能力部分由大脑结构决定 |
+| 选拔 ROI | 与其改造一个不合适的人，不如选对人 |
+
+---
+
+#### 🔴 反对"天生论"的论据 (Made — Development side)
+
+| 论据 | 论证 |
+|------|------|
+| 行为理论的兴起 | Ohio State / Michigan 研究表明：领导力是**可观察、可学习的行为**，不是神秘特质 |
+| 权变理论 | 没有"全能领导者" — 同一个人在不同情境下表现差异巨大，说明**情境塑造**而非天赋决定 |
+| 变革型领导可培养 | Bass 的研究：变革型行为可以通过培训显著提升 |
+| MBA / 领导力项目的存在意义 | 如果完全靠天生，就没有今天我们这门课了 😄 |
+| Deliberate Practice (Ericsson) | 包括领导力在内的复杂技能都可以通过刻意练习提升 |
+| Adaptive Leadership (Heifetz) | 领导力是**应对适应性挑战的能力** — 这是练出来的 |
+| 多样性论据 | 如果只有少数"天生"才能领导，就排除了大量未被发现的潜力者 |
+
+---
+
+#### ⚖️ 学界主流立场：**Born AND Made**
+
+> 现代共识：**Leadership = Nature × Nurture** — 天赋提供潜能，培养兑现潜能。
+
+| 阶段 | 主导观点 |
+|------|---------|
+| 1900-1940s | **Born** — 早期 Trait Theory 主导 |
+| 1950-1960s | **Made** — Behavior + Contingency 推翻 Trait 至上 |
+| 1990s+ | **Both** — Trait 复兴（Big Five 实证）+ Behavior 可学，**两者整合** |
+
+**实证结论：**
+- 约 **30%** 的领导效能差异可归因于遗传/特质（双胞胎研究）
+- 约 **70%** 来自经验、教育、刻意练习、反思
+
+> 💡 这意味着：天赋决定起点，**培养决定上限**。
+
+---
+
+#### 📊 课堂数据：领导力"范围"(Leadership Range) 才是关键
+
+> **70% of L&D professionals** say mastering a **wider leadership range** is important / very important
+> — *Harvard Business Publishing, 2025*
+
+**这个数据的深层含义（与 Born vs Made 辩论的连接）：**
+- 焦点已经从"领导者是否天生" → 转向"领导者能否**掌握多种风格**"
+- **Leadership Range (领导力范围/弹性)** = 根据情境、人、任务**切换**领导风格的能力
+- 这是对**权变/情境理论**的现代呼应：没有一种最佳风格，**versatility (多面性)** 才是核心能力
+- 强烈支持 **"Made" 阵营**：如果范围可以"mastered (掌握)"，那领导力本质上是**可发展**的
+- L&D (Learning & Development) 行业的整个存在逻辑都建立在"领导力可培养"之上
+
+> 💡 **考点连接**：
+> - "Range" 概念预告了 §4.1 的 **Situational Leadership (Hersey-Blanchard)** — 领导者要在 Directing / Coaching / Supporting / Delegating 之间切换
+> - 也呼应 Daniel Goleman 的 **"Leadership That Gets Results"** — 优秀领导者掌握 6 种风格并灵活调用
+> - 与 §2 的 **Learning as Motivator** 互通：领导力发展本身就是一种持续学习
+
+---
+
+#### 🤔 我的立场 (My Position)
+
+> *（独立思考栏 — 在听完整个单元前后，分别记下你的立场和论据）*
+
+- **课前立场：**
+- **课前理由：**
+- **课后立场：**
+- **课后理由（哪些课程内容改变了我的想法）：**
+
+---
+
+#### 🔗 后续连接
+
+这个 provocation 直接引出：
+- **§4.1 Trait Theory** — "Born" 论的学术化版本
+- **§4.1 Behavioral / Contingency Theory** — "Made" 论的支撑
+- **§4.0 Nature of Leadership** — 在选边之前，先理清"什么算领导力"
+
+---
+
+### 4.0 领导力的本质 (Nature of Leadership)
+
+#### 📌 课堂主题：What is Leadership?
+
+##### A. 定义与核心要素
+
+> **领导力** 是一个**影响 (influence)** 他人朝**共同目标**努力的过程 — 不是头衔，不是职位，而是**关系**和**过程**。
+
+**主流定义：**
+- *"Leadership is the process of influencing others toward the achievement of organizational goals."* — Robbins
+- *"Leadership is a process whereby an individual influences a group of individuals to achieve a common goal."* — Northouse
+- *"Leadership is mobilizing people to tackle tough problems."* — Heifetz (Adaptive Leadership)
+
+**三个不可缺的要素：**
+1. **Process (过程)** — 不是单次行为，而是持续的交互
+2. **Influence (影响力)** — 不依赖强制，而靠激发
+3. **Common goal (共同目标)** — 朝向某个比个人更大的方向
+
+---
+
+##### A2. 本课程采用的工作定义 (Working Definition of Leadership)
+
+> 🌟 **整合以上各家观点后，本课程采用的工作定义：**
+>
+> ### *"Leadership is a **process** of **social influence** through which an individual **mobilises, aligns and inspires** others to achieve a **shared goal**, while **adapting to change** and **building trust** — independent of formal authority."*
+>
+> 中译：**领导力是一个社会影响的过程** —— 个人通过它**调动、对齐并激励**他人去实现**共同目标**，同时**适应变革**、**建立信任**，且**不依赖正式职权**。
+
+**拆解这个工作定义的 6 个关键词（每个都呼应前面学过的内容）：**
+
+| 关键词 | 含义 | 连接 |
+|--------|------|------|
+| **Process (过程)** | 持续互动，非一次性行为 | §4.0-A 三要素 |
+| **Social Influence (社会影响)** | 核心机制 — 靠影响而非强制 | French & Raven 的 Personal power |
+| **Mobilises / Aligns / Inspires** | 三个动作动词 | Kotter 的 Aligning + Motivating |
+| **Shared Goal (共同目标)** | 朝向集体方向 | Northouse 定义 |
+| **Adapting to Change (适应变革)** | 领导处理"变革"而非"复杂性" | §4.0-B, §6 变革管理 |
+| **Independent of Formal Authority (不依赖职权)** | 没有头衔也能领导 | Leadership ≠ Management |
+
+> 💡 **为什么需要"工作定义"？**
+> - 学界有 **数百种**领导力定义（Stogdill 曾说"定义和研究者一样多"）
+> - 工作定义不是"唯一正确"，而是**本课程统一讨论的基准** — 后面分析所有理论/案例都回到这把尺子
+> - 关键特征：**强调过程、影响、适应、去职权化** — 这正是后英雄时代领导观
+
+> 📝 *（如老师给出的官方 working definition 措辞不同，把原文记在这里替换上面的版本）*
+> - 老师原话：
+
+---
+
+##### B. Leadership vs Management — Distinction & Complementarity
+
+> **课堂主题：** 领导与管理是两种**不同但互补**的行动系统 (Kotter)。
+> 既不能混为一谈（distinction），也不能割裂对立（complementarity）。
+
+**(1) Distinction — 核心区别**
+
+| 维度 | **Management (管理)** | **Leadership (领导力)** |
+|------|---------------------|----------------------|
+| 本质 | **应对复杂性** (Coping with complexity) | **应对变革** (Coping with change) |
+| 焦点 | **把事情做对** (Do things right) | **做对的事情** (Do the right things) |
+| 时间视野 | 短期 — 计划、预算、控制 | 长期 — 愿景、方向 |
+| 权威来源 | **职位** (Position power) | **影响力** (Personal power) |
+| 关键问题 | "我们如何完成？" (How?) | "我们为什么 / 去哪里？" (Why? Where?) |
+| 对人 | 控制、组织、配置 | 对齐、激励、启发 |
+
+**(2) Kotter 的三过程对照 (Three Core Processes)**
+
+> Kotter (*What Leaders Really Do*, HBR) 把两者拆成三组对应过程：
+
+| | **Management** | **Leadership** |
+|--|---------------|----------------|
+| **创造议程** | Planning & Budgeting（计划与预算） | Setting Direction（设定方向 / 愿景） |
+| **建立人的网络** | Organizing & Staffing（组织与配置） | Aligning People（对齐人心） |
+| **确保执行** | Controlling & Problem-solving（控制与解决问题） | Motivating & Inspiring（激励与鼓舞） |
+| **产出** | 可预测性、秩序、达成短期结果 | 变革，常常是**戏剧性**的变革 |
+
+**(3) Complementarity — 互补性（关键洞察）**
+
+> 🔑 **两者不是 either/or，而是 both/and** — 强组织需要二者**平衡**。
+
+```
+        弱 Management          强 Management
+       ┌──────────────────┬──────────────────┐
+  强   │  混乱有远见       │   高绩效组织 ✅   │
+Leader │ (愿景但执行不力)  │ (方向 + 落地)     │
+ship   ├──────────────────┼──────────────────┤
+  弱   │  失败/停滞        │  僵化官僚         │
+Leader │ (无方向无执行)    │ (高效但走错方向)  │
+ship   └──────────────────┴──────────────────┘
+```
+
+- **只有 Management，没有 Leadership** → 官僚、僵化、高效地做错的事、无法变革
+- **只有 Leadership，没有 Management** → 有愿景但混乱、无法落地、不可持续
+- **两者兼备** → 方向正确 + 执行到位 = 高绩效且能持续变革
+
+**(4) 经典论断与启示**
+
+> 🌟 **老师强调的金句 (Drucker):**
+> ## *"Managers do things right. Leaders do the right things."*
+> **→ Both are necessary; neither alone is sufficient.**
+> （两者缺一不可；任何一方单独都不够）
+>
+> 📌 注：此句常**同时归于 Drucker 与 Warren Bennis** — 两人都用过类似表述。课堂上归于 **Drucker**。
+> - *Do things **right*** = 把既定的事高效、正确地完成 → **效率 (efficiency)** → Management
+> - *Do the **right** things* = 选对该做的事、对的方向 → **效果 (effectiveness)** → Leadership
+
+> 💡 **Kotter**：多数组织 **over-managed and under-led**（管理过度、领导不足）。
+> 💡 **Zaleznik** (HBR 经典)：管理者与领导者是**两种不同的人格类型** — 管理者求秩序与控制，领导者容忍混乱、追求变革（较极端的"distinction"立场）。
+> 💡 **现实**：同一个人在不同时刻**两种角色都要扮演** — 上午 lead（定方向、激励），下午 manage（排计划、控预算）。
+
+> 🔑 **一句话记忆**：
+> Leadership = **Effectiveness**（做对的事，方向对）
+> Management = **Efficiency**（把事做对，过程顺）
+> 高绩效组织 = **Effectiveness × Efficiency** —— 缺一不可。
+
+**(5) 逐条对照卡 (Side-by-Side Characteristics)**
+
+**🧭 LEADERSHIP**
+- Sets **direction & vision**（设定方向与愿景）
+- **Aligns & inspires** people（对齐并激励人）
+- Builds **trust and commitment**（建立信任与承诺）
+- Creates **change and adaptation**（创造变革与适应）
+- Asks: ***"Are we doing the right things?"***（我们在做对的事吗？）
+- **Sources of power**: Personal, Relational, **Expert** power（个人 / 关系 / 专家权 — 非职位性）
+
+**⚙️ MANAGEMENT**
+- **Plans, organises, controls** & **allocates resources efficiently**（计划、组织、控制，并高效配置资源）
+- **Manages processes & systems**（管理流程与系统）
+- **Maintains stability and order**（维持稳定与秩序）
+- Asks: ***"Are we doing things right?"***（我们把事做对了吗？）
+- **Sources of power**: Positional, Legitimate authority（职位权 / 合法权威）
+
+> 📎 *管理四职能 (Fayol/POLC)*：**Planning → Organising → Leading/Staffing → Controlling** + **资源配置 (Allocating)**。这是经典的管理过程框架。
+
+> 💡 注意 **power sources** 与 §4.0-C (French & Raven) 完美对应：
+> Leadership 用 **Personal power**（Expert + Referent）；Management 用 **Position power**（Legitimate + Reward + Coercive）。
+
+**🔵 OVERLAP ZONE（重叠地带 — 既是领导也是管理）**
+
+> 课堂强调：Leadership 与 Management 不是非黑即白，中间有一大片**两者交叠**的实践区。
+> 优秀的 manager-leader 每天都在这个 zone 里工作：
+
+- **Setting clear expectations**（设定清晰期待）— *transactional*，偏管理但需领导沟通
+- **Building psychologically safe teams**（建立心理安全的团队）— Edmondson，连接 §2 Voice / Engagement
+- **Coaching & developing talent**（教练与培养人才）— 连接 §2 Mastery / Learning as Motivator
+- **Communicating context and purpose**（传达情境与目的）— 连接 Pink 的 Purpose
+- **Responding to VUCA complexity**（应对 VUCA 复杂性）— Volatile / Uncertain / Complex / Ambiguous
+- **Sustaining culture & values daily**（每日维系文化与价值观）— Schein，连接 §5 组织文化
+
+> 💡 **三区模型小结：**
+> ```
+> ┌─────────────┐   ┌──────────────┐   ┌─────────────┐
+> │ MANAGEMENT  │ ← │ OVERLAP ZONE │ → │ LEADERSHIP  │
+> │ 计划/控制    │   │ 期待·安全·   │   │ 愿景/激励    │
+> │ 秩序/资源    │   │ 教练·文化·   │   │ 变革/对齐    │
+> │ Position    │   │ VUCA 应对    │   │ Personal    │
+> └─────────────┘   └──────────────┘   └─────────────┘
+> ```
+> 现实中绝大多数管理者的日常工作落在**中间的 Overlap Zone** — 同时调用两套能力。
+
+---
+
+**(6) 与变革管理的连接 (§6)**
+
+- 变革**本质上是 Leadership 问题** — 不能只靠管理工具（计划、控制）完成
+- Kotter 8 步法的前几步（紧迫感、联盟、愿景）= **Leadership**；后几步（短期成果、制度化）= **Management**
+- 变革失败的常见原因：**用管理的方式去推领导的任务**（把变革当成一个项目计划来"控制"，而非一场需要激励和对齐的运动）
+
+---
+
+##### C. 权力的来源 (Sources of Power) — French & Raven (1959)
+
+领导力本质上是**运用权力**的过程。权力有 5 种基础：
+
+| 类型 | 来源 | 例子 | 性质 |
+|------|------|------|------|
+| **Legitimate (合法权)** | 职位 | "我是你的经理" | Position |
+| **Reward (奖赏权)** | 控制奖励 | 加薪、晋升 | Position |
+| **Coercive (强制权)** | 控制惩罚 | 罚款、降职、解雇 | Position |
+| **Expert (专家权)** | 知识 / 技能 | "TA 懂行，我听 TA 的" | **Personal** |
+| **Referent (参照权)** | 个人魅力 / 价值认同 | "我想成为像 TA 那样的人" | **Personal** |
+
+> 🔑 **关键洞见**：
+> - **Position power** (前 3 种) ≈ Management 的工具
+> - **Personal power** (Expert + Referent) ≈ Leadership 的工具
+> - 真正的领导者更多依赖 **Personal power** — 即使没有职位也能影响人
+
+---
+
+##### D. 领导力理论的演进 (Evolution of Leadership Theories)
+
+```
+1900s            1940s          1960s            1980s            2000s+
+  │                │              │                │                │
+特质理论    →    行为理论    →    权变理论    →    新型领导力   →    后英雄领导力
+(Trait)        (Behavior)      (Contingency)   (Transformational, (Servant, Authentic,
+                                                Charismatic)       Shared, Adaptive,
+"领导者天生"   "领导者怎么做"  "看情境而定"      "愿景与变革"        Inclusive)
+                                                                  "去中心化、关系导向"
+```
+
+每一代理论都修正前一代的缺陷：
+- **特质 → 行为**：天赋论太宿命，行为可学习
+- **行为 → 权变**：没有一种"最佳"风格，要看情境
+- **权变 → 新型**：仅靠技能不够，需要愿景和情感激励
+- **新型 → 后英雄**：单个英雄领导者过时，需要分布式、伦理、可持续
+
+> 💡 现代趋势：**Leadership ≠ One person**。Shared / Distributed / Collective Leadership 是后英雄时代的核心。
+
+---
+
+##### E. 为什么领导力重要 (Why Leadership Matters)
+
+- **绩效**：Gallup 表明 **manager accounts for 70% of variance in team engagement** — 领导者是组织动机的核心变量
+- **变革**：所有变革管理理论（Lewin, Kotter, ADKAR）都把领导力作为**前提**
+- **不确定性**：在 VUCA (Volatile, Uncertain, Complex, Ambiguous) 环境中，领导力 > 流程
+- **文化**：Schein — 领导者是文化的**创造者** + **传承者** + **改变者**
+
+---
+
+##### F. 与 Motivation 单元的连接 (Bridge to §2)
+
+> 领导力是**经理把 Motivation 理论付诸实践**的关键载体。
+
+| Motivation 概念 | 需要怎样的领导力 |
+|----------------|----------------|
+| Autonomy (SDT, Pink) | **Autonomy-Supportive Leadership** — 给方向不给方法 |
+| Competence + Mastery | **Coaching Leadership** — 反馈 + 成长支持 |
+| Relatedness + Engagement | **Servant Leadership** — 关心人本身 |
+| Purpose | **Transformational Leadership** — 愿景 + 意义 |
+| Voice / Psychological Safety | **Inclusive Leadership** — 邀请、倾听、行动 |
+
+---
+
+##### G. 课堂笔记 / 老师强调 / 讨论
+
+- 老师的定义：
+- 课堂例子：
+- 同学讨论：
+- 我的反思：
+
+---
+
+### 4.1 经典理论 (Classic Theories)
+
+#### 📌 课堂主题：Trait & Behavioural Style Theories
+
+> 这是领导力研究的**前两代**理论 — 分别回答 *"领导者是谁 (who)"* 和 *"领导者做什么 (what they do)"*。
+
+---
+
+#### A. Trait Theories (特质理论) — "Leaders are who they ARE"
+
+> **核心主张**：领导者拥有一些**与生俱来**或稳定的**个人特质**，使他们区别于非领导者。
+> 这是 **"Great Man Theory"（伟人论）** 的学术化延续 —— 对应 Opening Provocation 的 **"Born"** 阵营。
+
+---
+
+##### A0. Great Man Theory (伟人论) — 最早的领导理论
+
+> **起源**：Thomas **Carlyle** (1840s) — *"The history of the world is but the biography of great men."*
+> （世界的历史不过是伟人的传记。）
+
+**核心假设 (Assumptions)：**
+1. **领导者是天生的，不是造就的** (Leaders are **born, not made**)
+2. 伟大领袖在**被需要时自然涌现** — 历史召唤英雄
+3. 领导力是**少数人**与生俱来的天赋 — 普通人无法习得
+4. 这些特质是**普世的** — 放在任何情境都能领导
+
+**典型"伟人"举例：**
+- Napoleon, Lincoln, Churchill, Gandhi, Mandela, Martin Luther King Jr.
+- 商界：Henry Ford, Steve Jobs
+
+**时代背景：**
+- 19 世纪，领导地位多由**贵族 / 男性 / 世袭**垄断 → 看上去"领导力天生"
+- 反映当时的精英主义与性别偏见
+
+**❌ 主要批评 (Critiques)：**
+| 批评 | 说明 |
+|------|------|
+| **性别与阶级偏见** | "Great **Man**" — 默认领导者是男性、上层；忽视女性与平民领袖 |
+| **混淆因果** | 是伟人创造时势，还是**时势造英雄**？(Herbert Spencer 的反驳) |
+| **不可证伪 / 循环论证** | "他成功因为他是伟人；他是伟人因为他成功" |
+| **忽视情境与学习** | 同一个人换个时代/情境可能平庸 |
+| **精英主义** | 否定了领导力可培养 → 与现代 L&D 完全冲突 |
+
+> 💡 **Great Man → Trait Theory 的演进**：
+> 20 世纪学者把"伟人"这个模糊概念**科学化** —— 不再问"谁是伟人"，而是**系统地测量**到底是哪些**可识别的特质 (traits)** 让人成为领导者。于是有了下面的 Stogdill 研究。
+
+**📋 老师 slide 要点 (Trait Approaches — Great Man Theory)：**
+- 领导者**天生**带有**innate qualities（先天特质）**：intelligence（智力）、drive（驱动力）、integrity（正直）、charisma（魅力）
+- **早期焦点**：physical attributes（体貌）、social class（社会阶层）、gender（性别）→ **饱受批评 (heavily critiqued)**
+- **Stogdill (1948)**：**没有普世的领导特质** (no universal leadership traits) — **情境很重要 (context matters)** ⭐ 这是从 Trait 转向 Contingency 的关键转折点
+- **现代复兴 (Modern revival)**：**Big Five** 人格特质能预测**领导涌现 (leadership emergence)**
+  - Openness（开放性）、Conscientiousness（尽责性）、Extraversion（外向性）、Agreeableness（宜人性）、Neuroticism（神经质）—— 记忆缩写 **OCEAN**
+- **Judge et al. (2002)**：**Extraversion = 最强预测因子 (strongest predictor)** ⭐ 关键引用
+
+> 🔑 **注意区分**：Big Five 预测的是 **leadership EMERGENCE（谁会成为/被视为领导者）**，不完全等于 **leadership EFFECTIVENESS（领导得好不好）** —— 两者相关但不同。
+
+**⚠️ 老师 slide — 批评与本土证据：**
+- **Critique（批评）**：
+  - **Ignores situational factors（忽视情境因素）** — 特质论假设"放之四海皆准"，但有效领导高度依赖情境
+  - **Circularity problem（循环论证问题）** — "他是领导因为他有特质；我们知道他有特质因为他是领导" → 逻辑自我循环，难以证伪
+- **🌍 East African evidence（东非证据）**：
+  - **Relational traits（关系型特质）—— Ubuntu warmth（乌班图式的温暖/人情味）—— equally valued（同等被重视）**
+  - 西方特质研究偏重 **agentic traits**（果断、支配、外向）；而东非语境下，**关系性、共情、社群温暖**被视为同等重要的领导特质
+  - 呼应 §2.4 的 **communal loyalty / Ubuntu** —— 领导力的"理想特质"具有**文化相对性 (culturally relative)**，不是普世单一标准
+  - 📌 考点：用东非/Ubuntu 证据**批判西方中心的特质理论** —— 论证 trait 的"普世性"假设站不住脚
+
+---
+
+**(1) 经典特质清单 (Stogdill, 1948 & 1974)**
+
+| 类别 | 代表特质 |
+|------|---------|
+| 能力 (Abilities) | 智力 (Intelligence)、语言流畅、判断力 |
+| 人格 (Personality) | 自信、情绪稳定、外向、支配性、抗压 |
+| 动机 (Motivation) | 成就驱动、责任感、主动性、坚持 |
+| 社交 (Social) | 人际技巧、合作、声望、外交手腕 |
+
+**(2) 现代版本 — Big Five 与领导力**
+
+| Big Five 维度 (OCEAN) | 与领导效能的关系 |
+|--------------|----------------|
+| **Extraversion (外向性)** | ⭐ **最强预测因子** (Judge et al., 2002) — 自信、社交能量 |
+| **Conscientiousness (尽责性)** | ⭐ 强 — 组织、坚持、可靠 |
+| **Openness (开放性)** | ⭐ 强 — 创造力、愿景 |
+| Agreeableness (宜人性) | 弱 / 混合 |
+| Neuroticism (神经质) | 负相关 — 情绪稳定才好 |
+
+> 📌 *Judge, Bono, Ilies & Gerhardt (2002)* 的元分析确立了 Big Five 与领导力的实证关联，其中 **Extraversion** 关联最强。
+
+**(3) 当代延伸**
+- **Emotional Intelligence (EQ, Goleman)** — 自我意识 / 自我调节 / 动机 / 同理心 / 社交技能，被认为是领导力的关键特质
+- **Charisma (魅力)** — 后来发展为 Charismatic Leadership
+
+**(4) 优点 vs 局限**
+
+| ✅ 优点 | ❌ 局限 |
+|--------|--------|
+| 直觉上有道理（确实有些人天生像领导者） | 没有一组特质能**普遍**预测领导成功 |
+| 大量实证支持某些特质相关 | **忽视情境** — 同样特质在不同情境效果不同 |
+| 对**选拔**有用 | **忽视行为/可学习性** — 太宿命 |
+| Big Five / EQ 让它现代复兴 | 因果不清 — 是特质造就领导，还是领导经历塑造特质？ |
+
+> 💡 **结论**：特质**相关但不充分** — 它能提高成为有效领导者的"概率"，但不能保证。研究焦点因此转向**行为**。
+
+---
+
+#### B. Behavioural Style Theories (行为理论) — "Leadership is what leaders DO"
+
+> **核心转向**：与其问领导者**是谁**，不如问他们**做什么** —— 因为行为**可观察、可学习、可训练**（对应 "Made" 阵营）。
+
+**(1) Ohio State Studies (1940s-50s)** — 两个独立维度
+
+| 维度 | 含义 | 高分表现 |
+|------|------|---------|
+| **Initiating Structure (定规/任务导向)** | 组织工作、定义角色、设定目标、明确流程 | 关注**任务**与绩效 |
+| **Consideration (关怀/关系导向)** | 信任、尊重、关心下属福祉、双向沟通 | 关注**人**与关系 |
+
+> 🔑 两个维度**相互独立** — 一个领导者可以同时高 / 同时低 / 一高一低。
+> 研究发现：**高-高 (High Structure + High Consideration)** 通常最有效（但视情境而定）。
+
+**(2) University of Michigan Studies** — 类似的两极
+
+| 取向 | 对应 Ohio State |
+|------|----------------|
+| **Production-oriented (生产导向)** | ≈ Initiating Structure |
+| **Employee-oriented (员工导向)** | ≈ Consideration |
+> Michigan 起初认为两者是**一条线的两端**（非此即彼），后来也承认可并存。
+
+**(3) Blake & Mouton — The Managerial Grid (管理方格, 1964)**
+
+> 把行为理论的两个维度做成 **9×9 坐标方格**（老师强调的两个轴）：
+> - **Y 轴 = Concern for People（关心人）** — 对应 Ohio State 的 Consideration
+> - **X 轴 = Concern for Task（关心任务）**（亦称 Concern for Production）— 对应 Ohio State 的 Initiating Structure
+> - 各从 **1（低）到 9（高）**
+
+**📊 方格可视化（5 种典型风格的定位）：**
+```
+关心人 (People)
+  9 │ (1,9)                          (9,9)
+    │ Country Club ●            ● Team ⭐
+    │ 乡村俱乐部型                团队型(理想)
+    │
+  5 │              (5,5)
+    │            ● Middle-of-road
+    │              中庸型
+    │
+  1 │ (1,1)                          (9,1)
+    │ Impoverished ●           ● Task/Authority
+    │ 贫乏型                      任务型
+    └──────────────────────────────────────────
+      1                  5                  9
+              关心生产/任务 (Production)
+```
+
+| 风格 | 坐标 (生产, 人) | 描述 |
+|------|----------------------|------|
+| **Impoverished (1,1) 贫乏型** | 低, 低 | 放任、最小努力，只求不出错 |
+| **Country Club (1,9) 乡村俱乐部型** | 低, 高 | 重关系、轻任务，氛围好但绩效弱 |
+| **Task / Authority-Compliance (9,1) 任务型** | 高, 低 | 重绩效、轻人，高压控制 |
+| **Middle-of-the-road (5,5) 中庸型** | 中, 中 | 妥协平衡，但两头都不突出 |
+| **Team (9,9) 团队型** ⭐ | 高, 高 | **理想** — 高任务 + 高关系，靠承诺与信任达成卓越 |
+
+> 💡 Blake & Mouton 主张 **(9,9) Team 风格普遍最优** — 这点后来被权变理论挑战（"看情境，未必 9,9 永远最好"）。
+> 💡 记忆法：坐标 **(生产, 人)** —— 第一个数字是任务/生产，第二个是人。例如 **(9,1)** = 高任务低人 = 任务型暴君。
+
+**(4) 行为理论的优点 vs 局限**
+
+| ✅ 优点 | ❌ 局限 |
+|--------|--------|
+| 领导力**可学习** → 培训有意义 | 没找到在**所有**情境都最优的风格 |
+| 两维度框架简洁、影响深远 | 弱化了**情境**变量（→ 催生权变理论） |
+| 把研究从"天生"转向"可发展" | 行为与绩效的关联在实证上不稳定 |
+
+> 💡 **承上启下**：Trait 问"是谁"，Behaviour 问"做什么"，但都假设存在"放之四海皆准"的答案。
+> 下一代 **Contingency / Situational 理论**推翻这个假设 → *"It depends on the situation."*
+
+---
+
+#### C. 课堂笔记 / 老师强调 / 讨论
+- 老师强调的点：
+- 课堂例子：
+- 同学讨论：
+
+---
+
+#### 🛤️ "The Road Less Travelled"（课堂环节 / Slide 标题）
+
+> *待确认这一环节的具体内容 —— 把老师讲的要点发我，我来展开。*
+
+可能的指向（视老师用意而定）：
+- **Robert Frost — "The Road Not Taken"**：关于**选择**与领导者敢走与众不同之路的隐喻 → 连接**真诚领导 / 勇气 / 变革**
+- **M. Scott Peck — *The Road Less Traveled***：关于**自律、成长与直面困难**的经典 → 连接**领导者的自我发展 / Mastery**
+- 也可能是**反思活动 (reflection)** 或**案例**的引子
+
+**我的笔记：**
+- 老师在这一环节讲了什么：
+- 核心信息 / take-away：
+- 与领导力的连接：
+
+---
+
+#### D. Contingency & Situational Theories (权变与情境理论) — "It depends"
+
+> **第三代理论的核心转向**：没有"放之四海皆准"的最佳领导风格。
+> **有效的领导风格取决于情境 (situation)** —— 领导者要么**匹配**情境，要么**调整自己**去适应情境。
+> 直接回应 Stogdill (1948) 的"context matters"。
+
+**🔑 Contingency vs Situational 的细微区别（常考）：**
+| | **Contingency (权变)** | **Situational (情境)** |
+|--|----------------------|----------------------|
+| 核心逻辑 | 领导风格相对**固定** → **匹配**到合适的情境（或改变情境） | 领导者**灵活切换**风格去适应下属/情境 |
+| 代表 | Fiedler | Hersey-Blanchard |
+| 隐喻 | "把对的人放到对的位置" | "同一个人,见人下菜碟" |
+
+---
+
+##### D1. Fiedler's Contingency Model (费德勒权变模型, 1967)
+
+> **第一个**正式的权变理论。
+> ### 核心公式：**Effectiveness = Match( Leader's Style ↔ Situational Favourableness )**
+> 领导效能取决于**领导风格**与**情境有利度**之间的**匹配**。
+
+> 🌟 **老师强调的两个关键命题：**
+> 1. **Style is FIXED（风格是固定的）** → 因此要 **change the SITUATION, not the leader**（改变情境,而非改造领导者）—— 这是 Fiedler 与 Hersey-Blanchard 最大的分歧
+> 2. **被批评为僵化 (Criticised for RIGIDITY)** —— 现实中人其实可以调整风格,把风格当"不可变特质"过于绝对
+
+> ❓ **课堂思考题**：对一个 **Task-oriented（任务导向）** 的领导者 —— 这个情境对他是 **favourable 还是 unfavourable？**
+> → 关键：任务导向者在**极端情境**（非常有利 OR 非常不利）下表现最好；在**中等有利**情境下反而是关系导向者更优。
+> （所以答案取决于把他放进 8 种情境组合中的哪一种 —— 见下方匹配表。）
+
+**(a) 测量领导风格：LPC 量表 (Least Preferred Co-worker)**
+- 让领导者描述他**最不喜欢的同事**
+- **高 LPC**（用较正面的词描述讨厌的人）→ **关系导向 (Relationship-motivated)**
+- **低 LPC**（用很负面的词描述）→ **任务导向 (Task-motivated)**
+- 💡 Fiedler 认为风格是**相对固定的人格特质** → 不易改变 → 所以要**换情境**而非换风格
+
+**(b) 情境有利度的 3 个因素 (Situational Favourableness)：**
+1. **Leader-Member Relations (领导-成员关系)** — 好 / 差（最重要）
+2. **Task Structure (任务结构)** — 高（清晰）/ 低（模糊）
+3. **Position Power (职位权力)** — 强 / 弱
+
+**(c) 匹配结论：**
+| 情境有利度 | 最佳风格 |
+|-----------|---------|
+| **非常有利** (好关系+高结构+强权) | **任务导向 (低 LPC)** |
+| **中等有利** | **关系导向 (高 LPC)** |
+| **非常不利** (差关系+低结构+弱权) | **任务导向 (低 LPC)** |
+
+> 💡 结论形似 U 型：**极端情境（最有利 / 最不利）→ 任务导向最好；中间情境 → 关系导向最好。**
+> ❌ 批评：LPC 量表效度存疑；"风格不可变"假设太僵化。
+
+---
+
+##### D2. Hersey-Blanchard Situational Leadership (情境领导理论, SLII)
+
+> 最实用、最常被企业培训采用。核心：领导风格应随**下属的成熟度 / 准备度 (Readiness / Maturity)** 而变。
+> 呼应 §4.0 的 **Leadership Range** —— 领导者要能在 4 种风格间灵活切换。
+
+> 🌟 **老师强调的核心信息：**
+> - Leader **adapts** style: **Telling → Selling → Participating → Delegating**
+> - 匹配下属 **Readiness (R1 → R4)** = **Ability（能力）+ Willingness（意愿）**
+> - ### ⭐ "**No single best style**" —— 没有唯一最佳风格（这正是整个权变/情境学派的灵魂命题）
+
+**(a) 下属准备度 (Follower Readiness) = 能力 (Ability) × 意愿 (Willingness)**
+
+| 等级 | 能力 | 意愿 | 描述 |
+|------|------|------|------|
+| **R1** | 低 | 低/不安 | 不能也不愿 |
+| **R2** | 低 | 高/有信心 | 不能但愿意 |
+| **R3** | 高 | 低/不安 | 能但不愿/没把握 |
+| **R4** | 高 | 高 | 又能又愿 |
+
+**(b) 对应的 4 种领导风格（依任务行为 × 关系行为）：**
+
+| 风格 | 任务行为 | 关系行为 | 适用 | 一句话 |
+|------|---------|---------|------|--------|
+| **S1 — Telling / Directing (告知)** | 高 | 低 | R1 | "我说,你做" |
+| **S2 — Selling / Coaching (推销/教练)** | 高 | 高 | R2 | "我解释+鼓励" |
+| **S3 — Participating / Supporting (参与/支持)** | 低 | 高 | R3 | "我们一起决定" |
+| **S4 — Delegating (授权)** | 低 | 低 | R4 | "你来负责" |
+
+> 🔑 **匹配口诀**：R1→S1, R2→S2, R3→S3, R4→S4（准备度越高,领导越放手）。
+> 💡 随着下属成长 R1→R4，领导风格应**沿着 S1→S2→S3→S4 演进** —— 这正是"育人"的过程。
+
+**(c) 评价 (Evaluation) — 老师 slide：**
+| ✅ 优点 | ❌ 局限 |
+|--------|--------|
+| **High practical value（实用价值高）** | **Requires accurate follower readiness diagnosis（需要准确诊断下属准备度）** —— 误判 R 级 → 用错风格 |
+| **Widely used（广泛应用于企业培训/管理实践）** | 实证支持有限；"Readiness"难以精确、客观地测量 |
+| 直观、易教、可操作 | 假设下属准备度可清晰分级,现实更模糊 |
+
+> 💡 关键张力：理论很**好用**,但成败全系于领导者能否**准确读懂下属当前的能力与意愿** —— 诊断错了,整个模型就失灵。
+
+---
+
+##### D3. House's Path-Goal Theory (路径-目标理论, 1971)
+
+> 基于**期望理论 (Vroom, 见 §2.3)**：领导者的工作是**扫清路径上的障碍**，帮下属看清"努力→绩效→奖励"的路径,从而提升动机。
+
+> 🌟 **老师强调的金句**：**"Leadership = a motivational design challenge."**
+> （领导力 = 一个**动机设计**的挑战）—— 领导者不是发号施令,而是**设计出能激励人的路径与条件**。
+
+**领导者的 3 件核心工作 (老师 slide)：**
+1. **Clarifies the path to the goal**（澄清通往目标的路径）
+2. **Removes obstacles**（扫除障碍）
+3. **Provides valued rewards**（提供**有价值的**奖励 —— 注意是下属真正在意的回报,呼应 Vroom 的 Valence）
+
+**核心命题**：领导者通过选择合适的行为，**提高下属对目标路径的清晰度与回报预期**。
+
+**4 种领导行为：**
+| 行为 | 含义 | 何时用 |
+|------|------|--------|
+| **Directive (指导型)** | 明确告诉做什么、怎么做 | 任务模糊、下属缺经验 |
+| **Supportive (支持型)** | 关心下属福祉、友善 | 任务枯燥/有压力时 |
+| **Participative (参与型)** | 征询意见、共同决策 | 下属有专业、需投入感 |
+| **Achievement-oriented (成就导向型)** | 设高目标、表达信心 | 下属有能力、追求挑战 |
+
+**两类权变变量 (Contingency Factors)：**
+- **下属特征**：能力、控制点 (locus of control)、需求
+- **环境特征**：任务结构、正式权力系统、工作团队
+
+> 💡 与 §2 动机的连接：Path-Goal 本质上是**领导力 × 动机理论**的结合 —— 领导者通过满足下属需求 + 清晰路径来**激励**。
+
+---
+
+##### D4. Vroom-Yetton-Jago — Normative Decision Model（决策参与模型，选读）
+> 关注**领导该让下属多大程度参与决策** —— 从 Autocratic（独断）到 Consultative（咨询）到 Group（群体共识），依问题性质而定。
+
+---
+
+##### D4.5 🔑 Key Synthesis (权变理论关键综合 — 老师重点)
+
+> 所有权变模型（Fiedler, Hersey-Blanchard, Path-Goal, Vroom-Yetton）**殊途同归**：
+
+1. **No single universal style is always effective.**
+   （没有一种普世风格在任何时候都有效 —— 与 Trait/Behavioural 的"单一最佳"彻底决裂）
+
+2. ### Effectiveness = Fit ( Leader Behaviour × Follower Needs × Context )
+   （领导效能 = **领导行为 × 下属需求 × 情境** 三者的契合）
+
+3. **2030s VUCA 环境**要求的是 **adaptive range（适应性范围）**，而非 **optimised style（单一优化风格）**
+   - 环境变化太快,把一种风格"练到极致"反而脆弱
+   - 真正的优势是**能在多种风格间灵活切换**
+
+4. ### ⭐ Situational Intelligence > Style Preference
+   （**情境智慧 > 风格偏好**）—— 读懂情境、灵活调用的能力,比"我习惯哪种风格"更重要
+
+> 💡 **闭环连接**：这正好呼应 §4.0 的 **Leadership Range**（HBP 2025: 70% L&D 看重更宽的领导范围）—— 权变理论为"为什么 range 比单一风格更重要"提供了理论根基。
+> 💡 **通往现代理论**：但权变理论仍聚焦"风格选择"。下一代（变革型 / 真诚 / 服务型领导）会问更深的问题 —— 不只是"用什么风格",而是"领导者**是谁**、**为何而领导**"。
+
+---
+
+##### D5. 三代理论总览 (Putting It Together)
+
+```
+Trait        →    Behavioural    →    Contingency/Situational
+"是谁"            "做什么"            "看情境"
+(Born)           (Made)             (It depends — match style to context)
+固定特质          可学行为           风格 × 情境 = 效能
+```
+
+> 📝 **考点连接**：
+> - 比较 Fiedler（改情境）vs Hersey-Blanchard（改风格）的根本差异
+> - 用 Situational Leadership 分析"如何带一个 R1 新人成长到 R4"
+> - Path-Goal 如何把领导力与期望理论 (§2.3) 结合
+> - 评价权变理论对 Trait/Behavioural"单一最佳风格"的修正
+
+---
+
+#### E. 课堂笔记 / 老师强调 / 讨论（经典理论部分）
+- 老师强调的点：
+- 课堂例子：
+- 同学讨论：
+
+---
+
+### 4.2 权力与影响 — French & Raven's Power Bases (Power & Influence)
+
+> **课堂主题：** 领导力的底层是**影响力 (influence)**，而影响力来自**权力 (power)**。
+> French & Raven (1959) 提出 5 种（后扩为 6 种）权力基础 —— 理解领导者**凭什么**让人follow。
+
+#### A. 概念辨析：Power vs Influence vs Authority
+
+| 概念 | 定义 | 关系 |
+|------|------|------|
+| **Power (权力)** | **影响他人**的潜在能力 (capacity) | 是"势能" — 可有可不用 |
+| **Influence (影响力)** | 权力的**实际运用** — 真正改变了他人 | 是"动能" — power 的兑现 |
+| **Authority (职权)** | **正式职位**赋予的合法权力 | 只是 power 的一种（=Legitimate） |
+
+> 💡 **关键**：有 authority 不等于有 influence。最好的领导者影响力 **> 其职位赋予的权力**。
+
+---
+
+#### B. French & Raven 的权力基础 (The Power Bases)
+
+| # | 权力基础 | 来源 | 例子 | 性质 | 下属的反应 |
+|---|---------|------|------|------|-----------|
+| 1 | **Legitimate (合法权)** | 正式职位 / 头衔 | "我是你的经理,你得听" | **Position** | Compliance（服从） |
+| 2 | **Reward (奖赏权)** | 控制有价值的奖励 | 加薪、晋升、表扬、好项目 | **Position** | Compliance |
+| 3 | **Coercive (强制权)** | 控制惩罚 | 罚款、降职、解雇、批评 | **Position** | Compliance / 抵触 |
+| 4 | **Expert (专家权)** | 专业知识 / 技能 | "TA 是专家,我信 TA" | **Personal** | **Commitment（承诺）** |
+| 5 | **Referent (参照权)** | 个人魅力 / 认同 / 受尊敬 | "我想像 TA 一样" | **Personal** | **Commitment** |
+| 6 | **Informational Power (信息权)*** | 掌握 / 控制信息 | "只有 TA 知道全局" | 介于两者 | 视情况 |
+
+> *Informational Power 是 Raven 后来 (1965/2008) 补充的第 6 种。
+
+**📖 逐一详解 (Deep Dive per Base — 老师 slide)：**
+
+**① Reward Power（奖赏权）**
+- **定义**：给予**有价值奖励**的能力 —— pay（薪资）、recognition（认可）、promotion（晋升）
+- ⚠️ **有效性的两大限制条件**：
+  1. **Rewards are scarce（奖励稀缺）** —— 没东西可发,权力就空了（如预算冻结、晋升名额有限）
+  2. **Rewards are not valued（奖励不被在意）** —— 发的不是下属真正想要的 → 失效
+- 💡 **连接 Vroom 期望理论 (§2.3)**：奖励的激励力取决于 **Valence（效价）** —— 下属觉得它**有价值**才管用。给一个不在乎钱的人发奖金,激励为零。
+- 💡 只能换来 **Compliance（服从）**,难换 **Commitment（承诺）**；奖励一停,行为也停（呼应外在动机的局限）。
+
+**② Coercive Power（强制权）**
+- **定义**：**惩罚**他人的能力 —— dismissal（解雇）、demotion（降职）、reprimand（训斥/记过）
+- **效果**：**Creates compliance, not commitment** —— 只能逼出表面服从,逼不出真心投入
+- ⚠️ **核心风险**：**Destroys trust over time（长期会摧毁信任）**
+  - 引发恐惧、抵触、隐瞒、报复;员工"安静抗议"（呼应 §2.5 Quiet Quitting / Cracking）
+  - 压制 Voice —— 没人敢说真话
+- 💡 是 Reward 的"镜像"（一个给糖、一个给棒）,但代价更高:奖赏顶多无效,强制会**反噬**
+- 💡 偶尔必要（如安全红线、严重违纪）,但**作为日常领导手段是最差的**;过度使用 = 领导力失败的信号
+
+**③ Legitimate Power（合法权）**
+- **定义**：源自**正式职位 / 层级中的角色**的权威 (authority) —— "因为我是经理/主管,所以我有权"
+- **性质**：**Positional only（纯职位性）** —— 权力属于"那把椅子",不属于坐椅子的人;一旦离职就消失
+- ⚠️ **核心局限**：**Erodes without competence or trust（缺乏能力或信任就会被侵蚀）**
+  - 头衔能让人**短期**服从,但若领导者无能或不可信,合法权迅速失效
+  - 现代知识型/扁平化组织中,"我是老板"越来越不好使 —— 下属要的是能力与信任
+- 💡 与 §4.0 Leadership vs Management 呼应:Legitimate = 最纯粹的 **Management/Position** 权力,但**真正的 Leadership 不能只靠它**
+- 💡 = French & Raven 中的 **Authority** —— 合法权就是"职权"本身
+
+**④ Expert Power（专家权）** 🟢 *Personal Power*
+- **定义**：他人**依赖**的知识、技能与技术专长 (knowledge, skills & technical expertise others depend on)
+- **特点 1 — High influence in knowledge-intensive work（知识密集型工作中影响力极高）**
+  - 在专业组织（科技、医疗、咨询、研发）里,专家权常常**盖过**职位权
+  - 团队会听最懂的人,而不是头衔最大的人
+- **特点 2 — Portable across roles（可跨角色携带）** ⭐
+  - 与 Legitimate（离职即失）相反:专长**跟着人走**,换公司、换岗位都带得走
+  - 这正是 **Personal power** 的核心优势 —— 你**赢得**的,不是别人**给**的
+- 💡 产生 **Commitment（承诺）** 而非 compliance —— 人因信服而追随
+- 💡 连接 §2 **Mastery / Learning as Motivator**:持续学习 = 持续积累专家权 = 持续扩大影响力
+
+**⑤ Referent Power（参照权）** 🟢 *Personal Power*
+- **定义**：他人对领导者的**认同、钦佩与尊重** (personal identification, admiration & respect)
+- **来源**：人格魅力、品格、价值观、以身作则 —— "我想成为像 TA 那样的人"
+- ### ⭐ **Strongest foundation for authentic influence and commitment**
+  （**真诚影响力与承诺的最强根基**）—— 5 种权力中**最深、最持久**的一种
+- 💡 它不靠交易（reward）、不靠恐惧（coercive）、不靠头衔（legitimate）—— 纯粹靠**人格吸引**,因此换来的承诺最真、最稳
+- 💡 连接 §4.3:**Charismatic / Transformational / Authentic Leadership** 的核心都建立在 Referent power 之上
+- ⚠️ 双刃剑:Referent power 若被**无伦理**的领导者掌握（如某些 cult/民粹领袖）,也可能被滥用 → 这正是为何要谈 §E 权力伦理
+
+> ### 🔑 KEY INSIGHT（老师重点）：**Build Expert + Referent Power**
+> 领导者应有意识地**投资**两种 Personal power —— 专长（Expert）+ 人格认同（Referent）—— 而非依赖职位权。
+>
+> 🌍 **East African / Emerging Market 语境：**
+> - **Relational (Referent) power is culturally amplified by Ubuntu values（关系型/参照权被乌班图价值观文化性地放大）**
+> - **Genuine care earns genuine loyalty（真诚的关怀,赢得真诚的忠诚）**
+> - 在强调集体、人情、社群的文化中,领导者的**人格关怀**比西方式的契约/职位权更能凝聚人心
+> - 📌 呼应前文:§2.4 communal loyalty 放大 Affective Commitment + §4.1 trait 部分的 "Ubuntu warmth" —— 三处共同指向**领导力的文化相对性**
+> - 📝 考点:论证"为什么在东非/新兴市场,Referent power 尤其重要" → Ubuntu + 集体主义 + 关系导向
+
+---
+
+#### C. 两大分类：Position Power vs Personal Power（核心区分）
+
+```
+┌──────────────────────────┬──────────────────────────┐
+│   POSITION POWER          │   PERSONAL POWER          │
+│   (来自职位 — 给你的)      │   (来自个人 — 你赢得的)    │
+├──────────────────────────┼──────────────────────────┤
+│  • Legitimate (合法)      │  • Expert (专家)          │
+│  • Reward (奖赏)          │  • Referent (参照)        │
+│  • Coercive (强制)        │                           │
+├──────────────────────────┼──────────────────────────┤
+│  随职位来,随离职走         │  跟着人走,带得走          │
+│  ≈ Management 工具        │  ≈ Leadership 工具        │
+│  产生 Compliance(服从)    │  产生 Commitment(承诺)    │
+└──────────────────────────┴──────────────────────────┘
+```
+
+> 🔑 **关键研究结论 (考点)：**
+> - **Personal power (Expert + Referent)** 与**下属满意度、绩效、承诺**正相关 —— 最有效
+> - **Coercive power** 往往**适得其反** — 引发抵触、恐惧、报复
+> - **Legitimate / Reward** 只能换来 **Compliance（服从）**,换不来 **Commitment（真心投入）**
+> - 优秀领导者更多依赖 **Personal power** —— 即使没有正式头衔也能领导
+
+---
+
+#### D. 从 Power 到 Influence：影响策略 (Influence Tactics)
+
+> 拥有 power 还要会**用** —— Yukl 等总结的常见影响策略：
+
+| 策略 | 含义 | 效果 |
+|------|------|------|
+| **Rational persuasion (理性说服)** | 用逻辑、数据论证 | ⭐ 高 — 最常用最有效 |
+| **Inspirational appeals (感召)** | 诉诸价值观、理想、情感 | ⭐ 高 |
+| **Consultation (协商)** | 邀请参与决策 | ⭐ 高 |
+| **Collaboration (协作)** | 提供资源/帮助 | 高 |
+| Ingratiation (讨好) | 先示好再请求 | 中 |
+| Personal appeals (私人情谊) | 诉诸友谊/忠诚 | 中 |
+| Exchange (交换) | "你帮我,我帮你" | 中 |
+| Legitimating (合法化) | 强调规则/职权 | 低 |
+| Pressure (施压) | 威胁、强求 | 低 — 易反弹 |
+
+> 💡 **最有效的三种**：Rational persuasion + Inspirational appeals + Consultation —— 都偏向 **Personal power**，产生 commitment 而非 compliance。
+
+---
+
+#### E. 权力的伦理面 (Ethics of Power)
+
+- **McClelland 的两种权力动机** (呼应 §2.3)：
+  - **Personalized power（个人化权力）** — 为自己谋利、支配他人 → 危险
+  - **Socialized power（社会化权力）** — 为集体目标服务、赋能他人 → 健康的领导力
+- **Power 腐蚀风险**：*"Power tends to corrupt"* (Acton) — 需要问责机制、自我觉察
+- 连接 §4.3 的 **Servant / Authentic Leadership** —— 它们本质是对"权力为谁服务"的伦理回答
+
+---
+
+#### F. 课堂笔记 / 老师强调 / 讨论
+- 老师强调的点：
+- 课堂例子：
+- 同学讨论：
+
+---
+
+### 4.3 现代理论 (Contemporary Theories)
+
+#### 📌 课堂主题：Transformational Leadership（变革型领导）— Burns & Bass/Avolio
+
+> **第四代理论（"新型领导力"New Leadership）**：从"管理交易"升级到"激励转化"。
+> 领导者不只是交换奖惩,而是**提升下属的动机、价值观与抱负**,让他们超越自我利益、为集体愿景奋斗。
+
+---
+
+#### A. 理论源流 (Origins)
+
+| 学者 | 贡献 |
+|------|------|
+| **James MacGregor Burns (1978)** | 政治学视角首提概念,区分 **Transactional（交易型）vs Transforming（转化型）**领导;认为两者是**光谱两端** |
+| **Bernard Bass (1985)** | 把概念**商业化、可测量化**;提出两者**并非对立,可同时存在**;开发 **MLQ (Multifactor Leadership Questionnaire)** |
+| **Bass & Avolio (1990s)** | 提炼出 **The Four I's（四个 I）** + **Full Range Leadership Model（全范围领导模型）** |
+
+---
+
+#### B. Transactional vs Transformational（核心对比）
+
+| 维度 | **Transactional (交易型)** | **Transformational (变革型)** |
+|------|--------------------------|------------------------------|
+| 基础 | 交换 — "你做事,我给奖励" | 激励 — 提升价值观与愿景 |
+| 诉诸 | 自我利益 (self-interest) | 集体使命 + 更高目标 |
+| 动机类型 | Extrinsic / Controlled | Intrinsic / Autonomous |
+| 下属反应 | Compliance（服从） | **Commitment（承诺）+ 超额努力** |
+| 关注 | 维持现状、达标 | 变革、超越期待 |
+| 连接 §2 | Reward & Punishment | AMP (Autonomy/Mastery/Purpose) |
+
+> 💡 **不是非此即彼**：最好的领导者**两者兼用** —— 用交易型保证基本运转,用变革型激发卓越（见下方 Full Range 模型）。
+
+---
+
+#### C. ⭐ The Four I's（变革型领导的四要素）
+
+> 记忆法:**4 个 I** —— Idealized, Inspirational, Intellectual, Individualized
+
+| # | 要素 | 含义 | 领导者行为 | 连接 |
+|---|------|------|-----------|------|
+| **1. Idealized Influence (理想化影响)** | 做**榜样**,赢得信任与钦佩;"魅力" | 以身作则、坚守价值观、自我牺牲 | = **Referent power** |
+| **2. Inspirational Motivation (感召激励)** | 用**愿景**激发意义与热情 | 描绘动人未来、高期待、乐观 | = Pink 的 **Purpose** |
+| **3. Intellectual Stimulation (智识激发)** | 鼓励**创新**、质疑假设 | 鼓励新思路、容忍试错、欢迎挑战 | = Voice / 创造力 |
+| **4. Individualized Consideration (个性化关怀)** | 像**教练**一样关注每个人 | 个别辅导、倾听、因材施教 | = SDT 的 **Relatedness + Competence** |
+
+> 🔑 4 个 I 共同作用 → 下属产生 **超越期待的努力 (performance beyond expectations)**。
+> 💡 注意 ① Idealized Influence = Referent power,② Inspirational Motivation = Purpose —— 变革型领导本质是 **Personal power + Purpose** 的组合。
+
+**📖 逐一详解 (Deep Dive per I — 老师 slide)：**
+
+**I₁ — Idealized Influence（理想化影响）**
+- **Being a role model（做榜样）** —— 领导者本身就是行走的标准
+- **Living the values（活出价值观）** —— 不是嘴上说,而是身体力行、言行一致
+- **Inspiring trust through integrity（以正直赢得信任）** —— 信任来自品格的一致性
+- **People want to emulate you（人们想效仿你）** —— 这正是 **Referent power** 的精髓
+- 💡 核心机制:领导者通过**自身行为**而非命令来影响 —— "Show, don't tell"
+- 💡 又分两面:**Attributed**（下属归因于你的魅力/品格）+ **Behavioral**（你实际做出的价值观行为）
+
+**I₂ — Inspirational Motivation（感召激励）**
+- **Articulating a compelling vision（清晰描绘动人的愿景）** —— 让人"看见"值得奋斗的未来
+- **High expectations（高期待）** —— 相信团队能做到非凡,并表达出来（皮格马利翁效应:期待塑造表现）
+- **Creating shared meaning and purpose（创造共享的意义与目的）** —— 把工作连到更大的"为什么"
+- 💡 = Pink 的 **Purpose** + Sinek 的 **"Start with Why"** —— 用意义而非奖惩驱动
+- 💡 与 I₁ 的区别:I₁ 是**你是谁**（榜样/品格）,I₂ 是**你描绘什么**（愿景/意义）
+- 💡 连接 §2 Engagement:Meaningfulness 是 Kahn 敬业三前提之一 —— I₂ 直接供给它
+
+**I₃ — Intellectual Stimulation（智识激发）**
+- **Encouraging innovation & creativity（鼓励创新与创造力）** —— 激发下属用新角度思考
+- **Challenging assumptions（挑战既有假设）** —— 鼓励质疑现状、问"为什么一定要这样做？"
+- **Welcoming new ideas & problem-solving（欢迎新想法、共同解决问题）** —— 把下属当思考伙伴
+- **Tolerating mistakes（容忍试错）** —— 创新需要犯错的安全空间;不公开批评失误
+- 💡 连接 §2.5 **Employee Voice + Psychological Safety**:智识激发只有在"敢说话"的环境才成立
+- 💡 连接 §2.6 **Learning as Motivator**:把团队变成持续学习、敢于试验的组织
+- 💡 区别:I₂ 给**方向**（愿景）,I₃ 给**思考自由**（怎么走由你想）
+- 📝 *（老师 slide 原文待补 —— 如有具体措辞发我替换）*
+
+**I₄ — Individualized Consideration（个性化关怀）**
+- **Acting as coach & mentor（扮演教练与导师）** —— 关注每个人的成长,而非一刀切
+- **Listening & attending to individual needs（倾听并回应个体需求）** —— 因材施教,看见"人"而非"工号"
+- **Delegating to develop（通过授权培养人）** —— 给成长性的任务,而非只压活
+- **Recognizing individual differences（尊重个体差异）** —— 不同人需要不同支持
+- 💡 = SDT 的 **Relatedness（被关心）+ Competence（被培养）**
+- 💡 与 Hersey-Blanchard 呼应:针对不同 Readiness 的下属给不同支持 —— I₄ 是变革型版的"因人而异"
+- 💡 连接 §4.2 East African / Ubuntu:**genuine care earns genuine loyalty** —— I₄ 在关系导向文化中尤其有力
+- 📝 *（老师 slide 原文待补 —— 如有具体措辞发我替换）*
+
+---
+
+#### D. Full Range Leadership Model（全范围领导模型）
+
+从**最被动无效** → **最主动有效**：
+
+```
+Laissez-Faire  →  Management-by-Exception  →  Contingent Reward  →  The Four I's
+(放任不管)         (例外管理:出问题才介入)      (绩效换奖励)          (变革型)
+└──── 最差 ────┘   └──────── Transactional ────────┘            └ Transformational ┘
+                                                                      最有效 ⭐
+```
+
+- **Laissez-Faire** — 回避决策、不作为（最无效）
+- **Management-by-Exception (被动/主动)** — 只在出错时介入
+- **Contingent Reward** — 交易型核心:达标给奖励（有效但有限）
+- **The Four I's** — 变革型:在交易型基础上**叠加**激励与转化（最有效）
+
+> 💡 优秀领导者 = Contingent Reward（打底）+ Four I's（拔高）。
+
+---
+
+#### E. 评价 (Evaluation)
+
+| ✅ 优点 | ❌ 局限 / 批评 |
+|--------|--------------|
+| 大量实证支持:与绩效、满意度、承诺正相关 | 概念**边界模糊**,4 个 I 有重叠 |
+| 适合**变革 / 不确定**环境(连接 §6) | 可能滑向 **"英雄式/魅力领导"** 的个人崇拜 |
+| 强调愿景与意义,激发内在动机 | **黑暗面**:魅力被无伦理者滥用(→ 需 Authentic Leadership 制衡) |
+| 可培养、可训练(MLQ 可测量) | 偏重高层/愿景,可能忽视日常执行 |
+
+> 📝 **考点**：
+> - 用 Four I's 分析一位你认识的变革型领导者
+> - 比较 Transactional vs Transformational,论证"为何两者都需要"
+> - 变革型领导的"黑暗面"与 Authentic Leadership 如何互补
+
+---
+
+#### F. 课堂笔记 / 老师强调 / 讨论
+- 老师强调的点：
+- 课堂例子（举的领导者）：
+- 同学讨论：
+
+---
+
+#### 后续现代理论（待课堂展开）
+- 服务型领导 (Servant Leadership)：
+- 真诚领导 (Authentic Leadership)：
+- LMX 理论：
+
+### 4.4 课堂讨论 (Discussion Notes)
+
+
+---
+
+## 5. 管理、组织结构与文化 (Management, Structure & Culture)
+
+### 5.0 管理职能、角色与有效性 (Management Functions, Roles & Effectiveness)
+
+#### A. Leadership vs Management
+
+| Leadership | Management |
+|------------|------------|
+| 关注方向、愿景、意义和变革 | 关注职能、角色、资源和执行 |
+| 激励人追随未来状态 | 让复杂工作被协调完成 |
+| 常回答 "Where are we going?" | 常回答 "How do we get work done?" |
+
+> EABL 案例说明：领导力和管理不是二选一。Senator Keg 既需要愿景、社会目的和政治影响，也需要预算、渠道、谈判、危机处理和执行纪律。
+
+#### B. Fayol / POSDCORB
+
+| 职能 | 含义 | EABL / Senator Keg 例子 |
+|------|------|--------------------------|
+| **Planning** | 设定目标和策略 | 2004 年后进行研究、试点低价合法啤酒 |
+| **Organising** | 结构和资源配置 | 建立 keg route-to-market，发展 4,000+ outlets |
+| **Staffing** | 招募、培养、配置人 | 训练 busaa club owners 成为合法经营者 |
+| **Directing** | 领导和激励团队 | Mutahi 每周进入 Kibera 做市场 fieldwork |
+| **Co-ordinating** | 跨部门整合 | 市场、运营、政府关系、战略团队协作 |
+| **Reporting** | 信息和控制系统 | 用健康、税收、销售数据证明项目价值 |
+| **Budgeting** | 财务规划和控制 | 依靠 excise remission 维持 20 shilling 价格点 |
+
+#### C. Mintzberg 的 10 个管理者角色
+
+| 类别 | 角色 | 含义 | EABL 例子 |
+|------|------|------|-----------|
+| Interpersonal | Figurehead | 象征性职责 | 高层代表 EABL 出席公共活动 |
+| Interpersonal | Leader | 激励、配置、辅导 | Kariuki 推动 responsible drinking 与团队责任 |
+| Interpersonal | Liaison | 维护外部网络 | Musyoki 接触 provincial commissioners |
+| Informational | Monitor | 扫描信息 | Mutahi 进入 Kibera 观察消费者和渠道 |
+| Informational | Disseminator | 内部传递信息 | 将市场洞察带回跨功能团队 |
+| Informational | Spokesperson | 对外代表组织 | 向政府说明 Senator 不会蚕食正规市场 |
+| Decisional | Entrepreneur | 发起创新 | $100 manual picnic pump 和新 keg 模式 |
+| Decisional | Disturbance Handler | 危机处理 | 第二次税收上调后的价格/团队危机 |
+| Decisional | Resource Allocator | 分配资源 | Mahinda 争取 Diageo Africa funding |
+| Decisional | Negotiator | 谈判 | 与财政部争取 excise remission |
+
+> 考点：一个管理者会同时扮演多个、甚至互相冲突的角色；新兴市场中外部关系和政治技能尤其重要。
+
+#### D. Drucker: Efficiency vs Effectiveness
+
+| 概念 | 核心问题 | EABL 证据 |
+|------|----------|-----------|
+| **Efficiency** | Doing things right | Keg 比瓶装更低成本；20 shilling price point；渠道成本控制 |
+| **Effectiveness** | Doing the right things | 减少非法酒危害；增加政府税收；恢复消费者尊严；把非法 outlets 正规化 |
+
+> 课堂核心：效率是生存条件，效果是成功基础。2008 年税收上调同时威胁两者：涨价会破坏社会效果；吸收税负会破坏商业效率。
+
+#### E. 管理者实际做什么：经验研究
+
+- **Mintzberg (1973)** - 管理工作节奏快、碎片化、多样，充满人际互动。
+- **Kotter (1982)** - 管理者更多在设定议程、建立网络，而不只是正式计划。
+- **Luthans (1988)** - “successful managers”和“effective managers”不一定相同；成功可能来自 networking 和晋升，效果来自团队绩效与员工满意。
+- **Algorithmic Management** - AI/平台把任务分配、绩效追踪和反馈自动化；好处是速度和一致性，风险是监控、去人性化、责任真空和自主性受损。
+
+### 5.1 组织结构 (Structure)
+- **机械式 vs 有机式：**
+  - Mechanistic：层级清晰、规则强、集中决策；适合稳定环境和标准化任务。
+  - Organic：弹性高、横向沟通、分权；适合不确定环境、创新和复杂问题。
+  - 连接 Session 1：VUCA/AI/政策变化下，组织需要更强 sensing 和 adapting 能力。
+- **矩阵 / 网络 / 扁平 / 学习型组织：**
+  - Matrix：双重汇报，利于资源共享，但容易角色冲突。
+  - Network：依赖外部伙伴和平台，弹性高但控制难。
+  - Flat：层级少，沟通快，但角色边界容易模糊。
+  - Learning organization：持续学习、反馈和系统思考。
+- **Mintzberg 的五种结构：**
+  - Simple structure, Machine bureaucracy, Professional bureaucracy, Divisionalized form, Adhocracy。
+
+### 5.2 组织文化 (Culture)
+- **Schein 文化三层次模型：**
+  - Artifacts - 可见符号、语言、仪式、办公空间。
+  - Espoused values - 组织宣称的价值观和战略。
+  - Basic assumptions - 深层默认假设，最难改变。
+- **Hofstede / GLOBE：**
+  - Power distance, individualism/collectivism, uncertainty avoidance 等维度会影响领导、沟通和冲突处理。
+  - 管理启示：领导有效性具有文化情境性，不能把西方模型原样复制到东非组织。
+- **文化变革 (Culture Change)：**
+  - 不能只改标语；要同时改变领导行为、奖励系统、招聘晋升、故事、仪式和心理安全。
+
+---
+
+## 6. 变革管理 (Managing Change)
+
+### 6.1 为什么变革 (Drivers of Change)
+- **外部驱动：**
+  - 技术：AI、自动化、数字平台、算法管理。
+  - 经济：通胀、汇率、资源稀缺、全球竞争。
+  - 社会：Gen Z、混合工作、目的驱动、人口结构变化。
+  - 政治/法律：监管、税制、选举、制度空缺。
+  - 环境：气候风险、ESG、供应链中断。
+- **内部驱动：**
+  - 绩效下降、结构低效、文化失配、领导更替、员工敬业度下降、战略更新。
+- **课堂整合：**
+  - 变革不是“项目”，而是组织对环境信号的持续翻译和行为调整。
+
+### 6.2 经典变革模型 (Classic Change Models)
+- **Lewin 三阶段模型** (Unfreeze - Change - Refreeze)：
+  - Unfreeze：打破现状，建立变革必要性。
+  - Change：试验新行为、流程和结构。
+  - Refreeze：把新做法制度化。
+- **Kotter 八步法** (Establish Urgency → Anchor in Culture)：
+  1. Establish urgency
+  2. Build guiding coalition
+  3. Form strategic vision and initiatives
+  4. Enlist a volunteer army / communicate the vision
+  5. Enable action by removing barriers
+  6. Generate short-term wins
+  7. Sustain acceleration
+  8. Institute change / anchor in culture
+- **ADKAR 模型** (Awareness, Desire, Knowledge, Ability, Reinforcement)：
+  - 特别适合诊断个体为什么没有改变。
+  - Aware 但没有 Desire：说明认知到位，动机没到位。
+  - Desire 但没有 Knowledge/Ability：说明愿意变，但不会做或做不了。
+  - Ability 后没有 Reinforcement：说明新行为容易回弹。
+- **McKinsey 7S：**
+  - Strategy, Structure, Systems, Shared Values, Skills, Style, Staff。
+  - 用于检查变革是否只改了硬结构，却没有改软系统。
+
+### 6.3 抵制变革 (Resistance to Change)
+- **个体层面原因：**
+  - 习惯、安全感、经济损失、未知恐惧、选择性信息加工、身份威胁。
+- **组织层面原因：**
+  - 结构惯性、群体规范、资源政治、既得利益、文化假设、过往变革失败。
+- **应对策略 (Kotter & Schlesinger)：**
+  - Education & communication
+  - Participation & involvement
+  - Facilitation & support
+  - Negotiation & agreement
+  - Manipulation & co-optation
+  - Explicit/implicit coercion
+
+> 连接 OB：抵制不一定是“不理性”，可能是公平感、信任、身份、能力、心理安全或利益结构的问题。
+
+### 6.4 组织发展 (Organizational Development, OD)
+- **OD 干预措施：**
+  - Survey feedback, team building, process consultation, coaching, appreciative inquiry, intergroup development。
+- **行动研究 (Action Research)：**
+  - Diagnose → Feedback → Plan → Act → Evaluate。
+  - 优点：强调参与和学习，能降低被动抵抗。
+
+### 6.5 持续变革与学习型组织 (Continuous Change & Learning Org)
+- **Senge 五项修炼：**
+  - Personal mastery
+  - Mental models
+  - Shared vision
+  - Team learning
+  - Systems thinking
+- **Anticipatory Management：**
+  - 组织优势来自 temporal advantage：更早感知、更准解释、更快动员。
+  - 与 Session 1 的 Triple Helix 连接：行为理解 + 变革执行 + 未来感知。
+
+---
+
+## 7. 案例分析 (Case Studies)
+
+| # | 案例名称 | 核心议题 | 关键经验 |
+|---|---------|---------|---------|
+| 1 | Safaricom M-PESA | Digital leapfrogging, anticipatory foresight, behavioural design | 成功不是只靠技术，而是降低用户认知摩擦并提前把移动货币视为基础设施 |
+| 2 | Diageo & EABL: Senator Keg | 管理职能、Mintzberg 角色、效率 vs 效果、社会创新 | 管理者要在政治、经济、社会约束中同时恢复商业效率和社会效果 |
+| 3 | Future Labs: Affordable Housing in Kenya | Scenario planning, power, stakeholders, urban change | 住房不是单纯建设问题，而是政策、融资、信任、土地、社区和政治执行问题 |
+| 4 | 自己组织案例 | 个人作业/课堂反思 | 用 OB 框架诊断一个真实组织问题，避免只描述现象 |
+
+### Case 1 — Safaricom M-PESA
+
+- **背景：** M-PESA 2007 年推出，成为发展中国家最成功的移动金融服务之一。
+- **Behavioural Helix：** 产品降低了用户在贫困和稀缺环境中的 cognitive friction，每一步都尽量减少工作记忆负担。
+- **Adaptive Helix：** Safaricom 从电信服务商转向金融服务基础设施，经历组织能力和监管关系的重大转型。
+- **Anticipatory Helix：** 领导层把 mobile money 看成未来基础设施，而不是普通产品功能。
+- **可用于考试的句子：** M-PESA shows that digital transformation succeeds when technological possibility is translated into behavioural usability and institutional foresight.
+
+### Case 2 — Diageo & EABL / Senator Keg
+
+#### A. 关键人物
+
+| 人物 | 角色 | 案例功能 |
+|------|------|----------|
+| Gerald Mahinda | Group MD, EABL | 授权 Senator 项目，争取高层支持 |
+| Lemmy Mutahi | Marketing Manager, Emerging Brands | 项目负责人，深入 Kibera 做 fieldwork |
+| James Musyoki | GM / Group supply / KBL operations context | 处理运营、许可、危机和政府关系 |
+| Ken Kariuki | Corporate Affairs Director | 政府关系、税收游说、社会责任叙事 |
+| Peter Ndegwa | Strategy Director | 低成本模型设计 |
+
+#### B. 核心矛盾
+
+- 低收入消费者原本饮用非法酒，存在严重健康风险。
+- Senator Keg 用低价、合法、可征税的啤酒替代非法酒。
+- 2008 年政府六个月内两次提高酒类 excise tax，使 20 shilling 价格点受到威胁。
+- 若涨价：消费者可能回到非法酒，社会效果被破坏。
+- 若吸收税负：利润消失，商业效率被破坏。
+
+#### C. 外部约束
+
+| 约束 | 案例表现 | 管理含义 |
+|------|----------|----------|
+| Political | 2007-2008 post-election violence；政府分心；财政部不回应 | 政治技能和利益相关者管理成为管理核心 |
+| Economic | 通胀高企，低收入消费者购买力下降 | 价格点是战略问题，不只是营销问题 |
+| Social | 非法酒死亡、贫困、饮酒污名 | 产品必须同时提供安全、尊严和可及性 |
+
+#### D. Exam Answer Structure
+
+题目示例：Using Mintzberg's managerial roles and Drucker's distinction between efficiency and effectiveness, evaluate James Musyoki's managerial performance in the EABL case.
+
+1. 先列 3 个 Mintzberg 角色：
+   - Negotiator：与财政部/政府争取税收安排。
+   - Liaison：维护 provincial commissioners、Diageo London、地方渠道网络。
+   - Disturbance Handler：面对税收上调、团队疲惫、媒体关注和价格危机。
+2. 再列效率与效果：
+   - Efficiency：低成本 keg 渠道、20 shilling price point、分离正式市场以避免 cannibalisation。
+   - Effectiveness：减少非法酒危害、增加税收、正规化 outlets、维护消费者尊严。
+3. 最后给 volatile environments 的教训：
+   - 在高不确定环境中，管理不是执行 checklist，而是在多重角色、外部约束和利益相关者压力中恢复组织的 effectiveness 与 efficiency。
+
+### Case 3 — Future Labs: Affordable Housing in Kenya, 5-Year Scenarios (2026-2031)
+
+#### A. Current Signal Base
+
+**Known signals / current facts:**
+- Kenya's Boma Yangu platform is the official gateway into the Affordable Housing Programme, supporting registration, savings, project selection and allocation.
+- Boma Yangu presents affordable housing as linked to the constitutional right to accessible and adequate housing.
+- As checked on 17 June 2026, Boma Yangu displayed **128 projects** and **1,190,274+ registered applicants**.
+- The State Department for Housing and Urban Development lists affordable housing, slum upgrading, AHP pipeline, strategic partners and housing regulations/guidelines among its active functions and public resources.
+
+**Source links:**
+- [Boma Yangu - Affordable Housing Program](https://www.bomayangu.go.ke/)
+- [State Department for Housing and Urban Development](https://housingandurban.go.ke/)
+
+#### B. Strategic Question
+
+> **Future Labs prompt:** What could affordable housing in Kenya look like in five years, and what organisational behaviours, power dynamics and change capabilities would determine the outcome?
+
+Time horizon: **2026-2031**
+
+#### C. Key Uncertainties
+
+| Uncertainty | Why it matters |
+|-------------|----------------|
+| **Public trust and legitimacy** | Housing programmes depend on citizens believing allocation, savings, levy use and procurement are fair. |
+| **Delivery capacity** | Units must move from policy promise to serviced land, infrastructure, construction, allocation and occupancy. |
+| **Financing and affordability** | Even "affordable" units may be unreachable if incomes, interest rates, deposits and mortgage terms do not match households. |
+| **Land and infrastructure** | Housing success depends on transport, water, sanitation, schools, jobs and county coordination. |
+| **Political continuity** | Housing projects need multi-year commitment beyond election cycles and cabinet reshuffles. |
+| **Community acceptance** | Relocation, density, slum upgrading and estate redevelopment create winners, losers and resistance. |
+
+#### D. Scenario Matrix
+
+**Two critical axes:**
+- **Y-axis:** Delivery capacity - can Kenya actually deliver completed, serviced, occupied units?
+- **X-axis:** Public trust / legitimacy - do citizens believe the programme is fair, affordable and accountable?
+
+**2x2 Matrix: Kenya Affordable Housing Futures (2026-2031)**
+
+|  | **Low Public Trust / Legitimacy** | **High Public Trust / Legitimacy** |
+|---|----------------------------------|-----------------------------------|
+| **High Delivery Capacity** | **Scenario 2: Islands of Success**<br>Projects are delivered, but trust is uneven. Citizens see some success but suspect elite capture, unfair allocation or regional imbalance. | **Scenario 1: Inclusive Urban Upgrade**<br>Delivery is strong and trusted. Housing is linked to transport, jobs, services and transparent allocation. |
+| **Low Delivery Capacity** | **Scenario 4: Stalled Promise**<br>Projects delay or stall, public confidence drops, and informal settlements continue expanding. | **Scenario 3: Concrete Without Trust**<br>Citizens may support the idea of housing, but weak delivery creates frustration, unmet expectations and change fatigue. |
+
+> Matrix logic: The best future is not simply "more units"; it is **high delivery + high legitimacy**. The worst future is **low delivery + low legitimacy**.
+
+#### E. Four 5-Year Scenarios
+
+| Scenario | What happens by 2031 | OB / Change interpretation | Early warning signals |
+|----------|----------------------|----------------------------|----------------------|
+| **1. Inclusive Urban Upgrade** | Affordable housing delivery improves, allocation is trusted, mixed-income communities emerge, and transport/infrastructure are coordinated. | High trust + high delivery. Change is reinforced by procedural justice, stakeholder engagement and visible short-term wins. | Transparent allocation dashboards, county-national coordination, high occupancy, fewer court disputes, resident satisfaction. |
+| **2. Islands of Success** | Some flagship projects work well, but access remains uneven across counties and income groups. | High delivery + low/uneven trust. Strong project management exists, but politics, information gaps and perceived unfairness limit legitimacy. | Success concentrated in Nairobi/large cities, complaints about allocation, elite capture narratives, uneven county uptake. |
+| **3. Concrete Without Trust** | Citizens still support the housing promise, but slow delivery, weak services or affordability gaps create frustration. | High legitimacy at the idea level, but low implementation capacity. Psychological contract weakens if promises are not converted into lived results. | High registrations but low allocations, long waiting lists, repeated launch ceremonies, frustration on affordability or commute burden. |
+| **4. Stalled Promise** | Delivery slows, projects stall, applicants lose confidence, and informal settlements continue expanding. | Low trust + low capacity. Change fatigue, political conflict, financing gaps and weak implementation create resistance. | Abandoned sites, delayed regulations, contractor disputes, declining registrations, informal housing growth. |
+
+#### F. Power & Politics Lens
+
+| Actor | Power bases | Likely interest |
+|-------|-------------|-----------------|
+| National government | Legitimate, reward, informational | Delivery, political legitimacy, national development narrative |
+| County governments | Legitimate, land/infrastructure control, local networks | Land use, local votes, service delivery, county revenue |
+| Developers / contractors | Expert, reward, informational | Bankable projects, procurement access, predictable regulation |
+| Financiers | Reward, expert | Credit risk, mortgage uptake, stable repayment streams |
+| Citizens / applicants | Collective voice, legitimacy through public pressure | Fair allocation, real affordability, location near livelihoods |
+| Informal settlement residents | Moral legitimacy, collective mobilisation | Security of tenure, no forced displacement, livelihood continuity |
+| Civil society / media | Informational, referent | Transparency, accountability, rights protection |
+
+**Political risk:**
+Affordable housing becomes destructive politics when land, procurement, allocation or information are captured for private gain.
+
+**Constructive politics:**
+Power becomes constructive when national government, counties, developers, communities and financiers align around shared outcomes: safe housing, affordability, dignity, jobs and urban inclusion.
+
+#### G. STEEP-OB Signals
+
+| STEEP | Signal | Behavioural implication |
+|-------|--------|-------------------------|
+| Social | Youthful population, urbanisation, informal settlements | Housing demand rises; fairness and dignity shape trust. |
+| Technological | Digital registration, eCitizen, allocation platforms | Transparency can increase, but digital exclusion and data trust become risks. |
+| Economic | Cost of living, interest rates, construction costs | Affordability gap may widen even if supply increases. |
+| Environmental | Climate risk, flooding, heat, water stress | Housing must include resilient infrastructure, not just units. |
+| Political | Levy debates, elections, county-national coordination | Programme legitimacy depends on procedural justice and communication. |
+
+#### H. Strategy Implications
+
+- Use **procedural justice**: citizens must understand how units are priced, allocated and financed.
+- Build **short-term wins**: completed, occupied, livable projects that people can inspect.
+- Avoid **latent power traps**: do not normalise "affordable" units that are affordable only to middle-income groups.
+- Treat informal settlement residents as stakeholders, not obstacles.
+- Link housing to jobs, transport and services; otherwise units may be physically built but socially ineffective.
+- Track both **efficiency** and **effectiveness**:
+  - Efficiency: units completed, cost per unit, project timelines.
+  - Effectiveness: occupancy, affordability, commute time, resident satisfaction, reduction in unsafe housing.
+
+#### I. Exam / Discussion Sentence
+
+> Affordable housing in Kenya is a Future Labs case because its success depends not only on construction capacity, but on the political management of trust, land, finance, citizen voice and institutional coordination over time.
+
+---
+
+## 8. 阅读笔记 (Readings)
+
+### Reading 1 — *The Real-Life MBA: Your No-BS Guide to Winning the Game, Building a Team, and Growing Your Career*
+- **作者 / 来源**：**Jack Welch & Suzy Welch (2015)** — GE 前 CEO；本书是 2005 年《Winning（赢）》的续作，主打 **"No-BS"（不讲废话）的实战派**建议。
+
+- **全书结构（对应副标题三部分）：**
+  1. **Winning the Game（赢得比赛 — 战略与增长）**
+     - **Growth（增长）是组织一切问题的解药**
+     - "Alignment"：战略、行为、结果三者对齐
+     - 在停滞业务中找突破口，应对数字化与竞争
+  2. **Building a Team（组建团队 — 带人）**
+     - 领导力 = **Energize（激发能量）+ Candor（坦诚）+ Differentiation（区分）**
+     - **20-70-10 法则**：员工分顶尖 20% / 中坚 70% / 落后 10%，区别对待
+     - 怎么招对人、怎么处理"绩效差但人缘好"的难题
+  3. **Growing Your Career（发展事业 — 个人成长）**
+     - 找到热爱的工作、获得晋升、应对烂老板、职业卡住时如何 "un-stuck"
+
+- **核心观点（take-aways）：**
+  - 商业的本质是**增长**，停滞即衰退
+  - 领导者的首要任务是**激发团队能量 + 坦诚反馈**
+  - 绩效管理要敢于**区分**对待，不搞平均主义
+
+- **与课程的联系：**
+  - **§4 领导力** — Energize/Candor 呼应 **Transformational Leadership**（Inspirational Motivation + Idealized Influence）
+  - **§2 动机** — "找到热爱的工作"呼应 Pink 的 **Purpose** 与 SDT 的内在动机
+  - **§3.4 冲突管理** — 处理低绩效者、坦诚反馈直接相关
+  - **§6 变革管理** — "Growth as antidote" 呼应变革的驱动力
+
+- **⚠️ 批判点（适合论述/讨论）：**
+  - Welch 的 **20-70-10 强制排名 (forced ranking)** 学界争议大
+  - 批评：损害**心理安全、协作与内在动机** —— 与本课 §2 (SDT)、§2.5（现代趋势反对零和竞争）、§3.4（制造关系冲突）相悖
+  - 可作为"传统硬派管理 vs 现代以人为本管理"的**对比案例**
+
+- **我的笔记 / 引用页码：**
+  -
+
+### Reading 2 —
+
+- 待补：可放入 EABL HBS case 的详细阅读笔记，建议按“背景-问题-关键人物-理论连接-可引用证据-批判点”整理。
+
+---
+
+## 9. 关键术语速查 (Glossary)
+
+| 术语 | 中文 | 简要定义 |
+|------|------|---------|
+| Organizational Behavior | 组织行为学 | 研究组织中个体、群体和结构如何影响行为与绩效 |
+| Triple Helix of Survival | 生存三螺旋 | OB、变革管理、战略前瞻的整合框架 |
+| Anticipatory Organisation | 前瞻型组织 | 能感知、适应并提前行动的组织 |
+| Hot Spot | 热点/高能合作区 | 合作能量强、愿意投入额外努力的组织环境 |
+| OCEAN | 大五人格 | Openness, Conscientiousness, Extraversion, Agreeableness, Neuroticism |
+| Emotional Intelligence | 情绪智力 | 识别、理解、使用和管理自己及他人情绪的能力 |
+| Cognitive Dissonance | 认知失调 | 信念、态度和行为不一致时产生的不适 |
+| Psychological Safety | 心理安全 | 成员相信发言、犯错、提问不会被惩罚或羞辱 |
+| Motivation | 动机 | 解释努力强度、方向和持久性的心理过程 |
+| Self-Determination Theory | 自我决定理论 | 人需要 autonomy, competence, relatedness 来形成高质量动机 |
+| Organisational Justice | 组织公平 | 分配、程序和互动公平影响态度与行为 |
+| OCB | 组织公民行为 | 超出正式职责、帮助组织和同事的自愿行为 |
+| CWB | 反生产行为 | 损害组织或成员利益的行为 |
+| Functional Conflict | 功能性冲突 | 能改善决策、创新和绩效的建设性冲突 |
+| French & Raven Power Bases | 权力基础 | 合法、奖励、强制、专家、参照等权力来源 |
+| Transformational Leadership | 变革型领导 | 通过愿景、榜样、智力激发和个体关怀提升追随者 |
+| POSDCORB | 管理职能框架 | Planning, Organising, Staffing, Directing, Co-ordinating, Reporting, Budgeting |
+| Mintzberg Managerial Roles | 管理者角色 | 人际、信息、决策三类十个角色 |
+| Efficiency | 效率 | Doing things right，以成本、速度、产出衡量 |
+| Effectiveness | 效果/有效性 | Doing the right things，以价值、影响和目标相关性衡量 |
+| ADKAR | 个体变革模型 | Awareness, Desire, Knowledge, Ability, Reinforcement |
+| Resistance to Change | 变革抵制 | 个体或组织对新行为、新结构、新意义的抗拒 |
+
+---
+
+## 10. 期末复习 (Exam Prep)
+
+### 10.1 重点框架清单
+
+- OB 导论：三层次、frames of reference、Morgan metaphors、Triple Helix、STEEP-linked OB。
+- 个体：OCEAN、EI 两模型、ABC attitudes、cognitive dissonance、perception/attribution biases。
+- 动机：Maslow/ERG/Herzberg/McClelland、SDT、Pink AMP、Expectancy、Equity、Goal-setting。
+- 态度与行为：job satisfaction、commitment、engagement、quiet quitting、job crafting、voice/silence。
+- 公平与行为：organisational justice → attitudes → OCB/CWB。
+- 团队与冲突：Tuckman、psychological safety、conflict views、inverted-U、functional vs dysfunctional conflict。
+- 领导力：trait、behavioural、contingency、French & Raven、transformational leadership。
+- 管理：POSDCORB、Mintzberg 10 roles、Drucker efficiency/effectiveness、Luthans successful vs effective managers。
+- 结构文化：mechanistic vs organic、Schein、Hofstede/GLOBE。
+- 变革：Lewin、Kotter、ADKAR、7S、resistance、learning organisation。
+
+### 10.2 可能的论述题
+
+1. Explain why OB is not “soft” but central to organisational performance. Use the Triple Helix framework.
+2. Compare unitarist, pluralist and radical frames of reference. Apply them to a workplace conflict.
+3. Evaluate the usefulness and risks of personality testing in selection and team building.
+4. Is emotional intelligence simply repackaged personality? Discuss Goleman and Mayer-Salovey-Caruso.
+5. Use SDT and Pink's AMP model to explain why money alone may fail to motivate knowledge workers.
+6. Discuss how organisational justice influences OCB and CWB.
+7. “Conflict should be accepted as a reality and properly managed can be an energising force.” Discuss.
+8. Compare trait, behavioural and contingency theories of leadership. What does each explain well and poorly?
+9. Apply French & Raven's power bases to analyse a manager's influence strategy.
+10. Using Mintzberg and Drucker, evaluate managerial performance in the EABL/Senator Keg case.
+11. Explain how external context shapes managerial work in emerging markets.
+12. Use ADKAR or Kotter to diagnose why a change initiative failed.
+
+### 10.2.1 快速答题模板
+
+**定义型题：**
+1. 定义概念。
+2. 拆 2-3 个关键维度。
+3. 给组织例子。
+4. 说明管理启示。
+
+**比较型题：**
+1. 先给共同问题。
+2. 用表格或段落比较假设、机制、优点、局限。
+3. 给适用情境。
+4. 总结：不是谁绝对正确，而是情境匹配。
+
+**案例型题：**
+1. 先点明核心矛盾。
+2. 选 2-3 个理论框架。
+3. 每个框架必须配案例证据。
+4. 最后给管理教训和批判点。
+
+### 10.3 个人反思 (Personal Reflections)
+
+- 我当前最常扮演的 Mintzberg 角色：
+- 我最容易忽视的 Mintzberg 角色：
+- 我的 OCEAN 特质中最影响管理行为的一项：
+- 我在冲突中更偏向的风格：
+- 我的组织更像哪一个 Morgan metaphor：
+- 我所在团队的 psychological safety 处于什么水平：
+- 下一周我会改变的一个管理行为：
+
+---
+
+## 附录 (Appendix)
+
+- 课程相关资料：
+  - `Session1_OB_Introduction  .pdf`
+  - `MBA8105_Session2_Individual_Personality_EI_Diversity.pdf`
+  - `Session6_Management EABL_v2.pdf`
+  - `EABL.pdf`
+  - `2012-evaluating-uncertain-evidence-with-sir-thomas-bayes-a-note-for-teachers.pdf`
+  - `MBA8105_Notes.html`
