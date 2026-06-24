@@ -353,6 +353,21 @@ the RELATIONSHIP
 - **d)** 双方要么**一开始目标就兼容 (compatible goals)**，要么**愿意投入时间寻找创新方案，同时维系关系** (invest time to find innovative solutions while maintaining relationships)
 - ⭐ 与竞争策略相反：**淡化差异、强调共同点**；思维**长期**，靠**做大蛋糕 (creating value)** 而非分蛋糕
 - **做法** = §3.2 **IBR 四原则**（人/问题分开 · 利益非立场 · 创造选项 · 客观标准）
+- **何时使用协作策略 (When to use)：**
+  - 当**结果与关系都重要**时
+  - 当**双方都愿意**用这种策略时
+  - 当存在**高度的信任、开放与合作** (high degree of trust, openness, and cooperation) 时
+  - **组织内部**：当双方有**共同点 (common ground)**，或共享**同样的客户、客户群、供应商或服务人员**时
+- **🔑 成功协作的关键 (Key to Successful Collaboration)** —— 双方都需承诺做到 3 件事：
+  1. **理解对方的目标与需求** (understand the other party's goals and needs)
+     - 理解他们**为什么想要他们想要的** (understand *why* they want what they want) —— 呼应 Element 2 "Ask Why"
+  2. **提供自由流动的信息**（准确且全面的）(free flow of accurate and comprehensive information)
+     - 确保你**理解对方的议题、问题、优先级与目标**
+     - 💡 与竞争策略相反：竞争**隐藏信息**，协作**共享信息**
+  3. **找到满足双方需求的最佳方案**：
+     - **淡化差异、强调共同点** (minimize differences, emphasize similarities)
+     - **把人格/情绪排除在讨论之外** (keep personalities out of discussion) —— 呼应 Element 1 "人与问题分开"
+     - **在协作的视角下重新定义你的立场**，相信 **"整体可以大于部分之和"** (the whole can be greater than the sum of the parts)
 - ⚠️ **前提条件**：互信 + 时间 + 双方都愿合作 —— 缺一则可能滑向 Compromise 或被竞争者占便宜
 - 💡 被视为**最理想**的策略，但**不是永远可行**（无信任/无时间/对方铁了心竞争时不适用）
 
