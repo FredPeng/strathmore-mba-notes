@@ -4136,7 +4136,30 @@ Use Kotter's early change logic to test the communication plan:
 
 > **关键句：** Participation shifts the psychological meaning of change from "this is being done to us" to "we are helping make this work."
 
-#### J. 小结：Leading Change 的考试句
+#### J. Narrative Leadership：Storytelling as a Change Tool
+
+> **课堂主题：** Storytelling makes abstract change real. Data may convince the mind, but stories help people imagine, feel and act.
+
+**Why Narrative Works**
+
+- Data convinces minds; stories move people to act.
+- Narrative turns change into lived experience: people do not just hear the change; they can picture themselves inside it.
+- A good change story answers four questions: Where are we now? Where are we going? Why does it matter? What is my role?
+- In African storytelling traditions, communal narrative creates shared meaning in ways individual argument often cannot.
+- A leader's role is to tell their own story of change, including uncertainty, because honest vulnerability can build deeper trust.
+
+**Anatomy of a Change Story**
+
+| Story Element | Core Question | Leadership Purpose |
+|---------------|---------------|--------------------|
+| **The Burning Platform** | What crisis, threat or opportunity makes the status quo untenable? | Name the need for change specifically and with evidence. Do not catastrophise; be honest. |
+| **The Promised Land** | What will the future feel like after the change succeeds? | Give a vivid, concrete picture of the future, not only metrics or slogans. |
+| **The Bridge** | What do we do tomorrow? | Translate abstract vision into concrete first steps and personal action. |
+| **The Personal Stake** | Why does the leader care? | Show authentic personal commitment rather than a corporate script. |
+
+> **关键句：** The bridge is where most change stories fail: leaders describe the future but leave people stranded without clear next steps.
+
+#### K. 小结：Leading Change 的考试句
 
 > Leading change requires both the mechanics of management and the mobilisation work of leadership. Plans, systems and training create structure; urgency, coalition, vision, communication and early wins create commitment. Failed change usually reflects weakness in one or both disciplines.
 
