@@ -4049,7 +4049,7 @@ Use Kotter's early change logic to test the communication plan:
 - **Fear of incompetence in the new world:** People may worry that they will not have the skills, confidence or support to succeed after the change.
 - **Past negative change experiences:** Previous failed, painful or unfair change efforts can make employees sceptical before the new change even begins.
 
-**Leadership Response**
+**Leadership Response at Individual Level**
 
 - Listen first.
 - Understand the specific loss behind the resistance.
@@ -4058,6 +4058,22 @@ Use Kotter's early change logic to test the communication plan:
 - Treat resistance as diagnostic information, not merely as disobedience.
 
 > **关键句：** Before leaders try to overcome resistance, they must understand what people believe they are losing.
+
+**Group Sources of Resistance**
+
+- **Group norms that conflict with new behaviours:** The group may have established ways of working that make the new behaviour feel disloyal, strange or risky.
+- **Social pressure to maintain solidarity against change:** Members may privately support the change but publicly resist because the group expects unity.
+- **Perceived threat to group identity or power:** Change may be interpreted as an attack on what the group stands for or on its influence in the organisation.
+- **Coalition of informal leaders opposed to change:** Informal leaders can mobilise resistance faster than formal leaders can communicate policy.
+
+**Leadership Response at Group Level**
+
+- Engage informal leaders directly.
+- Create group-level stakes in success.
+- Give the group a meaningful role in shaping and implementing the change.
+- Shift the group story from "change is being done to us" to "we are helping shape the change."
+
+> **连接 Kotter：** Group resistance often signals a weak guiding coalition. Leaders must work through the group's real influence network, not only through the formal hierarchy.
 
 #### H. 小结：Leading Change 的考试句
 
