@@ -271,9 +271,18 @@ Because these measures multiply, weakness in any one term can collapse the overa
 
 ### The Cost of Change Fatigue
 
-The slide reports that **73% of HR leaders experience significant change fatigue**. Change fatigue is the cumulative exhaustion experienced by employees who face multiple, overlapping change initiatives.
+The slide reports that **73% of HR leaders experience significant change fatigue**. Change fatigue is the cumulative exhaustion experienced by employees who face multiple, overlapping initiatives without recovery time between them (Gartner, 2025).
 
-*The remainder of the slide point is to be added when provided.*
+Fatigue does not necessarily stop change from launching—it stops change from sticking. Exhausted employees may comply on launch day but quietly revert to old practices within weeks.
+
+### Building Organisational Resilience
+
+- **Pace change deliberately:** sequence initiatives and protect recovery time between them
+- **Build adaptive capacity:** distribute leadership and decision-making rather than relying on single points of failure
+- **Embed feedback loops:** surface strain early, before it becomes silent resistance
+- **Protect psychological safety:** enable people to raise concerns instead of quietly disengaging
+
+Organisational resilience is therefore not the ability to impose endless change. It is the capacity to pace, absorb, learn from, and sustain change without exhausting the people responsible for delivering it.
 
 ## Visioneering
 
