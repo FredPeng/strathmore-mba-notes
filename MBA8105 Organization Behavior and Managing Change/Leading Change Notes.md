@@ -245,6 +245,28 @@ A benefits realisation plan makes the value of change explicit by naming each ex
 
 **Key principle:** a change initiative is successful only when ownership, measurement, and benefit delivery continue beyond project closure.
 
+## Evidence-Based Metrics: The Prosci Change Triangle (PCT)
+
+Prosci research argues that successful change requires three interlocking pillars working together around the people experiencing the change. Weakness in any one pillar undermines the other two.
+
+### Three Interlocking Pillars
+
+- **Leadership and Sponsorship:** provide direction, legitimacy, visible commitment, and organisational support
+- **Project Management:** designs and delivers the technical solution, schedule, scope, and resources
+- **Change Management:** prepares, equips, and supports people to adopt the new way of working
+
+**People** sit at the centre of the triangle because organisational results depend on individuals changing how they work.
+
+### Evidence-Based Change Metrics
+
+- **Adoption:** the percentage of the target population that begins using the new way of working
+- **Utilisation:** the percentage that continues using it consistently without reverting to old habits
+- **Proficiency:** how well people use the new way—competence, not merely compliance
+
+**Change ROI = Adoption × Utilisation × Proficiency**
+
+Because these measures multiply, weakness in any one term can collapse the overall result. A technically successful launch creates little value if few people adopt it, use it consistently, or become proficient.
+
 ## Visioneering
 
 **Visioneering = Explanation + Conviction + Action + Determination + Completion**
