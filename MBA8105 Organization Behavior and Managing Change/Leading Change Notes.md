@@ -190,6 +190,52 @@ The change is written into organisational structures, policies, job descriptions
 
 **Embedding progression:** Anchoring connects the change to meaning and results; routinisation turns it into habit; institutionalisation makes it part of the organisational system.
 
+## Sustaining Change
+
+### Reinforcement Theory
+
+According to Skinner, **behaviour that is rewarded is repeated, while behaviour that is ignored or punished is extinguished**. If the new way of working is not visibly recognised and reinforced, the old way quietly returns.
+
+For change leaders, this means that recognition, incentives, feedback, performance measures, and consequences must consistently support the desired behaviour. Organisations undermine change when they announce one expectation but continue rewarding the old way of working.
+
+### Habit Formation
+
+New behaviour becomes durable through a repeating habit loop:
+
+**Cue → Routine → Reward**
+
+- **Cue:** a consistent trigger that prompts the new behaviour
+- **Routine:** the new action or way of working that is performed
+- **Reward:** a valued result, recognition, or feedback that reinforces repetition
+
+Through repetition in a stable context, the new behaviour requires less conscious effort and gradually becomes the normal way of working.
+
+## Benefits Realisation: Turning Change into Measurable Value
+
+A benefits realisation plan makes the value of change explicit by naming each expected benefit, assigning its owner, and defining how it will be measured. This allows success to be proven rather than assumed, including after the formal project has closed.
+
+### 1. Define and Baseline
+
+- Name every expected benefit clearly
+- Assign an accountable owner to each benefit
+- Establish a baseline measure before implementation
+- Use the baseline to prove improvement rather than merely claim it
+
+### 2. Track and Measure
+
+- Review benefit metrics against agreed targets on a regular cadence
+- Identify performance shortfalls early
+- Take corrective action while the change still has momentum
+
+### 3. Realise and Sustain
+
+- Transfer ownership from the project team to the business
+- Confirm that the expected benefits have actually been delivered
+- Continue measurement after project handover
+- Prevent realised gains from slipping back over time
+
+**Key principle:** a change initiative is successful only when ownership, measurement, and benefit delivery continue beyond project closure.
+
 ## Visioneering
 
 **Visioneering = Explanation + Conviction + Action + Determination + Completion**
