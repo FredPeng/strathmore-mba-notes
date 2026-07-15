@@ -210,6 +210,15 @@ New behaviour becomes durable through a repeating habit loop:
 
 Through repetition in a stable context, the new behaviour requires less conscious effort and gradually becomes the normal way of working.
 
+### Accountability Systems
+
+- **Performance metrics and appraisal criteria:** rewrite them to measure and reward the new behaviour rather than the old one
+- **Visible sponsorship:** leaders model the new behaviour publicly and consistently, not only through memos or announcements
+- **Recognition and consequences:** celebrate early adopters and attach a real cost to reverting to the old way
+- **Regular check-ins and dashboards:** keep the change visible long after the formal launch date has passed
+
+Accountability makes reinforcement systematic. It aligns what leaders say, what employees see, what the organisation measures, and what it rewards or penalises.
+
 ## Benefits Realisation: Turning Change into Measurable Value
 
 A benefits realisation plan makes the value of change explicit by naming each expected benefit, assigning its owner, and defining how it will be measured. This allows success to be proven rather than assumed, including after the formal project has closed.
