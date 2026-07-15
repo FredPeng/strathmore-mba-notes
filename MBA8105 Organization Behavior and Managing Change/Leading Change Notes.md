@@ -332,3 +332,17 @@ Across 13 sessions, the course has examined the individual, the team, the organi
 1. **Strengths:** use evidence from the course to explain what you already do well as a change agent
 2. **Growth Areas:** identify which implementation factor—technical, political, cultural, or human—you find hardest to manage
 3. **Personal Commitments:** specify the behaviours you will change from Monday and explain how you will hold yourself accountable
+
+## Closing Summary: From the Individual to the Institution
+
+The course began with the individual and ends with the organisation as a whole—able to plan, lead, implement, and embed change that lasts.
+
+- Implementation succeeds or fails on technical, political, cultural, and human readiness—not on the plan alone
+- Change sticks through anchoring, routinisation, and institutionalisation—not through a single launch event
+- Reinforcement, habit, and accountability systems turn compliance into durable behaviour
+- Resilient organisations pace change deliberately and protect people from cumulative fatigue
+
+## What Comes Next
+
+- **Study Week:** 20-25 July 2026 — self-directed revision; review all focus sessions
+- **Final Examination:** Wednesday, 29 July 2026, 6:00-9:00 p.m., UAP Room
