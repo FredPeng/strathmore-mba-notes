@@ -346,3 +346,22 @@ The course began with the individual and ends with the organisation as a whole�
 
 - **Study Week:** 20-25 July 2026 — self-directed revision; review all focus sessions
 - **Final Examination:** Wednesday, 29 July 2026, 6:00-9:00 p.m., UAP Room
+
+## Lecturer's Latest Exam Focus
+
+- Understand what it takes to lead people through change
+- Give particular attention to today's material on anchoring and embedding change
+- Expect scenario-based questions on the implications of organisational behaviour
+- Explain how OB concepts manifest in the facts of the scenario rather than merely defining theories
+- Prepare to apply emotional intelligence
+- Connect **power → change → conflict**, including the role of organisational politics
+- Recognise that conflict cannot be avoided; the managerial task is to understand and manage it constructively
+- Always have a **Plan B**: apply Murphy's Law by anticipating what could go wrong and preparing a contingency
+
+### Recommended Scenario-Answer Method
+
+1. Identify the central organisational or behavioural issue in the scenario
+2. Name the most relevant OB concept or framework
+3. Use specific scenario evidence to show how the concept manifests
+4. Explain the implications for people, teams, leadership, and organisational performance
+5. Recommend practical action, including risks, conflict dynamics, and a contingency plan
