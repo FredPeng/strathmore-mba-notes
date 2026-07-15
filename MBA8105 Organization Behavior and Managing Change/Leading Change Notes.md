@@ -245,6 +245,22 @@ A benefits realisation plan makes the value of change explicit by naming each ex
 
 **Key principle:** a change initiative is successful only when ownership, measurement, and benefit delivery continue beyond project closure.
 
+## Evaluating Change: Where Change Management Meets Project Management
+
+### Evaluate Change at Three Levels
+
+1. **Process:** Was the change implemented as designed—on time, in the correct sequence, and to the intended people?
+2. **Outcome:** Did behaviour actually change? Are people using the new way consistently and proficiently?
+3. **Impact:** Did the change deliver the business result it was intended—and funded—to achieve?
+
+### The Intersection of PM and CM
+
+- **Project Management** delivers the technical solution on time, on budget, and within scope.
+- **Change Management** ensures that people adopt and use the solution.
+- **Return on investment** is realised only at their intersection.
+
+> A solution that nobody uses delivers zero value, however well it was built.
+
 ## Evidence-Based Metrics: The Prosci Change Triangle (PCT)
 
 Prosci research argues that successful change requires three interlocking pillars working together around the people experiencing the change. Weakness in any one pillar undermines the other two.
