@@ -267,6 +267,14 @@ Prosci research argues that successful change requires three interlocking pillar
 
 Because these measures multiply, weakness in any one term can collapse the overall result. A technically successful launch creates little value if few people adopt it, use it consistently, or become proficient.
 
+## Resilient Organisations and Change Fatigue
+
+### The Cost of Change Fatigue
+
+The slide reports that **73% of HR leaders experience significant change fatigue**. Change fatigue is the cumulative exhaustion experienced by employees who face multiple, overlapping change initiatives.
+
+*The remainder of the slide point is to be added when provided.*
+
 ## Visioneering
 
 **Visioneering = Explanation + Conviction + Action + Determination + Completion**
