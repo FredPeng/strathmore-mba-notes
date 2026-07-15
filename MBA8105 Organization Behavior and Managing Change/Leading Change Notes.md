@@ -172,6 +172,24 @@ Launching a change successfully is not the same as sustaining it. Lasting change
 
 Neither implementation approach is automatically superior. Success depends on whether the organisation has aligned the technical, political, cultural, and human conditions with the chosen rollout strategy.
 
+## Embedding Change: Making the New Way the Only Way
+
+Kotter's eighth and final step—**anchor the change in the culture**—is where many change efforts are abandoned before the work is finished. Embedding distinguishes a change that outlives its project sponsor from one that quietly reverses when the project team disbands.
+
+### Anchoring
+
+New behaviours are deliberately connected to visible results and to the organisation's existing values and success stories. People can see that the new way of working contributes to organisational success.
+
+### Routinisation
+
+The new behaviour is repeated until it becomes automatic. It is built into daily workflows, meeting rhythms, and standard operating procedures rather than treated as a special initiative.
+
+### Institutionalisation
+
+The change is written into organisational structures, policies, job descriptions, KPIs, and succession arrangements. It can therefore survive staff turnover and outlast the individuals who originally championed it.
+
+**Embedding progression:** Anchoring connects the change to meaning and results; routinisation turns it into habit; institutionalisation makes it part of the organisational system.
+
 ## Visioneering
 
 **Visioneering = Explanation + Conviction + Action + Determination + Completion**
@@ -190,4 +208,3 @@ A vision has practical value only when it is understood, believed, acted upon, s
 2. Motivation
 3. Direction
 4. Purpose
-
