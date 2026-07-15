@@ -4385,6 +4385,20 @@ Benefits realisation plan 通过明确每项预期收益、责任人以及衡量
 
 > Sustainable change is achieved not when a project goes live, but when new behaviours are anchored to visible results, routinised through everyday work and institutionalised in structures, policies, KPIs and succession systems.
 
+#### M. Capstone：Change Leadership Development Profile
+
+十三次课程分别研究了个人、团队、组织与变革过程。Capstone 要求把这些学习转向自身，反思自己作为 change manager 的能力与下一步行动。
+
+##### Capstone Reflection — 500 Words
+
+> What have you learned about yourself as a manager of change? What will you do differently from Monday?
+
+##### 建议结构
+
+1. **Strengths（优势）：** 使用本课程的具体证据，说明自己作为 change agent 已经做得好的方面；
+2. **Growth Areas（成长领域）：** 指出 technical、political、cultural 或 human 四项实施因素中，自己最难管理的是哪一项；
+3. **Personal Commitments（个人承诺）：** 明确从星期一开始会改变的具体行为，以及将如何保持自我问责。
+
 ---
 
 ## 7. 案例分析 (Case Studies)

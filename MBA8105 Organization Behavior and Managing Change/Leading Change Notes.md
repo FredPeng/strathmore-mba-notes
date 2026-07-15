@@ -318,3 +318,17 @@ A vision has practical value only when it is understood, believed, acted upon, s
 2. Motivation
 3. Direction
 4. Purpose
+
+## Capstone: Change Leadership Development Profile
+
+Across 13 sessions, the course has examined the individual, the team, the organisation, and the change process. The capstone turns that learning inward by asking us to evaluate ourselves as managers of change.
+
+### Capstone Reflection — 500 Words
+
+> What have you learned about yourself as a manager of change? What will you do differently from Monday?
+
+### Suggested Profile Structure
+
+1. **Strengths:** use evidence from the course to explain what you already do well as a change agent
+2. **Growth Areas:** identify which implementation factor—technical, political, cultural, or human—you find hardest to manage
+3. **Personal Commitments:** specify the behaviours you will change from Monday and explain how you will hold yourself accountable
