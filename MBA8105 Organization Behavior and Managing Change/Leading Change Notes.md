@@ -190,6 +190,116 @@ The change is written into organisational structures, policies, job descriptions
 
 **Embedding progression:** Anchoring connects the change to meaning and results; routinisation turns it into habit; institutionalisation makes it part of the organisational system.
 
+## Sustaining Change
+
+### Reinforcement Theory
+
+According to Skinner, **behaviour that is rewarded is repeated, while behaviour that is ignored or punished is extinguished**. If the new way of working is not visibly recognised and reinforced, the old way quietly returns.
+
+For change leaders, this means that recognition, incentives, feedback, performance measures, and consequences must consistently support the desired behaviour. Organisations undermine change when they announce one expectation but continue rewarding the old way of working.
+
+### Habit Formation
+
+New behaviour becomes durable through a repeating habit loop:
+
+**Cue → Routine → Reward**
+
+- **Cue:** a consistent trigger that prompts the new behaviour
+- **Routine:** the new action or way of working that is performed
+- **Reward:** a valued result, recognition, or feedback that reinforces repetition
+
+Through repetition in a stable context, the new behaviour requires less conscious effort and gradually becomes the normal way of working.
+
+### Accountability Systems
+
+- **Performance metrics and appraisal criteria:** rewrite them to measure and reward the new behaviour rather than the old one
+- **Visible sponsorship:** leaders model the new behaviour publicly and consistently, not only through memos or announcements
+- **Recognition and consequences:** celebrate early adopters and attach a real cost to reverting to the old way
+- **Regular check-ins and dashboards:** keep the change visible long after the formal launch date has passed
+
+Accountability makes reinforcement systematic. It aligns what leaders say, what employees see, what the organisation measures, and what it rewards or penalises.
+
+## Benefits Realisation: Turning Change into Measurable Value
+
+A benefits realisation plan makes the value of change explicit by naming each expected benefit, assigning its owner, and defining how it will be measured. This allows success to be proven rather than assumed, including after the formal project has closed.
+
+### 1. Define and Baseline
+
+- Name every expected benefit clearly
+- Assign an accountable owner to each benefit
+- Establish a baseline measure before implementation
+- Use the baseline to prove improvement rather than merely claim it
+
+### 2. Track and Measure
+
+- Review benefit metrics against agreed targets on a regular cadence
+- Identify performance shortfalls early
+- Take corrective action while the change still has momentum
+
+### 3. Realise and Sustain
+
+- Transfer ownership from the project team to the business
+- Confirm that the expected benefits have actually been delivered
+- Continue measurement after project handover
+- Prevent realised gains from slipping back over time
+
+**Key principle:** a change initiative is successful only when ownership, measurement, and benefit delivery continue beyond project closure.
+
+## Evaluating Change: Where Change Management Meets Project Management
+
+### Evaluate Change at Three Levels
+
+1. **Process:** Was the change implemented as designed—on time, in the correct sequence, and to the intended people?
+2. **Outcome:** Did behaviour actually change? Are people using the new way consistently and proficiently?
+3. **Impact:** Did the change deliver the business result it was intended—and funded—to achieve?
+
+### The Intersection of PM and CM
+
+- **Project Management** delivers the technical solution on time, on budget, and within scope.
+- **Change Management** ensures that people adopt and use the solution.
+- **Return on investment** is realised only at their intersection.
+
+> A solution that nobody uses delivers zero value, however well it was built.
+
+## Evidence-Based Metrics: The Prosci Change Triangle (PCT)
+
+Prosci research argues that successful change requires three interlocking pillars working together around the people experiencing the change. Weakness in any one pillar undermines the other two.
+
+### Three Interlocking Pillars
+
+- **Leadership and Sponsorship:** provide direction, legitimacy, visible commitment, and organisational support
+- **Project Management:** designs and delivers the technical solution, schedule, scope, and resources
+- **Change Management:** prepares, equips, and supports people to adopt the new way of working
+
+**People** sit at the centre of the triangle because organisational results depend on individuals changing how they work.
+
+### Evidence-Based Change Metrics
+
+- **Adoption:** the percentage of the target population that begins using the new way of working
+- **Utilisation:** the percentage that continues using it consistently without reverting to old habits
+- **Proficiency:** how well people use the new way—competence, not merely compliance
+
+**Change ROI = Adoption × Utilisation × Proficiency**
+
+Because these measures multiply, weakness in any one term can collapse the overall result. A technically successful launch creates little value if few people adopt it, use it consistently, or become proficient.
+
+## Resilient Organisations and Change Fatigue
+
+### The Cost of Change Fatigue
+
+The slide reports that **73% of HR leaders experience significant change fatigue**. Change fatigue is the cumulative exhaustion experienced by employees who face multiple, overlapping initiatives without recovery time between them (Gartner, 2025).
+
+Fatigue does not necessarily stop change from launching—it stops change from sticking. Exhausted employees may comply on launch day but quietly revert to old practices within weeks.
+
+### Building Organisational Resilience
+
+- **Pace change deliberately:** sequence initiatives and protect recovery time between them
+- **Build adaptive capacity:** distribute leadership and decision-making rather than relying on single points of failure
+- **Embed feedback loops:** surface strain early, before it becomes silent resistance
+- **Protect psychological safety:** enable people to raise concerns instead of quietly disengaging
+
+Organisational resilience is therefore not the ability to impose endless change. It is the capacity to pace, absorb, learn from, and sustain change without exhausting the people responsible for delivering it.
+
 ## Visioneering
 
 **Visioneering = Explanation + Conviction + Action + Determination + Completion**
@@ -208,3 +318,50 @@ A vision has practical value only when it is understood, believed, acted upon, s
 2. Motivation
 3. Direction
 4. Purpose
+
+## Capstone: Change Leadership Development Profile
+
+Across 13 sessions, the course has examined the individual, the team, the organisation, and the change process. The capstone turns that learning inward by asking us to evaluate ourselves as managers of change.
+
+### Capstone Reflection — 500 Words
+
+> What have you learned about yourself as a manager of change? What will you do differently from Monday?
+
+### Suggested Profile Structure
+
+1. **Strengths:** use evidence from the course to explain what you already do well as a change agent
+2. **Growth Areas:** identify which implementation factor—technical, political, cultural, or human—you find hardest to manage
+3. **Personal Commitments:** specify the behaviours you will change from Monday and explain how you will hold yourself accountable
+
+## Closing Summary: From the Individual to the Institution
+
+The course began with the individual and ends with the organisation as a whole—able to plan, lead, implement, and embed change that lasts.
+
+- Implementation succeeds or fails on technical, political, cultural, and human readiness—not on the plan alone
+- Change sticks through anchoring, routinisation, and institutionalisation—not through a single launch event
+- Reinforcement, habit, and accountability systems turn compliance into durable behaviour
+- Resilient organisations pace change deliberately and protect people from cumulative fatigue
+
+## What Comes Next
+
+- **Study Week:** 20-25 July 2026 — self-directed revision; review all focus sessions
+- **Final Examination:** Wednesday, 29 July 2026, 6:00-9:00 p.m., UAP Room
+
+## Lecturer's Latest Exam Focus
+
+- Understand what it takes to lead people through change
+- Give particular attention to today's material on anchoring and embedding change
+- Expect scenario-based questions on the implications of organisational behaviour
+- Explain how OB concepts manifest in the facts of the scenario rather than merely defining theories
+- Prepare to apply emotional intelligence
+- Connect **power → change → conflict**, including the role of organisational politics
+- Recognise that conflict cannot be avoided; the managerial task is to understand and manage it constructively
+- Always have a **Plan B**: apply Murphy's Law by anticipating what could go wrong and preparing a contingency
+
+### Recommended Scenario-Answer Method
+
+1. Identify the central organisational or behavioural issue in the scenario
+2. Name the most relevant OB concept or framework
+3. Use specific scenario evidence to show how the concept manifests
+4. Explain the implications for people, teams, leadership, and organisational performance
+5. Recommend practical action, including risks, conflict dynamics, and a contingency plan
